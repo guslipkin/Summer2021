@@ -26,7 +26,7 @@
 
 2. Which of the following would not be considered a conversion cost by a baking company?
 
-   - Depreciation on oven
+   - **Depreciation on oven**
 
 3. Which of the following positions would have a salary or wage that is classified as a factory overhead cost by a baking company?
 
@@ -223,7 +223,7 @@
    4. Assume that the occupancy rate for June of the prior year was 82%. Has the utilization rate for Jake’s Cabins improved or declined?
       - **Improved**
 
-10. The following information is available for Shanika Company for 20Y6:
+10. The following informa20tion is available for Shanika Company for 20Y6:
 
     | Inventories     | January 1 | December 31 |
     | --------------- | --------- | ----------- |
@@ -298,5 +298,140 @@
          | Total operating expenses                              |               |               | <u>318500</u>     |
          | Net income                                            |               |               | **<u>164840</u>** |
 
+## Homework Exercises
 
+1. Which of the following items are properly classified as part of factory overhead for Ford Motor Company (F), a maker of heavy automobiles and trucks?
 
+   - | Item                                                         | Part of Factory Overhead |
+     | ------------------------------------------------------------ | ------------------------ |
+     | Air conditioner units for installation in vehicles           | **No**                   |
+     | Consultant fees for a study of production line efficiency    | **Yes**                  |
+     | ealership sales incentives                                   | **No**                   |
+     | Depreciation on headquarters building in Dearborn, Michigan  | **No**                   |
+     | Depreciation on mechanical robots used on the assembly line  | **Yes**                  |
+     | Leather to be used on vehicles that have leather interiors   | **No**                   |
+     | Machine lubricant used to maintain the assembly line at the Louisville, Kentucky, assembly plant | **Yes**                  |
+     | Plant manager’s salary at Buffalo, New York, stamping plant, which manufactures auto and truck subassemblies | **Yes**                  |
+     | Property taxes on the Dearborn, Michigan, headquarters building | **No**                   |
+     | Vice president of human resource’s salary                    | **No**                   |
+
+2. From the choices presented in parentheses, choose the appropriate term for completing each of the following sentences:
+
+   - | Sentence                                                     | Appropriate term for completing sentence |
+     | ------------------------------------------------------------ | ---------------------------------------- |
+     | A product, sales territory, department, or activity to which costs are traced is called a (direct cost, cost object). | **cost object**                          |
+     | Advertising costs are usually viewed as (period, product) costs. | **period**                               |
+     | Factory overhead costs combined with direct labor costs are called (prime, conversion) costs. | **conversion**                           |
+     | Feedback is often used to (improve, direct) operations. | **improve**                              |
+     | A sacrifice made to obtain some benefit is a (cost, expense). | **cost**                                 |
+     | The balance sheet of a manufacturer would include an account for (cost of goods sold, work in process inventory). | **work in process inventory**            |
+     | The implementation of automatic, robotic factory equipment normally (increases, decreases) the direct labor component of product costs. | **decreases**                            |
+
+3. From the choices presented in parentheses, choose the appropriate term for completing each of the following sentences:
+
+   - | Sentence                                                     | Appropriate term for completing sentence  |
+     | ------------------------------------------------------------ | ----------------------------------------- |
+     | An example of factory overhead is (electricity used to run assembly line, CEO salary). | **electricity used to run assembly line** |
+     | Direct materials costs combined with direct labor costs are called (prime, conversion) costs. | **prime**                                 |
+     | Long-term plans are called (strategic, operational) plans. | **strategic**                             |
+     | Materials for use in production are called (supplies, materials inventory). | **materials inventory**                   |
+     | The phase of the management process that uses process information to eliminate the source of problems in a process so that the process delivers the correct product in the correct quantities is called (directing, improving). | **improving**                             |
+     | The plant manager’s salary would be considered (direct, indirect) to the product. | **indirect**                              |
+     | The salaries of salespeople are normally considered a (period, product) cost. | **period**                                |
+
+4. The following information is available for Fuller Manufacturing Company for the month ending October 31:
+
+   | Line Item                                   |          |
+   | ------------------------------------------- | -------- |
+   | Cost of direct materials used in production | $129,000 |
+   | Direct labor                                | 154,800  |
+   | Work in process inventory, October 1        | 58,100   |
+   | Work in process inventory, October 31       | 78,700   |
+   | Total factory overhead                      | 71,000   |
+
+   - | Statement of Cost of Goods Manufactured For the Month Ended October 31 |              |                   |
+     | ------------------------------------------------------------ | ------------ | ----------------- |
+     | Work in process inventory, October 1                         |              | 58100             |
+     | Manufacturing costs incurred during October:                 |              |                   |
+     | Cost of direct materials used in production                  | 129000       |                   |
+     | Direct labor                                                 | 154800       |                   |
+     | Factory overhead                                             | <u>71000</u> |                   |
+     | Total manufacturing costs incurred                           |              | <u>354800</u>     |
+     | Total manufacturing costs                                    |              | 412900            |
+     | Work in process inventory, October 31                        |              | <u>78700</u>      |
+     | Cost of goods manufactured                                   |              | **<u>334200</u>** |
+
+## Quiz
+
+1. Factory overhead includes **indirect labor and indirect materials**.
+
+2. Costs other than direct materials cost and direct labor cost incurred in the manufacturing process are classified as **factory overhead cost**.
+
+3. Managers use managerial information for all of the following purposes *except* **to evaluate the company's stock performance**.
+
+4. Indirect costs incurred in a manufacturing environment that cannot be traced directly to a product are treated as **product costs and expensed when the goods are sold**.
+
+5. If the cost of a direct material is a small portion of total production cost, it may be classified as part of **factory overhead cost**.
+
+6. A company manufactured 50,000 units of a product at a cost of \$450,000. It sold 45,000 units at \$15 each. The gross profit is:
+
+   - $(45000*15)-(\frac{450000}{50000}*45000)=270000$
+
+7. Which of the following would be least likely to be considered a managerial accounting report?
+
+   - **statement of stockholders’ equity**
+
+8. Which of the following statements is false?
+
+   - **There is no overlap between financial and managerial accounting.**
+
+9. Jensen Company reports the following:
+
+   | Line Item                 |         |
+   | ------------------------- | ------- |
+   | Direct materials used     | 345,000 |
+   | Direct labor incurred     | 250,000 |
+   | Factory overhead incurred | 400,000 |
+   | Operating expenses        | 175,000 |
+
+   Jensen Company’s period costs are
+
+   - $175000$
+
+10. Which of the following is *not* a prime cost?
+
+    - **plant janitor’s wages**
+
+11. Finished goods inventory is reported on the **balance sheet as a current asset**.
+
+12. In order to be useful to managers, managerial accounting reports should possess all of the following characteristics *except* **be prepared in accordance with generally accepted accounting principles**.
+
+13. Prime costs are **direct materials and direct labor**.
+
+14. On the income statement of a manufacturing company, which of the following replaces purchases in the "Cost of goods sold" section of a retail company?
+
+    - **cost of goods manufactured**
+
+15. Which of the following is part of factory overhead cost?
+
+    - **depreciation of factory equipment and machines**
+
+16. Which of the following accounts will be found on the income statement?
+
+    - **cost of goods sold**
+
+17. Which of the following is the principal reason for preparing managerial accounting reports?
+
+    - **usefulness to management**
+
+18. Which of the following is an example of direct materials cost for an automobile manufacturer?
+
+    - **cost of interior upholstery**
+
+19. Which of the following terms is used to describe the process of developing the organization’s objectives and translating those into courses of action?
+
+    - **planning**
+
+20. Which of the following terms is used to describe the process of monitoring operating results and comparing actual results with the expected results?
+
+    - **controlling**
