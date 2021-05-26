@@ -976,5 +976,529 @@
    
        - **True**
 
+## Quiz
+
+1. Selected accounts with some amounts omitted are as follows
+
+   | Work in Process |                  |        |           |                |         |
+   | --------------- | ---------------- | ------ | --------- | -------------- | ------- |
+   | August 1        | Balance          | 275000 | August 31 | Goods finished | 1030000 |
+   | 31              | Direct materials | X      |           |                |         |
+   | 31              | Direct labor     | 450000 |           |                |         |
+   | 31              | Factory overhead | X      |           |                |         |
+
+   | Factory overhead |                |        |          |         |       |
+   | ---------------- | -------------- | ------ | -------- | ------- | ----- |
+   | August 1-31      | Costs incurred | 145000 | August 1 | Balance | 15000 |
+   |                  |                |        | 31       | Applied | X     |
+
+   If the balance of Work in Process on August 31 is $220,000, what was the amount debited to Work in Process for factory overhead in August, assuming a factory overhead rate of 30% of direct labor costs?
+
+   - Amount debited to Work in Process for factory overhead in August = Direct labor costs × Factory overhead rate = $\$450,000 × 30\% = \$135,000$
+
+2. Journalizing the entry to record the indirect labor costs incurred for general factory use would include a debit to **factory overhead**.
+
+3. At the end of the fiscal year, the balance in Factory Overhead is small. The balance will be **transferred to cost of goods sold**.
+
+4. Reynolds Manufacturers Inc. has estimated total factory overhead costs of $95,000 and expected direct labor hours of 9,500 for the current fiscal year. If Job 117 incurs 2,300 direct labor hours, Work in Process will be debited and Factory Overhead will be credited for
+
+   - Predetermined Factory Overhead Rate = Estimated Total Factory Overhead Costs ÷ Estimated Activity Base = $\frac{\$95,000}{9,500 \textrm{ labor hours}} = \$10 \textrm{ per labor hour}$
+
+5. Journalizing the entry to record a job completed would include a credit to **work in process**.
+
+6. The controlling account for the job cost sheets is **work in process**.
+
+7. When Job 117 was completed, direct materials totaled \$4,400; direct labor, ​\$5,600; and factory overhead, \$2,400. A total of 1,000 units were produced at a per-unit cost of $\frac{4400+5600+2400}{1000}=\$12.40$
+
+8. Journalizing the entry to record jobs shipped and customers billed would include a debit to **cost of goods sold**.
+
+9. Selected accounts with some amounts omitted are as follows
+
+   | Work in Process |                  |        |           |                |         |
+   | --------------- | ---------------- | ------ | --------- | -------------- | ------- |
+   | August 1        | Balance          | 275000 | August 31 | Goods finished | 1030000 |
+   | 31              | Direct materials | X      |           |                |         |
+   | 31              | Direct labor     | 450000 |           |                |         |
+   | 31              | Factory overhead | X      |           |                |         |
+
+   | Factory overhead |                |        |          |                                    |       |
+   | ---------------- | -------------- | ------ | -------- | ---------------------------------- | ----- |
+   | August 1-31      | Costs incurred | 145000 | August 1 | Balance                            | 15000 |
+   |                  |                |        | 31       | Applied (30% of direct labor cost) | X     |
+
+   If the balance of Work in Process on August 31 is $220,000, what was the amount debited to Work in Process for factory overhead in August?
+
+   - Amount debited to Work in Process for direct materials in August = Finished goods + Balance of Work in Process on August 31 – Balance of Work in Process on August 1 – Direct labor – Applied factory overhead = $\$1030000 + \$220000 – \$275000 – \$450000 – (\$450000 × 30\%) = \$390000$
+
+10. Selected accounts with a credit amount omitted are as follows:
+
+    | Work in process |                  |        |          |                |      |
+    | --------------- | ---------------- | ------ | -------- | -------------- | ---- |
+    | April 1         | Balance          | 7000   | April 30 | Goods finished | X    |
+    | 30              | Direct materials | 78400  |          |                |      |
+    | 30              | Direct labor     | 195000 |          |                |      |
+    | 30              | Factory overhead | 136500 |          |                |      |
+
+    | Finished goods |                |        |      |      |      |
+    | -------------- | -------------- | ------ | ---- | ---- | ---- |
+    | April 1        | Balance        | 42000  |      |      |      |
+    | 30             | Goods finished | 387000 |      |      |      |
+
+    What was the balance of Work in Process as of April 30?
+
+    - Balance of Work in Process as of April 30 = Finished goods – Balance of Work in Process on April 1 – Direct materials – Direct labor – Factory overhead = $\$387000 – \$7000 – \$78400 – \$195000 – \$136500 = \$29900$
+
+11. If the amount of factory overhead cost incurred exceeds the amount applied, the factory overhead account will have a **debit balance and be underapplied**.
+
+12. At the end of July, the first month of the current fiscal year, the factory overhead account had a debit balance. Which of the following describes the nature of this balance and how it would be reported on the interim balance sheet?
+
+    - **underapplied, deferred debit**
+
+13. The journal entries to record the cost and sale of a finished good on account are
+
+    - **debit Cost of Goods Sold, credit Finished Goods; debit Accounts Receivable, credit Sales**
+
+14. In a job order cost accounting system, the journal entry to record the flow of direct labor costs into production consists of a **debit to Work in Process and a credit to Wages Payable**.
+
+15. Journalizing the entry to record a job completed would include a debit to **finished goods**.
+
+16. Selected accounts with a credit amount omitted are as follows:
+
+    | Work in process |                  |        |            |                |      |
+    | --------------- | ---------------- | ------ | ---------- | -------------- | ---- |
+    | October 1       | Balance          | 20000  | October 31 | Finished goods | X    |
+    | 31              | Direct materials | 96700  |            |                |      |
+    | 31              | Direct labor     | 201000 |            |                |      |
+    | 31              | Factory overhead | X      |            |                |      |
+
+    | Finished goods |                |        |      |      |      |
+    | -------------- | -------------- | ------ | ---- | ---- | ---- |
+    | October 1      | Balance        | 52000  |      |      |      |
+    | 31             | Goods finished | 360000 |      |      |      |
+
+    If the balance of Work in Process on October 31 is $21,000, what was the amount of factory overhead applied in October?
+
+    - Amount of factory overhead applied in October = Finished goods + Balance of Work in Process on October 31 – Balance of Work in Process on October 1 – Direct materials – Direct labor = $\$360000 + \$21000 – \$20000 – \$96700 – \$201000 = \$63300$
+
+17. A widely used activity base for developing factory overhead rates in highly automated settings is **machine hours**.
+
+18. The finished goods account is the controlling account for the **stock ledger**.
+
+19. Journalizing the entry to record jobs shipped and customers billed would include a credit to **finished goods**.
+
+20. Journalizing the entry to record the application of factory overhead costs to jobs would include a credit to **factory overhead**.
+
+# Chapter 17
+
+## Pre-Lecture Videos
+
+1. Which of the following manufacturers is most likely to use a process cost system?
+
+   - **Sports drink manufacturer**
+
+2. Process and job order cost systems are similar in that both systems
+
+   - **record and summarize product costs**
+   - **classify product costs as direct materials, direct labor, and factory overhead**
+   - **allocate factory overhead costs to products**
+
+3. The first step in preparing a cost of production report is to **determine the units to be assigned costs.**
+
+4. The last step in preparing a cost of production report is to **allocate costs to units transferred out and partially completed units**.
+
+5. The journal entry to recognize depreciation on machinery is **a debit to Factory Overhead and a credit to Accumulated Depreciation**.
+
+6. Which of the following represents the computation of direct materials cost per equivalent unit?
+
+   - **Total direct cost for the period divided by total equivalent units of direct materials.**
+
+7. What is the conversion cost per equivalent unit, when the total conversion cost for the period is \$1,225 and the total units of packaged drinking water produced during the same period is 5,000 gallons (70 percent complete).
+
+   - $\frac{1225}{\frac{5000}{70}*100}=.1715$
+
+8. Rambo-Conduit Corporation manufactures plastic conduit that is used in the cable industry. A conduit is a tube that encircles and protects the underground cable. In the process of making the plastic conduit, called extrusion, the melted plastic (resin) is pressed through a die to form a tube. Scrap is produced in this process. Information from the cost of production reports for three months is as follows, assuming that inventory remains constant:
+
+   |                                        | May      | June      | July      |
+   | -------------------------------------- | -------- | --------- | --------- |
+   | Resin pounds input into the process    | 470,000  | 700,000   | 650,000   |
+   | Price per pound                        | ×$1.50   | ×$1.50    | x\$1.50   |
+   | Plastic material costs                 | $493,000 | $640,000  | \$677,000 |
+   | Conversion costs                       | $80,000  | $120,000  | \$115,000 |
+   | Conduit output from the process (feet) | 800,000  | 1,200,000 | 1,130,000 |
+
+   Assuming that there is one-half pound of resin per foot of the finished product, determine the resin materials cost per foot of finished product for June.
+
+   - $\frac{640000}{1200000}=0.53$
+
+9. Rambo-Conduit Corporation manufactures plastic conduit that is used in the cable industry. A conduit is a tube that encircles and protects the underground cable. In the process of making the plastic conduit, called extrusion, the melted plastic (resin) is pressed through a die to form a tube. Scrap is produced in this process. Information from the cost of production reports for three months is as follows, assuming that inventory remains constant:
+
+   |                                        | May      | June      | July      |
+   | -------------------------------------- | -------- | --------- | --------- |
+   | Resin pounds input into the process    | 470,000  | 700,000   | 650,000   |
+   | Price per pound                        | ×$1.50   | ×$1.50    | x\$1.50   |
+   | Plastic material costs                 | $493,000 | $640,000  | \$677,000 |
+   | Conversion costs                       | $80,000  | $120,000  | \$115,000 |
+   | Conduit output from the process (feet) | 800,000  | 1,200,000 | 1,130,000 |
+
+   Assuming that there is one-half pound of resin per foot of the finished product, determine the conversion cost per foot of finished product for May.
+
+   - $\frac{80000}{800000}=0.10$
+
+10. Under the **average cost** method, all production costs (materials and conversion costs) are combined together for determining equivalent units and cost per equivalent unit.
+
+11. The cost per equivalent unit is determined by dividing the **total production costs** by the **total equivalent units of production**.
+
+## Mini Quiz
+
+1. Conversion costs are comprised of **direct labor and factory overhead.**
+
+2. The journal entry to record applied factory overhead includes a(n) **decrease to Factory Overhead.**
+
+3. The cost of production report may be used for all the following except analyzing the change in **general and administrative costs per equivalent units between periods.**
+
+4. Conversion costs are **one part of a cost of production report that is prepared to show greater detail, including multiple cost categories.**
+
+5. For the month of September, Florida, Inc., incurs a direct materials cost of \$12,000 for 7,500 gallons of strawberry lemonade produced in its Mixing Department. It also incurs conversion costs of ​\$6,000 with 80% completed. If the direct materials cost per equivalent unit was ​\$0.90 in August and the conversion cost per equivalent unit was ​\$1.15 per gallon in August, what is the difference in the direct materials cost per equivalent unit between the two months?
+
+   - **0.10**
+
+6. The cost of production report may include all of the following except **advertising costs**.
+
+7. The last step in preparing a cost of production report is **allocating costs to units transferred out.**
+
+8. Guardino Company manufactures a single product by a continuous process, involving three production departments. The records indicate that direct materials, direct labor, and applied factory overhead for Department 1 were \$100,000, ​\$125,000, and ​\$150,000, respectively. The records further indicate that direct materials, direct labor, and applied factory overhead for Department 2 were \$50,000, ​\$60,000, and ​\$70,000, respectively. In addition, work in process at the beginning of the period for Department 1 totaled ​\$75,000, and work in process at the end of the period totaled \$60,000.
+
+   The journal entry to record the flow of costs into Department 1 during the period for factory overhead is
+
+   - | Department 1     |         |         |
+     | ---------------- | ------- | ------- |
+     | Work in Process  | 150,000 |         |
+     | Factory Overhead |         | 150,000 |
+
+9. If the materials output is less than the materials input into a process, a company may be experiencing **materials losses from waste.**
+
+10. The cost of energy consumed in producing good units in the Canning Department of Mandarin Orange Processing Company was \$10,790 and ​\$5,170 for March and April, respectively. The number of equivalent units produced in March and April was 83,000 and 47,000 liters, respectively. What is the cost of energy for the two months?
+
+    - **\$0.13 and \$0.11 for March and April, respectively**
+
+11. For which of the following businesses would a process cost system be appropriate?
+
+    - **Beverage producer**
+
+12. During the current month, Grey Company sold 60,000 units for \$10 each. Each unit had an equivalent cost of ​\$6 each. The journal entry to record the sale would include which of the following?
+
+    - | Grey Company       |         |         |
+      | ------------------ | ------- | ------- |
+      | Cost of Goods Sold | 360,000 |         |
+      | Finished Goods     |         | 360,000 |
+
+13. The third step in preparing a cost of production report is **determining the cost per equivalent unit of production.**
+
+14. What is the journal entry for the application of Factory Overhead to Work in Process if the driver is imprints, the rate is $1.80 per imprint, and the imprint meter reads 1,780 at the start of the day and 2,890 at the end of the day?
+
+    - | Imprints         |       |       |
+      | ---------------- | ----- | ----- |
+      | Work in Process  | 1,998 |       |
+      | Factory Overhead |       | 1,998 |
+
+15. Libby Company manufactures a single product by a continuous process, involving the production departments. The records indicate that direct materials, direct labor, and applied factory overhead for Department 1 were \$160,000, ​\$125,000, and ​\$150,000, respectively.
+
+    The journal entry to record the cost of direct labor for the period is
+
+    - | Department 1    |         |         |
+      | --------------- | ------- | ------- |
+      | Work in Process | 125,000 |         |
+      | Wages Payable   |         | 125,000 |
+
+## Practice Exercises
+
+1. Which of the following industries would typically use job order costing, and which would typically use process costing?
+
+   - | Industry                       | Designation       |
+     | ------------------------------ | ----------------- |
+     | Steel manufacturing            | Process costing   |
+     | Business consulting            | Job order costing |
+     | Web designer                   | Job order costing |
+     | Computer chip manufacturing    | Process costing   |
+     | Candy making                   | Process costing   |
+     | Designer clothes manufacturing | Job order costing |
+
+2. In October, the cost of materials transferred into the Rolling Department from the Casting Department of Kraus Steel Company is \$3,000,000. The conversion cost for the period in the Rolling Department is ​\$462,600 (​\$275,000 factory overhead applied and ​\$187,600 direct labor). The total cost transferred to Finished Goods for the period was ​\$3,392,400. The Rolling Department had a beginning inventory of ​\$163,800.
+
+   1. Journalize the cost of transferred-in materials. If an amount box does not require an entry, leave it blank.
+
+      - |                           | Debit     | Credit    |
+        | ------------------------- | --------- | --------- |
+        | Work in process - Rolling | 3,000,000 |           |
+        | Work in process - Casting |           | 3,000,000 |
+
+   2. Journalize the conversion costs. If an amount box does not require an entry, leave it blank.
+
+      - |                            | Debit   | Credit  |
+        | -------------------------- | ------- | ------- |
+        | Work in process - Rolling  | 462,600 |         |
+        | Factory overhead - Rolling |         | 275,000 |
+        | Wages payable              |         | 187,600 |
+
+   3. Journalize the costs transferred out to Finished Goods. If an amount box does not require an entry, leave it blank.
+
+      - |                           | Debit   | Credit  |
+        | ------------------------- | ------- | ------- |
+        | Finished Goods            | 3392400 |         |
+        | Work in process - Rolling |         | 3392400 |
+
+   4. Determine the balance of Work in Process—Rolling at the end of the period.
+
+      - $163800+3000000+462600-3392400=234000$
+
+3. Radford Inc. manufactures a sugar product by a continuous process, involving three production departments—Refining, Sifting, and Packing. Assume that records indicate that direct materials, direct labor, and applied factory overhead for the first department, Refining, were \$1,250,000, ​\$660,000, and ​\$975,000, respectively. Also, work in process in the Refining Department at the beginning of the period totaled ​\$328,000, and work in process at the end of the period totaled ​\$295,000.
+
+   1. Journalize the entries to record the flow of costs into the Refining Department during the period for (1) direct materials, (2) direct labor, and (3) factory overhead. If an amount box does not require an entry, leave it blank.
+
+      - | Direct Materials           | Debit   | Credit  |
+        | -------------------------- | ------- | ------- |
+        | Work in process - Refining | 1250000 |         |
+        | Materials                  |         | 1250000 |
+
+      - | Direct Labor               | Debit  | Credit |
+        | -------------------------- | ------ | ------ |
+        | Work in process - Refining | 660000 |        |
+        | Wages payable              |        | 660000 |
+
+      - | Factory Overhead            | Debit  | Credit |
+        | --------------------------- | ------ | ------ |
+        | Work in process - Refining  | 975000 |        |
+        | Factory overhead - Refining |        | 975000 |
+
+   2. Journalize the entry to record the transfer of production costs to the second department, Sifting. If an amount box does not require an entry, leave it blank.
+
+      - |                            | Debit                                         | Credit  |
+        | -------------------------- | --------------------------------------------- | ------- |
+        | Work in process - Sifting  | $328000+1250000+660000+975000-295000=2918000$ |         |
+        | Work in process - Refining |                                               | 2918000 |
+
+4. The Converting Department of Tender Soft Tissue Company uses the weighted average method and had 1,900 units in work in process that were 60% complete at the beginning of the period. During the period, 15,800 units were completed and transferred to the Packing Department. There were 1,200 units in process that were 30% complete at the end of the period.
+
+   1. Determine the number of *whole units* to be accounted for and to be assigned costs for the period.
+      - $15800+1200=17000$
+   2. Determine the number of equivalent units of production for the period. Assume that direct materials are placed in process during production.
+      - $(15800*100\%)+(1200*30\%)=16160$
+
+5. The charges to Work in Process—Baking Department for a period as well as information concerning production are as follows. The Baking Department uses the weighted average method, and all direct materials are placed in process during production.
+
+   | Work in Process  | Units |      |       | To             | Units |
+   | ---------------- | ----- | ---- | ----- | -------------- | ----- |
+   | Balance          | 900   | 40%  | 2466  | Finished Goods | 8100  |
+   | Direct materials | 8400  |      | 34500 |                |       |
+   | Direct labor     |       |      | 16200 |                |       |
+   | Factory overhead |       |      | 8574  |                |       |
+   | Balance          | 1200  | 60%  | ?     |                |       |
+
+   1. Determine the number of *whole units* to be accounted for and to be assigned costs.
+      - 
+   2. Determine the number of equivalent units of production.
+      - 
+   3. Determine the cost per equivalent unit.
+      - 
+   4. Determine the cost of units transferred to Finished Goods.
+      - 
+   5. Determine the cost of units in ending Work in Process.
+      - []
+
+6. Assuming that direct materials are placed in process during production, use the weighted average method with the following data:
+
+   |                                                              | Units | % Completed | Cost   |
+   | ------------------------------------------------------------ | ----- | ----------- | ------ |
+   | Work in process, January 1                                   | 3400  | 75          |        |
+   | Materials added during January from Weaving Department       | 64000 |             | 23000  |
+   | Direct labor for January                                     |       |             | 105100 |
+   | Factory overhead for January                                 |       |             | 80710  |
+   | Goods finished during January (includes goods in process, January 1) | 63500 |             |        |
+   | Work in process, January 31                                  | 3900  | 10          |        |
+
+   Prepare a cost of production report for the Cutting Department of Dalton Carpet Company for January. *If required, round your cost per equivalent unit answer to the nearest cent.*
+
+   - Unit information
+     | Units charged to production:                        |                  |
+     | --------------------------------------------------- | ---------------- |
+     | Inventory in process, January 1                     | 3400             |
+     | Received from Weaving Department                    | <u>64000</u>     |
+     | Total units accounted for by the Cutting Department | **<u>67400</u>** |
+
+     | Units to be assigned costs:              | Whole Units      | Equivalent Units of Production |
+     | ---------------------------------------- | ---------------- | ------------------------------ |
+     | Transferred to finished goods in January | 63500            | 63500                          |
+     | Inventory in process, January 31         | <u>3900</u>      | $3900*10\%=$<u>**390**</u>     |
+     | Total units to be assigned costs         | **<u>67400</u>** | **<u>63890</u>**               |
+
+   - Cost information
+     | Cost per equivalent unit:                     | Costs                                |
+     | --------------------------------------------- | ------------------------------------ |
+     | Total costs for January in Cutting Department | $23000+366200+105100+80710=575010$   |
+     | Total equivalent units                        | <u>63890</u>                         |
+     | Cost per equivalent unit                      | $\frac{575010}{63890}=$ <u>**9**</u> |
+
+     | Costs assigned to production:                       | Costs                                |
+     | --------------------------------------------------- | ------------------------------------ |
+     | Inventory in process, January 1                     | 23000                                |
+     | Costs incurred in January                           | $366200+105100+80710=$ <u>552010</u> |
+     | Total costs accounted for by the Cutting Department | $23000+552010=$ <u>**575010**</u>    |
+     
+     | Costs allocated to completed and partially completed units: | Costs                            |
+     | ----------------------------------------------------------- | -------------------------------- |
+     | Transferred to finished goods in January                    | $63500*9=571500$                 |
+     | Inventory in process, January 31                            | $(3900*10\%)*9=$ <u>3510</u>     |
+     | Total costs assigned by the Cutting Department              | $571500+3510=$ <u>**575010**</u> |
+
+7. Blue Ribbon Flour Company manufactures flour by a series of three processes, beginning in the Milling Department. From the Milling Department, the materials pass through the Sifting and Packaging departments, emerging as packaged refined flour.
+
+   The balance in the account Work in Process—Sifting Department was as follows on May 1:
+   |                                                              | Units | % Completed | Cost  |
+   | ------------------------------------------------------------ | ----- | ----------- | ----- |
+   | Work in proces - Sifting Department                          | 1500  | 75          | 3400  |
+   | The following costs were charged to Work in Process—Sifting Department during May: |       |             |       |
+   | Direct materials transferred from Milling Department:        | 18300 |             | 32600 |
+   | Direct labor                                                 |       |             | 14560 |
+   | Factory overhead                                             |       |             | 7490  |
+
+   During May, 18,000 units of flour were completed and transferred to finished goods. Work in Process—Sifting Department on May 31 was 1,800 units, 75% completed.
+
+   *Required:*
+
+   Prepare a cost of production report for the Sifting Department for May, using the weighted average method. Assume that direct materials are placed in process during production.
+
+   - Unit information
+
+     | Units charged to production:                        |                                |
+     | --------------------------------------------------- | ------------------------------ |
+     | Inventory in process, May 1                         | 1500                           |
+     | Received from Milling Department                    | <u>18300</u>                   |
+     | Total units accounted for by the Sifting Department | $1500+18300=$ <u>**19800**</u> |
+
+     | Units to be assigned costs:              | Whole Units      | Equivalent Units of Production |
+     | ---------------------------------------- | ---------------- | ------------------------------ |
+     | Transferred to finished goods in January | 18000            | 18000                          |
+     | Inventory in process, January 31         | <u>1800</u>      | $1800*75\%=$<u>**1350**</u>    |
+     | Total units to be assigned costs         | **<u>19800</u>** | **<u>19350</u>**               |
+
+   - Cost information
+
+     | Cost per equivalent unit:                 | Costs                               |
+     | ----------------------------------------- | ----------------------------------- |
+     | Total costs for May in Sifting Department | $3400+32600+14560+7490+58050$       |
+     | Total equivalent units                    | <u>19350</u>                        |
+     | Cost per equivalent unit                  | $\frac{58050}{19350}=$ <u>**3**</u> |
+
+     | Costs assigned to production:                       | Costs                           |
+     | --------------------------------------------------- | ------------------------------- |
+     | Inventory in process, January 1                     | 3400                            |
+     | Costs incurred in January                           | $32600+14560+7490$ <u>54560</u> |
+     | Total costs accounted for by the Cutting Department | $3400+54650$ <u>**58050**</u>   |
+
+     | Costs allocated to completed and partially completed units: | Costs                          |
+     | ----------------------------------------------------------- | ------------------------------ |
+     | Transferred to finished goods in January                    | $18000*3=54000$                |
+     | Inventory in process, January 31                            | $(1800*75\%)*3=$ <u>4050</u>   |
+     | Total costs assigned by the Cutting Department              | $54000+4050=$ <u>**58050**</u> |
+
+8. Kraus Steel Company has two departments, Casting and Rolling. In the Rolling Department, ingots from the Casting Department are rolled into steel sheet. The Rolling Department received 4,000 tons from the Casting Department in October. During October, the Rolling Department completed 3,900 tons, including 200 tons of work in process on October 1. The ending work in process inventory on October 31 was 300 tons.
+
+   How many tons were started and completed during October?
+
+   - $3900-200=3700$
+
+9. The Rolling Department of Kraus Steel Company had 200 tons in beginning work in process inventory (60% complete) on October 1. During October, 3,900 tons were completed. The ending work in process inventory on October 31 was 300 tons (25% complete).
+
+   What are the total equivalent units for direct materials for October if materials are added at the beginning of the process?
+
+   - $(3900-200)+(300*100\%)=4000$
+
+10. The Rolling Department of Kraus Steel Company had 200 tons in beginning work in process inventory (60% complete) on October 1. During October, 3,900 tons were completed. The ending work in process inventory on October 31 was 300 tons (25% complete).
+
+    What are the total equivalent units for conversion costs?
+
+    - $3900-(.6*200)+(.25*300)=3855$
+
+11. The cost of direct materials transferred into the Rolling Department of Kraus Company is \$3,000,000. The conversion cost for the period in the Rolling Department is ​\$462,600. The total equivalent units for direct materials and conversion are 4,000 tons and 3,855 tons, respectively.
+
+    Determine the direct materials and conversion costs per equivalent unit.
+
+    - Direct materials cost per equivalent unit: $\frac{3000000}{4000}=750$
+      Conversion cost per equivalent unit: $\frac{462600}{3855}=120$
+
+12. The *costs per equivalent unit* of direct materials and conversion in the Rolling Department of Kraus Steel Company are \$750 and ​\$120, respectively. The equivalent units to be assigned costs are as follows:
+
+    | Equivalent Units –>                    | Direct Materials | Conversion      |
+    | -------------------------------------- | ---------------- | --------------- |
+    | Inventory in process, October 1        | 0                | 80              |
+    | Started and completed during October   | <u>3700</u>      | <u>3700</u>     |
+    | Transferred out of Rolling (Completed) | 3700             | 3780            |
+    | Inventory in process, October 31       | <u>300</u>       | <u>75</u>       |
+    | Total units to be assigned costs       | <u>**4000**</u>  | <u>**3855**</u> |
+
+    The beginning work in process inventory on October 1 had a cost of $163,800. Determine the cost of completed and transferred-out production, the ending work in process inventory, and the total costs assigned by the Rolling Department.
+
+    - Completed and transferred-out production: $(750*3700)+(120*3780)+163800=3392400$
+      Inventory in process, October 31: $(750*300)+(120*75)=234000$
+      Total costs assigned by the Rolling Department: $(750*4000)+(120*3855)+163800=3626400$
+
+13. The costs of materials consumed in producing good units in the Forming Department of Thomas Company were \$76,000 and ​\$77,350 for September and October, respectively. The number of equivalent units produced in September and October was 800 tons and 850 tons, respectively. Evaluate the change in the cost of materials between the two months.
+
+    - Material cost per ton, September: $\frac{76000}{800}=95$
+      Material cost per ton, October: $\frac{77350}{850}=91$
+      The cost of materials **decreased** by $95-91=4$ per ton between September and October
+
+14. *The Hershey Company (HSY)* manufactures chocolate confectionery products. The three largest raw materials are cocoa, sugar, and dehydrated milk. These raw materials first go into the Blending Department. The blended product is then sent to the Molding Department, where the bars of candy are formed. The candy is then sent to the Packing Department, where the bars are wrapped and boxed. The boxed candy is then sent to the distribution center, where it is eventually sold to food brokers and retailers.
+
+    Show the accounts debited and credited for each of the following business events:
+
+    - | Materials used by the Blending Department |                                       |
+      | ----------------------------------------- | ------------------------------------- |
+      | Debit                                     | Work in process - Blending department |
+      | Credit                                    | Materials - Cocoa                     |
+      | Credit                                    | Materials - Sugar                     |
+      | Credit                                    | Materials - Dehydrated milk           |
+
+    - | Transfer or blended product to the Molding Department |                                       |
+      | ----------------------------------------------------- | ------------------------------------- |
+      | Debit                                                 | Work in process - Molding department  |
+      | Credit                                                | Work in process - Blending department |
+
+    - | Transfer of chocolate to the Packing Department |                                      |
+      | ----------------------------------------------- | ------------------------------------ |
+      | Debit                                           | Work in process - Packing department |
+      | Credit                                          | Work in process - Molding department |
+
+    - | Transfer of boxed chocolate to the distribution center |                                      |
+      | ------------------------------------------------------ | ------------------------------------ |
+      | Debit                                                  | Finished goods                       |
+      | Credit                                                 | Work in process - Packing department |
+
+    - | Sale of boxed chocolate |                    |
+      | ----------------------- | ------------------ |
+      | Debit                   | Cost of goods sold |
+      | Credit                  | Finished goods     |
+
+15. *Alcoa Inc. (AA)* is the world's largest producer of aluminum products. One product that Alcoa manufactures is aluminum sheet products for the aerospace industry. The entire output of the Smelting Department is transferred to the Rolling Department. Part of the fully processed goods from the Rolling Department are sold as rolled sheet, and the remainder of the goods are transferred to the Converting Department for further processing into sheared sheet.
+
+    Indicate the flow of costs from the processing department accounts into the finished goods accounts and then into the cost of goods sold account. The relevant accounts are as follows:
+
+    | Accounts                               | Accounts Cont.                        |
+    | -------------------------------------- | ------------------------------------- |
+    | Cost of Goods Sold                     | Finished Goods—Rolled Sheet           |
+    | Materials                              | Finished Goods—Sheared Sheet          |
+    | Factory Overhead—Smelting Department   | Work in Process—Smelting Department   |
+    | Factory Overhead—Rolling Department    | Work in Process—Rolling Department    |
+    | Factory Overhead—Converting Department | Work in Process—Converting Department |
+
+    1. Materials flow to which department?
+       - **Work in process - Smelting department**
+    2. The costs from Factory Overhead-Converting Department flow to which department?
+       - **Work in process - Converting department**
+    3. The costs from Work in process-Smelting Department flow to which department?
+       - **Work in process - Rolling department**
+    4. The costs from Finished Goods-Sheared Sheet flow to which account?
+       - **Cost of goods sold**
+
 
 
