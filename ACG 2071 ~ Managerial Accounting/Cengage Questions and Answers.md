@@ -1295,15 +1295,15 @@
    | Balance          | 1200  | 60%  | ?     |                |       |
 
    1. Determine the number of *whole units* to be accounted for and to be assigned costs.
-      - 
+      - $8100+1200=9300$
    2. Determine the number of equivalent units of production.
-      - 
+      - $8100+(1200*60\%)=8820$
    3. Determine the cost per equivalent unit.
-      - 
+      - $\frac{2466+34500+16200+8574}{8820}=7$
    4. Determine the cost of units transferred to Finished Goods.
-      - 
+      - $8100*7=56700$
    5. Determine the cost of units in ending Work in Process.
-      - []
+      - $1200*60\%*7=5040$
 
 6. Assuming that direct materials are placed in process during production, use the weighted average method with the following data:
 
@@ -1500,5 +1500,65 @@
     4. The costs from Finished Goods-Sheared Sheet flow to which account?
        - **Cost of goods sold**
 
+## Homework Exercises
 
+1. In October, the cost of materials transferred into the Rolling Department from the Casting Department of Kraus Steel Company is \$552,200. The conversion cost for the period in the Rolling Department is \$106,600 (\$64,800 factory overhead applied and \$41,800 direct labor). The total cost transferred to Finished Goods for the period was \$520,000. The Rolling Department had a beginning inventory of ​\$29,800.
+   1. Journalize the cost of transferred-in materials. If an amount box does not require an entry, leave it blank.
+
+      - |                           | Debit  | Credit |
+        | ------------------------- | ------ | ------ |
+        | Work in process - Rolling | 552200 |        |
+        | Work in process - Casting |        | 552200 |
+
+   2. Journalize the conversion costs. If an amount box does not require an entry, leave it blank.
+
+      - |                            | Debit  | Credit |
+        | -------------------------- | ------ | ------ |
+        | Work in process - Rolling  | 106600 |        |
+        | Factory overhead - Rolling |        | 64800  |
+        | Wages payable              |        | 41800  |
+
+   3. Journalize the costs transferred out to Finished Goods. If an amount box does not require an entry, leave it blank.
+
+      - |                           | Debit  | Credit |
+        | ------------------------- | ------ | ------ |
+        | Finished Goods            | 520000 |        |
+        | Work in process - Rolling |        | 520000 |
+
+   4. Determine the balance of Work in Process—Rolling at the end of the period.
+
+      - $29800+552200+106600-520000=168600$
+
+2. Radford Inc. manufactures a sugar product by a continuous process, involving three production departments—Refining, Sifting, and Packing. Assume that records indicate that direct materials, direct labor, and applied factory overhead for the first department, Refining, were \$405,100, \$141,800, and ​\$93,200, respectively. Also, work in process in the Refining Department at the beginning of the period totaled ​\$22,700, and work in process at the end of the period totaled ​\$28,000.
+
+   1. Journalize the entries to record the flow of costs into the Refining Department during the period for (1) direct materials, (2) direct labor, and (3) factory overhead. If an amount box does not require an entry, leave it blank.
+
+      - | Direct Materials           | Debit  | Credit |
+        | -------------------------- | ------ | ------ |
+        | Work in process - Refining | 405100 |        |
+        | Materials                  |        | 405100 |
+
+      - | Direct Labor               | Debit  | Credit |
+        | -------------------------- | ------ | ------ |
+        | Work in process - Refining | 141800 |        |
+        | Wages payable              |        | 141800 |
+
+      - | Factory Overhead            | Debit | Credit |
+        | --------------------------- | ----- | ------ |
+        | Work in process - Refining  | 93200 |        |
+        | Factory overhead - Refining |       | 93200  |
+
+   2. Journalize the entry to record the transfer of production costs to the second department, Sifting. If an amount box does not require an entry, leave it blank.
+
+      - |                            | Debit                                    | Credit |
+        | -------------------------- | ---------------------------------------- | ------ |
+        | Work in process - Sifting  | $22700+405100+141800+93200-28000=634800$ |        |
+        | Work in process - Refining |                                          | 634800 |
+
+3. The Converting Department of Tender Soft Tissue Company uses the weighted average method and had 3,100 units in work in process that were 70% complete at the beginning of the period. During the period, 39,100 units were completed and transferred to the Packing Department. There were 1,700 units in process that were 20% complete at the end of the period.
+
+   1. Determine the number of *whole units* to be accounted for and to be assigned costs for the period.
+      - $39100+1700=40800$
+   2. Determine the number of equivalent units of production for the period. Assume that direct materials are placed in process during production.
+      - $(39100*100\%)+(1700*20\%)=39440$
 
