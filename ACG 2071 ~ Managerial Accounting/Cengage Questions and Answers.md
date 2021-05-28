@@ -739,7 +739,7 @@
               | Cost of goods sold                                    |                         | $\$25.90*460000=$<u>\$11914000</u>        |
               | Gross profit                                          |                         | $18400000-11914000=6486000$               |
               | Selling expenses:                                     |                         |                                           |
-              | Salesperson commissions                               | $20\%*18400000=2680000$ |                                           |
+              | Salesperson commissions                               | $20\%*18400000=3680000$ |                                           |
               | Advertising design                                    | 750000                  |                                           |
               | Advertising expenses                                  | <u>1400000</u>          |                                           |
               | Total selling expenses                                |                         | $3680000+750000+1400000=$<u>\$5830000</u> |
@@ -1378,7 +1378,7 @@
      | Units to be assigned costs:              | Whole Units      | Equivalent Units of Production |
      | ---------------------------------------- | ---------------- | ------------------------------ |
      | Transferred to finished goods in January | 18000            | 18000                          |
-     | Inventory in process, January 31         | <u>1800</u>      | $1800*75\%=$<u>**1350**</u>    |
+     | Inventory in process, May 31             | <u>1800</u>      | $1800*75\%=$<u>**1350**</u>    |
      | Total units to be assigned costs         | **<u>19800</u>** | **<u>19350</u>**               |
 
    - Cost information
@@ -1391,14 +1391,14 @@
 
      | Costs assigned to production:                       | Costs                           |
      | --------------------------------------------------- | ------------------------------- |
-     | Inventory in process, January 1                     | 3400                            |
-     | Costs incurred in January                           | $32600+14560+7490$ <u>54560</u> |
+     | Inventory in process, May 1                         | 3400                            |
+     | Costs incurred in May                               | $32600+14560+7490$ <u>54560</u> |
      | Total costs accounted for by the Cutting Department | $3400+54650$ <u>**58050**</u>   |
 
      | Costs allocated to completed and partially completed units: | Costs                          |
      | ----------------------------------------------------------- | ------------------------------ |
-     | Transferred to finished goods in January                    | $18000*3=54000$                |
-     | Inventory in process, January 31                            | $(1800*75\%)*3=$ <u>4050</u>   |
+     | Transferred to finished goods in May                        | $18000*3=54000$                |
+     | Inventory in process, May 31                                | $(1800*75\%)*3=$ <u>4050</u>   |
      | Total costs assigned by the Cutting Department              | $54000+4050=$ <u>**58050**</u> |
 
 8. Kraus Steel Company has two departments, Casting and Rolling. In the Rolling Department, ingots from the Casting Department are rolled into steel sheet. The Rolling Department received 4,000 tons from the Casting Department in October. During October, the Rolling Department completed 3,900 tons, including 200 tons of work in process on October 1. The ending work in process inventory on October 31 was 300 tons.
@@ -1561,4 +1561,493 @@
       - $39100+1700=40800$
    2. Determine the number of equivalent units of production for the period. Assume that direct materials are placed in process during production.
       - $(39100*100\%)+(1700*20\%)=39440$
+   
+4. The following information concerns production in the Finishing Department for May. The Finishing Department uses the Weighted average method.
+
+   | Date  | Item              | Units | %    | Debit  | Credit | Balance Debit | Balance Credit |
+   | ----- | ----------------- | ----- | ---- | ------ | ------ | ------------- | -------------- |
+   | May 1 | Bal.              | 4200  | 70   |        |        | 36500         |                |
+   | 31    | Direct materials  | 23600 |      | 125800 |        | 162300        |                |
+   | 31    | Direct labor      |       |      | 75400  |        | 237700        |                |
+   | 31    | Factory overhead  |       |      | 82675  |        | 320375        |                |
+   | 31    | Goods transferred | 24700 |      |        | 308750 | 11625         |                |
+   | 31    | Bal               |       | 30   |        |        | 11625         |                |
+
+   1. Determine the number of units in work in process inventory at the end of the month.
+      - $23600+4200-24700=3100$
+   2. Determine the number of *whole units* to be accounted for and to be assigned costs and the equivalent units of production for May. Assume that direct materials are placed in process during production.
+      - Whole units to be accounted for: $4200+23600=27800$
+        Whole units to be assigned costs: $27800$
+        Equivalent units of production: $((4200+23600-24700)*30\%)+24700=25630$
+
+5. The increases to Work in Process—Roasting Department for Highlands Coffee Company for May as well as information concerning production are as follows:
+
+   |                               | Units | % Completed | Cost  |
+   | ----------------------------- | ----- | ----------- | ----- |
+   | Work in proces, May 1         | 1150  | 40          | 1700  |
+   | Coffee beans added during may | 10900 |             | 28600 |
+   | Conversion costs during May   |       |             | 12504 |
+   | Work in process, May 31       | 800   | 80          |       |
+   | Goods finishing during May    | 11250 |             |       |
+
+   Prepare a cost of production report for May, using the Weighted average method. Assume that direct materials are placed in process during production. *If required, round cost per equivalent unit answers to the nearest cent.*
+
+   - Unit information
+
+     | Units charged to production:                         |                                |
+     | ---------------------------------------------------- | ------------------------------ |
+     | Inventory in process, May 1                          | 1150                           |
+     | Received from materials storeroom                    | <u>10900</u>                   |
+     | Total units accounted for by the Roasting Department | $1150+10900=$ <u>**12050**</u> |
+
+     | Units to be assigned costs:          | Whole Units      | Equivalent Units of Production |
+     | ------------------------------------ | ---------------- | ------------------------------ |
+     | Transferred to finished goods in May | 11250            | 11250                          |
+     | Inventory in process, May 31         | <u>800</u>       | $800*80\%=$<u>**640**</u>      |
+     | Total units to be assigned costs     | **<u>12050</u>** | **<u>11890</u>**               |
+
+   - Cost information
+
+     | Cost per equivalent unit:                  | Costs                                 |
+     | ------------------------------------------ | ------------------------------------- |
+     | Total costs for May in Roasting Department | $1700+28600+12504=42804$              |
+     | Total equivalent units                     | <u>11890</u>                          |
+     | Cost per equivalent unit                   | $\frac{42804}{11890}=$ <u>**3.6**</u> |
+
+     | Costs assigned to production:                        | Costs                          |
+     | ---------------------------------------------------- | ------------------------------ |
+     | Inventory in process, May 1                          | 1700                           |
+     | Costs incurred in May                                | $28600+12504=$ <u>41104</u>    |
+     | Total costs accounted for by the Roasting Department | $1700+41104=$ <u>**42804**</u> |
+
+     | Costs allocated to completed and partially completed units: | Costs                          |
+     | ----------------------------------------------------------- | ------------------------------ |
+     | Transferred to finished goods in May                        | $11250*3.6=40500$              |
+     | Inventory in process, May 31                                | $640*3.6=$ <u>2304</u>         |
+     | Total costs assigned by the Roasting Department             | $40500+2304=$ <u>**42804**</u> |
+
+6. Sunrise Coffee Company roasts and packs coffee beans. The process begins in the Roasting Department. From the Roasting Department, the coffee beans are transferred to the Packing Department. The following is a partial work in process account of the Roasting Department at May 31:
+
+   |                                                              | Units | % Completed | Cost  |
+   | ------------------------------------------------------------ | ----- | ----------- | ----- |
+   | Work in proces - Sifting Department                          | 1500  | 75          | 3400  |
+   | The following costs were charged to Work in Process—Sifting Department during May: |       |             |       |
+   | Direct materials transferred from Milling Department:        | 18300 |             | 32600 |
+   | Direct labor                                                 |       |             | 14560 |
+   | Factory overhead                                             |       |             | 7490  |
+
+   Prepare a cost of production report, using the weighted average method, and identify the missing amounts for Work in Process—Roasting Department. Assume that direct materials are placed in process during production. If required, round your cost per equivalent unit answer to two decimal places.
+
+   - Unit information
+
+     | Units charged to production:                        |                                   |
+     | --------------------------------------------------- | --------------------------------- |
+     | Inventory in process, May 1                         | 19200                             |
+     | Received from Milling Department                    | <u>332200</u>                     |
+     | Total units accounted for by the Sifting Department | $19200+332200=$ <u>**351400**</u> |
+
+     | Units to be assigned costs:              | Whole Units                      | Equivalent Units of Production   |
+     | ---------------------------------------- | -------------------------------- | -------------------------------- |
+     | Transferred to finished goods in January | 335000                           | 335000                           |
+     | Inventory in process, May 31             | $351400-335000=$<u>16400</u>     | $16400*80\%=$<u>**13120**</u>    |
+     | Total units to be assigned costs         | $335000+16400=$**<u>351400</u>** | $335000+13120=$**<u>348120</u>** |
+
+   - Cost information
+
+     | Cost per equivalent unit:                 | Costs                                    |
+     | ----------------------------------------- | ---------------------------------------- |
+     | Total costs for May in Sifting Department | $1984284$                                |
+     | Total equivalent units                    | <u>384120</u>                            |
+     | Cost per equivalent unit                  | $\frac{1984284}{384120}=$ <u>**5.7**</u> |
+
+     | Costs assigned to production:                       | Costs                                  |
+     | --------------------------------------------------- | -------------------------------------- |
+     | Inventory in process, May 1                         | 81024                                  |
+     | Costs incurred in May                               | $793958+454814+654488=$ <u>1903260</u> |
+     | Total costs accounted for by the Cutting Department | $81024+1903260=$ <u>**1984284**</u>    |
+
+     | Costs allocated to completed and partially completed units: | Costs                               |
+     | ----------------------------------------------------------- | ----------------------------------- |
+     | Transferred to finished goods in May                        | $335000*5.7=1909500$                |
+     | Inventory in process, May 31                                | $13120*5.7=$ <u>74784</u>           |
+     | Total costs assigned by the Cutting Department              | $1909500+74784=$ <u>**1984284**</u> |
+
+## Quiz
+
+1. Both process and job order cost systems maintain perpetual inventory accounts with subsidiary ledgers.
+
+   - **True**
+
+2. If the products of a manufacturing process are produced to customer specifications, a process cost system is more appropriate than a job order cost system.
+
+   - **False**
+
+3. In a process costing system, a separate work in process inventory account is maintained for each customer's job.
+
+   - **False**
+
+4. In a process costing system, each process will have a work in process inventory account.
+
+   - **True**
+
+5. Equivalent units are the sum of direct materials used and direct labor incurred.
+
+   - **False**
+
+6. Industries that typically use process cost systems include chemicals, oil, metals, food, paper, and pharmaceuticals.
+
+   - **True**
+
+7. Process manufacturers typically use large machines to process a continuous flow of raw materials into a finished state.
+
+   - **True**
+
+8. The Mountain Springs Water Company has two departments, Purifying and Bottling. The Bottling Department received 67,000 liters from the Purifying Department. During the period, the Bottling Department completed 65,000 liters, including 3,000 liters of work in process at the beginning of the period. The ending work in process was 5,000 liters. How many liters were started and completed during the period?
+
+   - $65000-3000=62000$ liters started and completed
+
+9. Process manufacturing usually reflects a manufacturer that produces small quantities of unique items.
+
+   - **False**
+
+10. The cost of direct materials transferred into the Bottling Department of the Mountain Springs Water Company is \$28,072. The conversion cost for the period in the Bottling Department is ​\$10,275. The total equivalent units for direct materials and conversion are 63,800 liters and 68,500 liters, respectively. Determine the direct materials and conversion cost per equivalent unit.
+
+    - Cost per equivalent unit of materials: $\frac{28072}{63800}=.44$
+      Cost per equivalent unit of conversion: $\frac{10275}{68500}=.15$
+
+11. Match each business that follows with the job cost system it would most likely utilize.
+
+    - | Industry           | Cost System |
+      | ------------------ | ----------- |
+      | Tax consultant     | Job order   |
+      | Paint manufacturer | Process     |
+      | Nail manufacturer  | Process     |
+
+12. The debits to Work in Process—Assembly Department for April, together with data concerning production, are as follows:
+
+    |                               | Units | %    | Value |
+    | ----------------------------- | ----- | ---- | ----- |
+    | April 1, work in process:     |       |      |       |
+    | Materials cost                | 3000  |      | 7500  |
+    | Conversion costs              | 3000  | 80   | 6000  |
+    | Materials added during April  | 10000 |      | 29000 |
+    | Conversion costs during April |       |      | 35000 |
+    | Goods finished during April   | 11500 |      |       |
+    | April 30, work in process     | 1500  | 60   |       |
+
+    All direct materials are placed in process at the beginning of the process, and the weighted average method is used to cost inventories.
+
+    The materials cost per equivalent unit (to the nearest cent) for April is $\frac{7500+29000}{11500+(1500*100\%)}=2.81$
+
+13. Department F had 4,000 units in Work in Process that were 40% completed at the beginning of the period at a cost of \$12,500. Of the ​\$12,500, ​\$8,000 was for material and ​\$4,500 was for conversion costs, 14,000 units of direct materials were added during the period at a cost of ​\$28,700, 15,000 units were completed during the period, and 3,000 units were 75% completed at the end of the period. All materials are added at the beginning of the process. Direct labor was ​\$32,450 and factory overhead was ​\$18,710.
+
+    If the weighted average method is used, the conversion cost per unit (rounded to the nearest cent) would be $\frac{4500+32450+18710}{15000+(3000*75\%)}=3.23$
+
+14. If the principal products of a manufacturing process are identical, a process cost system is more appropriate than a job order cost system.
+
+    - **True**
+
+15. Department E had 4,000 units in Work in Process that were 40% completed at the beginning of the period at a cost of \$12,500, 14,000 units of direct materials were added during the period at a cost of ​\$28,700, 15,000 units were completed during the period, and 3,000 units were 75% completed at the end of the period. All materials are added at the beginning of the process. Direct labor was \$32,450 and factory overhead was ​\$18,710.
+
+    The number of equivalent units of production for the period for conversion if the weighted average method is used to cost inventories was $15000+(3000*75\%)=17250$
+
+16. Department E had 4,000 units in Work in Process that were 40% completed at the beginning of the period at a cost of \$12,500, 14,000 units of direct materials were added during the period at a cost of ​\$28,700, 15,000 units were completed during the period, and 3,000 units were 75% completed at the end of the period. All materials are added at the beginning of the process. Direct labor was \$32,450 and factory overhead was ​\$18,710.
+
+    The number of equivalent units of production for the period for conversion if the weighted average method is used to cost inventories was $\frac{8000+28700}{15000+3000}=2.04$
+
+17. The debits to Work in Process—Assembly Department for April, together with data concerning production, are as follows:
+
+    |                               | Units | %    | Value |
+    | ----------------------------- | ----- | ---- | ----- |
+    | April 1, work in process:     |       |      |       |
+    | Materials cost                | 3000  |      | 7500  |
+    | Conversion costs              | 3000  | 80   | 6000  |
+    | Materials added during April  | 10000 |      | 29000 |
+    | Conversion costs during April |       |      | 35000 |
+    | Goods finished during April   | 11500 |      |       |
+    | April 30, work in process     | 1500  | 60   |       |
+
+    All direct materials are placed in process at the beginning of the process, and the weighted average method is used to cost inventories.
+
+    The materials cost per equivalent unit (to the nearest cent) for April is $\frac{6000+35000}{11500+(1500*60\%)}=3.31$
+
+18. Direct materials, direct labor, and factory overhead are assigned to each manufacturing process in a process costing system.
+
+    - **True**
+
+19. Process cost systems use job order cost cards to accumulate cost data.
+
+    - **False**
+
+20. Custom-made goods would be accounted for using a process costing system.
+
+    - **False**
+
+# Chapters 15-17 Exam
+
+1. Gallons of output for October and November were 45,000 and 56,000, respectively. Gallons of input for October and November were 46,000 and 64,000, respectively. Which of the following statements is true?
+
+   - **The yield for October was 0.98** ($\frac{45000}{46000}=0.98$)
+   
+2. The following information is available for Shanika Company for 20Y6:
+   **FIX NUMBERS IN SOLUTION**
+   
+   | Inventories     | January 1 | December 31 |
+   | --------------- | --------- | ----------- |
+   | Materials       | 364890    | 452460      |
+   | Work in process | 656800    | 615350      |
+   | Finished goods  | 631260    | 628920      |
+   
+   | Item                                     | Value   |
+   | ---------------------------------------- | ------- |
+   | Advertising expense                      | 307220  |
+   | Depreciation expense - office equipment  | 43440   |
+   | Depreciation expense - factory equipment | 58370   |
+   | Direct labor                             | 696790  |
+   | Heat, light, and power - facotry         | 23080   |
+   | Indirect labor                           | 81440   |
+   | Materials purchased                      | 683210  |
+   | Office salaries expense                  | 238450  |
+   | Property taxes - factory                 | 19000   |
+   | Property taxes - headquarters building   | 39360   |
+   | Rent expense - factory                   | 32120   |
+   | Sales                                    | 3198890 |
+   | Sales salaries expense                   | 392740  |
+   | Supplies - factory                       | 15840   |
+   | Miscellaneous costs - factory            | 9950    |
+   
+   1. Prepare the 20Y6 statement of cost of goods manufactured.
+   
+      - | Statement of Cost of Goods Manufactured For the Year Ended December 31, 20Y6 |                |               |                    |
+        | ------------------------------------------------------------ | -------------- | ------------- | ------------------ |
+        | Work in process inventory, January 1, 20Y6                   |                |               | 109200             |
+        | Direct materials:                                            |                |               |                    |
+        | Materials inventory, January 1, 20Y6                         | 364890         |               |                    |
+        | Purchases                                                    | <u>683210</u>  |               |                    |
+        | Cost of materials available for use                          | 1048100        |               |                    |
+        | Materials inventory, December 31, 20Y6                       | <u>-452460</u> |               |                    |
+        | Cost of Direct Materials used in Production                  |                | 595640        |                    |
+        | Direct Labor                                                 |                | 696790        |                    |
+        | Factory Overhead:                                            |                |               |                    |
+        | Indirect labor                                               | 81440          |               |                    |
+        | Depreciation expense-factory equipment                       | 58370          |               |                    |
+        | Heat, light, and power-factory                               | 23080          |               |                    |
+        | Property taxes-factory                                       | 19000          |               |                    |
+        | Rent expense-factory                                         | 32120          |               |                    |
+        | Supplies-factory                                             | 15840          |               |                    |
+        | Miscellaneous costs-factory                                  | <u>9950</u>    |               |                    |
+        | Total factory overhead                                       |                | <u>239800</u> |                    |
+        | Total manufacturing costs incurred in 20Y6                   |                |               | <u>1532230</u>     |
+        | Total manufacturing costs                                    |                |               | 2189030            |
+        | Work in process inventory, December 31, 20Y6                 |                |               | <u>-615350</u>     |
+        | Cost of goods manufactured                                   |                |               | **<u>1573780</u>** |
+   
+   2. Prepare the 20Y6 income statement
+   
+      - | Income Statement For the Year Ended December 31, 20Y6 |               |                |                   |
+        | ----------------------------------------------------- | ------------- | -------------- | ----------------- |
+        | Sales                                                 |               |                | 3198890           |
+        | Cost of good sold:                                    |               |                |                   |
+        | Finished goods inventory, January 1, 20Y6             |               | 631260         |                   |
+        | Cost of goods manufactured                            |               | <u>1573680</u> |                   |
+        | Cost of finished goods available for sale             |               | 2204940        |                   |
+        | Finished goods inventory, December 31, 20Y6           |               | <u>-628920</u> |                   |
+        | Cost of goods sold                                    |               |                | -1576020          |
+        | Gross profit                                          |               |                | 1662870           |
+        | Operating expenses:                                   |               |                |                   |
+        | Administrative expenses:                              |               |                |                   |
+        | Office salaries expense                               | 238450        |                |                   |
+        | Depreciation expense-office equipment                 | 43440         |                |                   |
+        | Property taxes-headquarters building                  | <u>39360</u>  | 321250         |                   |
+        | Selling expenses:                                     |               |                |                   |
+        | Advertising expense                                   | 307220        |                |                   |
+        | Sales salaries expense                                | <u>392740</u> | <u>699960</u>  |                   |
+        | Total operating expenses                              |               |                | <u>-1021210</u>   |
+        | Net income                                            |               |                | **<u>601660</u>** |
+   
+3. The source document for the data for debiting Work in Process for direct materials is a **materials requisition**.
+
+4. Indirect costs incurred in a manufacturing environment that cannot be traced directly to a product are treated as **product costs and expensed when the goods are sold**.
+
+5. Which of the following are basic phases of the management process?
+
+   - **planning and controlling**
+
+6. Indicate whether the following costs of Procter & Gamble (PG), a maker of consumer products, would be classified as *direct materials cost*, *direct labor cost*, or *factory overhead cost*:
+
+   - | Cost                                                         | Classification            |
+     | ------------------------------------------------------------ | ------------------------- |
+     | Depreciation on assembly line equipment in the Mehoopany, Pennsylvania, paper products plant | **Factory overhead cost** |
+     | Licensing payments for use of Disney characters on children products | **Factory overhead cost** |
+     | Maintenance supplies                                         | **Factory overhead cost** |
+     | Packaging materials                                          | **Direct materials cost** |
+     | Paper used in bath tissue                                    | **Direct materials cost** |
+     | Plant manager salary for the Iowa City, Iowa, plant          | **Factory overhead cost** |
+     | Resins for body wash products                                | **Direct materials cost** |
+     | Salary of process engineers                                  | **Factory overhead cost** |
+     | Scents and fragrances used in making soaps and detergents    | **Direct materials cost** |
+     | Wages of production line emolyees at the Pinevill, Louisiana, soap and detergent plant | **Direct labor cost**     |
+
+7. The cost system best suited to industries that manufacture a large number of identical units of commodities on a continuous basis is **process**.
+
+8. Radford Inc. manufactures a sugar product by a continuous process, involving three production departments—Refining, Sifting, and Packing. Assume that records indicate that direct materials, direct labor, and applied factory overhead for the first department, Refining, were \$641,900, \$224,700, and \$147,600, respectively. Also, work in process in the Refining Department at the beginning of the period totaled ​\$35,900, and work in process at the end of the period totaled \$44,300.
+
+   1. 
+
+   2. 1. Journalize the entries to record the flow of costs into the Refining Department during the period for (1) direct materials, (2) direct labor, and (3) factory overhead. If an amount box does not require an entry, leave it blank.
+
+         - | Direct Materials           | Debit  | Credit |
+           | -------------------------- | ------ | ------ |
+           | Work in process - Refining | 405100 |        |
+           | Materials                  |        | 405100 |
+
+         - | Direct Labor               | Debit  | Credit |
+           | -------------------------- | ------ | ------ |
+           | Work in process - Refining | 141800 |        |
+           | Wages payable              |        | 141800 |
+
+         - | Factory Overhead            | Debit | Credit |
+           | --------------------------- | ----- | ------ |
+           | Work in process - Refining  | 93200 |        |
+           | Factory overhead - Refining |       | 93200  |
+
+      2. Journalize the entry to record the transfer of production costs to the second department, Sifting. If an amount box does not require an entry, leave it blank.
+
+         - |                            | Debit                                      | Credit  |
+           | -------------------------- | ------------------------------------------ | ------- |
+           | Work in process - Sifting  | $35900+641900+224700+147600-44300=1005800$ |         |
+           | Work in process - Refining |                                            | 1005800 |
+
+9. Technology Accessories Inc. is a designer, manufacturer, and distributor of accessories for consumer electronic products. Early in 20Y3, the company began production of a leather cover for tablet computers, called the iLeather. The cover is made of stitched leather with a velvet interior and fits snugly around most tablet computers. In January, \$775,000 was spent on developing marketing and advertising materials. For the first six months of 20Y3, the company spent an additional ​\$1,402,000 promoting the iLeather. The product was ready for manufacture on January 21, 20Y3.
+
+   Technology Accessories Inc. uses a job order cost system to accumulate costs for the iLeather. Direct materials unit costs for the iLeather are as follows:
+
+   | Item      | Value           |
+   | --------- | --------------- |
+   | Leather   | 10              |
+   | Velvet    | 5               |
+   | Packaging | <u>.4</u>       |
+   | Total     | <u>**15.4**</u> |
+
+   The actual production process for the iLeather is fairly straightforward. First, leather is brought to a cutting and stitching machine. The machine cuts the leather and stitches an exterior edge into the product. The machine requires one hour per 130 iLeathers.
+
+   After the iLeather is cut and stitched, it is brought to assembly, where assembly personnel affix the velvet interior and pack the iLeather for shipping. The direct labor cost for this work is \$0.50 per unit.
+
+   The completed packages are then sold to retail outlets through a sales force. The sales force is compensated by a 20% commission on the wholesale price for all sales.
+
+   Total completed production was 500,000 units during the year. Other information is as follows:
+
+   | Item                                  | Value  |
+   | ------------------------------------- | ------ |
+   | Number of ILeather units sold in 20Y3 | 460000 |
+   | Wholesale price per unit              | 40     |
+
+   Factory overhead cost is applied to jobs at the rate of \$1,300 per machine hour. There were an additional 22,000 cut and stitched iLeathers waiting to be assembled on December 31, 20Y3.
+
+   *In your computations, if required, round interim per unit costs to two decimal places and final answers to the nearest whole dollar.*
+
+   1. Prepare an annual income statement for the iLeather product.
+
+      - | Income Statement For the Year Ended December 31, 20Y3 |                         |                                          |
+        | ----------------------------------------------------- | ----------------------- | ---------------------------------------- |
+        | Sales                                                 |                         | $\$40*460000=\$18400000$                 |
+        | Cost of goods sold                                    |                         | $(15.4+.5+10)*460000=$<u>\$11914000</u>  |
+        | Gross profit                                          |                         | $18400000-11914000=6486000$              |
+        | Selling expenses:                                     |                         |                                          |
+        | Salesperson commissions                               | $20\%*18400000=3680000$ |                                          |
+        | Advertising design                                    | 775000                  |                                          |
+        | Advertising expenses                                  | <u>1402000</u>          |                                          |
+        | Total selling expenses                                |                         | $3680000+775000+1409000=$<u>-5857000</u> |
+        | Income from operations                                |                         | $6486000-5857000=$<u>\$629000</u>        |
+
+   2. Determine the balances in the finished goods and work in process inventories for the iLeather product on December 31, 20Y3.
+
+      - | Type            | Value                        |
+        | --------------- | ---------------------------- |
+        | Finished goods  | $40000*\$25.90=\$1036000$    |
+        | Work in process | $22000*(15.4+\$10)=\$558800$ |
+   
+10. In order to be useful to managers, managerial accounting reports should possess all of the following characteristics *except* **be prepared in accordance with generally accepted accounting principles**.
+
+11. A summary of the materials requisitions completed during a period serves as the basis for transferring the cost of the materials from the controlling account in the general ledger to the controlling accounts for **work in process and factory overhead**.
+
+12. At the end of July, the first month of the current fiscal year, the factory overhead account had a debit balance. Which of the following describes the nature of this balance and how it would be reported on the interim balance sheet?
+
+    - **underapplied, deferred debt**
+
+13. Sunrise Coffee Company roasts and packs coffee beans. The process begins in the Roasting Department. From the Roasting Department, the coffee beans are transferred to the Packing Department. The following is a partial work in process account of the Roasting Department at December 31:
+
+    | Date       | Item              | Units  | %    | Debit  | Credit | Balance Debit | Balance Credit |
+    | ---------- | ----------------- | ------ | ---- | ------ | ------ | ------------- | -------------- |
+    | December 1 | Bal.              | 11100  | 40   |        |        | 36186         |                |
+    | 31         | Direct materials  | 192000 |      | 355200 |        | 391386        |                |
+    | 31         | Direct labor      |        |      | 204228 |        | 595614        |                |
+    | 31         | Factory overhead  |        |      | 293890 |        | 889504        |                |
+    | 31         | Goods transferred | 193700 |      |        | ?      | ?             |                |
+    | 31         | Bal               | ?      | 90   |        |        | ?             |                |
+
+    *Required:*
+
+    Prepare a cost of production report, using the weighted average method, and identify the missing amounts for Work in Process—Roasting Department. Assume that direct materials are placed in process during production. If required, round your cost per equivalent unit answer to two decimal places.
+
+    - Unit information
+
+      | Units charged to production:                         |                                  |
+      | ---------------------------------------------------- | -------------------------------- |
+      | Inventory in process, December 1                     | 11100                            |
+      | Received from materials storeroom                    | <u>192000</u>                    |
+      | Total units accounted for by the Roasting Department | $11100+192000$ <u>**203100**</u> |
+
+      | Units to be assigned costs:              | Whole Units                     | Equivalent Units of Production  |
+      | ---------------------------------------- | ------------------------------- | ------------------------------- |
+      | Transferred to finished goods in January | 193700                          | 193700                          |
+      | Inventory in process, May 31             | $203100-193700=$<u>9400</u>     | $9400*90\%=$<u>**8460**</u>     |
+      | Total units to be assigned costs         | $193700+9400=$**<u>203100</u>** | $193700+8460=$**<u>202160</u>** |
+
+    - Cost information
+
+      | Cost per equivalent unit:                       | Costs                                   |
+      | ----------------------------------------------- | --------------------------------------- |
+      | Total costs for December in Roasting Department | $889504$                                |
+      | Total equivalent units                          | <u>202160</u>                           |
+      | Cost per equivalent unit                        | $\frac{889504}{202160}=$ <u>**4.4**</u> |
+
+      | Costs assigned to production:                        | Costs                                 |
+      | ---------------------------------------------------- | ------------------------------------- |
+      | Inventory in process, December 1                     | 36186                                 |
+      | Costs incurred in December                           | $355200+204228+293890=$ <u>853318</u> |
+      | Total costs accounted for by the Roasting Department | $36186+853318=$ <u>**889504**</u>     |
+
+      | Costs allocated to completed and partially completed units: | Costs                             |
+      | ----------------------------------------------------------- | --------------------------------- |
+      | Transferred to finished goods in December                   | $193700*4.4=852280$               |
+      | Inventory in process, December 31                           | $8460*4.4=$ <u>37224</u>          |
+      | Total costs assigned by the Roasting Department             | $852280+37224=$ <u>**889504**</u> |
+    
+14. Managerial accountants could prepare all of the following reports *except* a(n) **annual report for external regulators such as the SEC**.
+
+15. Department B had 3,000 units in Work in Process that were 25% completed at the beginning of the period at a cost of \$12,500, 13,700 units of direct materials were added during the period at a cost of \$28,700, 15,000 units were completed during the period, and 1,700 units were 95% completed at the end of the period. All materials are added at the beginning of the process. Direct labor was \$32,450 and factory overhead was ​\$18,710.
+
+    The number of equivalent units of production for the period for conversion, if the first-in, first-out method is used to cost inventories, was $(3000*75\%)+(12000*100\%)+(1700*95\%)=15865$
+
+16. Exotic Engine Shop uses a *job order cost system* to determine the cost of performing engine repair work. Estimated costs and expenses for the coming period are as follows:
+
+    | Line item                                  | Value                |
+    | ------------------------------------------ | -------------------- |
+    | Engine parts                               | $813800              |
+    | Shop direct labor                          | 594000               |
+    | Shop and repair equipment depreciation     | 41000                |
+    | Shop supervisor salaries                   | 114100               |
+    | Shop property taxes                        | 20700                |
+    | Shop supplies                              | 15900                |
+    | Advertising expense                        | 16300                |
+    | Administrative office salaries             | 70000                |
+    | Administrative office depreciation expense | <u>9000</u>          |
+    | Total costs and expenses                   | <u>**\$1694800**</u> |
+
+    The average shop direct labor rate is $22.00 per hour.
+
+    Determine the predetermined shop overhead rate per direct labor hour. *Round the answer to nearest whole cent.*
+
+    - $\frac{41000+114100+20700+16300}{\frac{594000}{22.00}}=7.11$
 
