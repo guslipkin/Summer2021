@@ -2049,5 +2049,759 @@
 
     Determine the predetermined shop overhead rate per direct labor hour. *Round the answer to nearest whole cent.*
 
-    - $\frac{41000+114100+20700+16300}{\frac{594000}{22.00}}=7.11$
+    - $\frac{41000+114100+20700+15900}{\frac{594000}{22.00}}=7.10$
+
+# Chapter 18
+
+## Pre-Lecture Videos
+
+1. Product costs consist of **direct materials**, **direct labor**, and **factory overhead**.
+2. All of the following are common methods of allocating factory overhead to products *except* the **inventory costing** method.
+3. **Single plantwide factory overhead rate** method uses only one rate to allocate the factory overhead costs.
+4. Assume that Valdez Company, which manufactures snow shovels and snow blowers in a single factory, has total budgeted factory overhead costs of \$2,750,000 for the year and 25,000 total budgeted direct labor hours. Revenue is estimated to be ​\$10,000,000. Using the single plantwide rate method, what would be the factory overhead rate to apply?
+   - $\frac{2750000}{25000}=110$
+5. Production department factory overhead rate is computed by dividing budgeted department factory overhead by budgeted department allocation base.
+   - **True**
+6. The **multiple production department factory overhead rate** method uses different rates for each production department to allocate factory overhead costs to products.
+7. The **activity-based costing (ABC)** method provides an alternative approach for allocating factory overhead that uses multiple factory overhead rates based on different activities.
+8. Conversion cost per equivalent unit is arrived at by dividing budgeted activity cost by total equivalent units of conversion cost.
+   - **False**
+9. **Activity rates** are the budgeted activity costs assigned to products using factory overhead rates for each activity.
+10. **GAAP** require that selling and administrative expenses be reported as period expenses on the income statement.
+11. Which of the following is a disadvantage of allocating selling and administrative expenses to products based on sales volume?
+    - **Products may consume activities in ways that are unrelated to their sales volumes.**
+12. Which of the following activities is identified with a service business?
+    - **Diagnostic imaging**
+13. Jacobsville Hospital has budgeted costs of \$850,000 in diagnostic imaging. The total estimated activity-based usage is 2,500 images. Total costs for the entire hospital are estimated to be \$3,000,000. The activity rate per image is $\frac{850000}{2500}=340$
+
+## Mini Quiz
+
+1. Jason's Outdoors manufactures two products: snow skis and water skis. Jason's managerial accountant suspects that product cost distortion through factory overhead allocation is occurring where snow skis are underpriced and water skis are overpriced. As a result, all of the following statements are true except **Jason's accountant should consider a single plantwide rate to correct the problem.**
+
+2. Managers use product cost information for decisions regarding **product price**, **product mix**, **whether to discontinue a product line**.
+
+3. The total factory overhead for Norton Company is budgeted for the year at \$300,000, divided into three activities: assembly, \$200,000; setup, \$50,000; and materials handling, ​\$150,000. Norton manufactures two products: Product A and Product B. The activity-based usage quantities for each product by each activity are estimated as follows:
+
+   |                           | Assembly         | Setup            | Materials Handling |
+   | ------------------------- | ---------------- | ---------------- | ------------------ |
+   | Product A                 | 2000             | 8000             | 5                  |
+   | Product B                 | <u>10000</u>     | <u>24000</u>     | <u>15</u>          |
+   | Total activity-base usage | <u>**12000**</u> | <u>**32000**</u> | <u>**20**</u>      |
+
+   What is the activity rate for the assembly activity?
+
+   - $\frac{200000}{12000}=16.67$
+
+4. Which of the following statements is true?
+
+   - **Using the activity-based costing method typically results in more accurate product costs than using the single plantwide rate.**
+
+5. The total factory overhead for Martin Company is budgeted for the year at \$375,000. Martin manufactures two garden products: a leaf blower and a garden wagon. These products each require 4 direct labor hours (dlh) to manufacture. Each product is budgeted for 2,500 units of production for the year. What would the single plantwide factory overhead rate be?
+
+   - $\frac{375000}{(2500*4)+(2500*4)}=18.75$
+
+6. Under activity-based costing, selling and administrative expenses may be allocated using which of the following formulas for activity rate?
+
+   - **Activity Rate = Budgeted Activity Cost ÷ Total Activity-Base Usage**
+
+7. Using ABC product cost information when considering reducing cost, which of the following would not be a way to reduce activity costs?
+
+   - Switch to a plantwide allocation rate.
+
+8. Using the single plantwide factory overhead rate may cause product cost distortions due to which of the following?
+
+   - **Differences in production department factory overhead rates** and **differences among products in the ratios of allocation base usage within a department and across departments**
+
+9. Which of the following is an important feature when considering the use of a single plantwide factory overhead rate?
+
+   - **It is easy to use**
+
+10. Activity rates for use in service businesses are calculated by **dividing the budgeted activity cost by the total activity-base usage.**
+
+11. When production departments differ significantly in their manufacturing processes, factory overhead costs may be more accurately allocated using which of the following?
+
+    - **Multiple production department overhead rates**
+
+12. The total factory overhead for Simmons Company is budgeted for the year at \$450,000 and divided into two departments: Fabrication, \$315,000 and Assembly, \$135,000. Simmons manufactures two products: chairs and tables. Each chair requires 1 direct labor hour in Fabrication and 3 direct labor hours in Assembly. Each table requires 3 direct labor hours in Fabrication and 6 direct labor hours in Assembly. Each product is budgeted for 3,750 units of production for the year. What would the factory overhead allocated per unit for each table be, using the department factory overhead allocation rates?
+
+    - $[3*\frac{315000}{(3750*1)+(3750*3)}]+[6*\frac{135000}{(3750*3)+(3750*6)}]=87$
+
+13. Single plantwide factory overhead rate is calculated as **total budgeted factory overhead divided by total budgeted plantwide allocation base.**
+
+14. Using ABC product cost information when considering reducing cost, which of the following would be recommended?
+
+    - **Using an activity-based approach with multiple overhead allocation rates**
+
+15. Which of the following is not one of the steps for applying activity-based costing in a service business?
+
+    - **Pay the vendor for raw materials.**
+
+16. Countryside Bank uses activity-based costing to determine the cost of servicing customers. There are three activity pools: teller transaction processing (\$2.60 per teller transaction), check processing (\$0.20 per canceled check), and ATM transaction processing (​\$0.15 per ATM transaction). Rosa Bush had 5 teller transactions, 10 canceled checks, and 7 ATM transactions during the month. What is the total monthly activity-based cost for Rosa Bush during the month?
+
+    - $(5*2.60)+(10*0.20)+(7*0.15)=16.05$
+
+17. Which of the following is a common method of allocating factory overhead costs to products?
+
+    - **Multiple production department factory overhead rate method**
+
+18. Under activity-based costing, selling and administrative expenses may be allocated to **both products and customers.**
+
+19. Sebastian Company manufactures and sells sportswear products. Sebastian uses activity-based costing to determine the cost of the customer return processing and shipping activities. The customer return processing activity has an activity rate of \$60 per return, and the shipping activity has an activity rate of ​\$20 per shipment. Sebastian shipped 4,000 units of Product 1 in 800 shipments (some shipments are more than one unit). There were 90 returns. What is the total activity cost for the return and shipping activities of Product 1?
+
+    - $(800*20)+(60*90)=21400$
+
+## Practice Exercises
+
+### Single Plantwide Factory Overhead Rate
+
+1. The total factory overhead for Bardot Marine Company is budgeted for the year at \$600,000. Bardot Marine manufactures two types of boats: speedboats and bass boats. The speedboat and bass boat each require 12 direct labor hours for manufacture. Each product is budgeted for 250 units of production for the year.
+   1. Determine the total number of budgeted direct labor hours for the year.
+      - $(250*2)*12=6000$
+   2. Determine the single plantwide factory overhead rate.
+      - $\frac{600000}{6000}=100$
+   3. Determine the factory overhead allocated per unit for each product using the single plantwide factory overhead rate.
+      - Speedboats: $12*100=1200$
+        Bass boats: $12*100=1200$
+
+### Multiple Production Department Factory Overhead Rates
+
+2. The total factory overhead for Bardot Marine Company is budgeted for the year at \$600,000 divided into two departments: Fabrication, ​\$420,000, and Assembly, \$180,000. Bardot Marine manufactures two types of boats: speedboats and bass boats. The speedboats require 8 direct labor hours in Fabrication and 4 direct labor hours in Assembly. The bass boats require 4 direct labor hours in Fabrication and 8 direct labor hours in Assembly. Each product is budgeted for 250 units of production for the year.
+
+   If required, round all per unit answers to the nearest cent.
+
+   1. Determine the total number of budgeted direct labor hours for the year in each department.
+      - Fabrication: $(250*8)+(250*4)=3000$ direct labor hours
+        Assembly: $(250*4)+(250*8)=3000$ direct labor hours
+   2. Determine the departmental factory overhead rates for both departments.
+      - Fabrication department rate: $\frac{420000}{3000}=140$
+        Assembly department rate: $\frac{180000}{3000}=60$
+   3. Determine the factory overhead allocated per unit for each product using the department factory overhead allocation rates.
+      - Total factory overhead per speedboat: $(140*8)+(60*4)=1360$
+        Total factory overhead per bass boat: $(140*4)+(60*8)=1040$
+
+### Activity-Based Costing: Factory Overhead Costs
+
+3. The total factory overhead for Bardot Marine Company is budgeted for the year at \$600,000, divided into four activities: fabrication, \$204,000; assembly, \$105,000; *setup*, \$156,000; and inspection, \$135,000. Bardot Marine manufactures two types of boats: speedboats and bass boats. The *activity-base* usage quantities for each product by each activity are as follows:
+
+   |           | Fabrication     | Assembly        | Setup          | Inspection      |
+   | --------- | --------------- | --------------- | -------------- | --------------- |
+   | Speedboat | 2000            | 1000            | 300            | 1100            |
+   | Bass boat | <u>1000</u>     | <u>2000</u>     | <u>100</u>     | <u>400</u>      |
+   | Total     | <u>**3000**</u> | <u>**3000**</u> | <u>**400**</u> | <u>**1500**</u> |
+
+   Each product is budgeted for 250 units of production for the year.
+
+   1. Determine the *activity rates* for each activity.
+      - Fabrication: $\frac{204000}{3000}=68$
+        Assembly: $\frac{105000}{3000}=35$
+        Setup: $\frac{156000}{400}=390$
+        Inspection: $\frac{135000}{1500}=90$
+   2. Determine the activity-based factory overhead per unit for each product
+      - Speedboats per unit: $\frac{(2000*68)+(1000*35)+(300*390)+(1100*90)}{250}=1548$
+        Bass boats per unit: $\frac{(1000*68)+(2000*35)+(100*390)+(400*90)}{250}=852$
+
+### Activity-Based Costing: Selling and Administrative Expenses
+
+4. Jungle Junior Company manufactures and sells outdoor play equipment. Jungle Junior uses activity-based costing to determine the cost of the sales order processing and the customer return activity. The sales order processing activity has an *activity rate* of \$20 per sales order, and the customer return activity has an activity rate of \$100 per return. Jungle Junior sold 2,500 swing sets, which consisted of 750 orders and 80 returns.
+   1. Determine the total sales order processing and customer return activity cost for swing sets.
+      - $(750*20)+(80*100)=23000$
+   2. Determine the per-unit sales order processing and customer return activity cost for swing sets. Round your answer to the nearest cent.
+      - $\frac{15000}{2000}+\frac{8000}{2500}=9.20$
+
+### Activity-Based Costing for a Service Business
+
+5. Sterling Hotel uses activity-based costing to determine the cost of servicing customers. There are three activity pools: guest check-in, room cleaning, and meal service. The activity rates associated with each activity pool are \$8 per guest check-in, \$25 per room cleaning, and \$4 per served meal (not including food). Ginny Campbell visited the hotel for a three-night stay. Campbell had three meals in the hotel during her visit.
+
+   Determine the total activity-based cost for Campbell's visit.
+
+   - $(8*1)+(25*3)+(4*3)=95$
+
+### Product Costing and Decision Analysis for a Service Company
+
+6. Pleasant Stay Medical Inc. wishes to determine its product costs. Pleasant Stay offers a variety of medical procedures (operations) that are considered its “products.” The overhead has been separated into three major activities. The annual estimated activity costs and activity bases follow:
+
+   | Activity                 | Budgeted Activity Cost | Activity Base          |
+   | ------------------------ | ---------------------- | ---------------------- |
+   | Scheduling and admitting | 432000                 | Number of patients     |
+   | Housekeeping             | 4212000                | Number of patient days |
+   | Nursing                  | <u>5376000</u>         | Weighted care unit     |
+   | Total costs              | <u>**10020000**</u>    |                        |
+
+   Total “patient days” are determined by multiplying the number of patients by the average length of stay in the hospital. A weighted care unit (wcu) is a measure of nursing effort used to care for patients. There were 192,000 weighted care units estimated for the year. In addition, Pleasant Stay estimated 6,000 patients and 27,000 patient days for the year. (The average patient is expected to have a a little more than a four-day stay in the hospital.)
+
+   During a portion of the year, Pleasant Stay collected patient information for three selected procedures, as follows:
+
+   | Activity-Base Usage –> | Procedure A      | Procedure B     | Procedure C      |
+   | ---------------------- | ---------------- | --------------- | ---------------- |
+   | Number of patients     | 280              | 650             | 1200             |
+   | Average length of stay | 6                | 6               | 4                |
+   | Patient Days           | <u>1680</u>      | <u>3250</u>     | <u>4800</u>      |
+   | Weighted care units    | <u>**19200**</u> | <u>**6000**</u> | <u>**24000**</u> |
+
+   Private insurance reimburses the hospital for these activities at a fixed daily rate of \$406 per patient day for all three procedures.
+
+   1. Determine the activity rates
+
+      - | Activity                 | Activity Rate               |
+        | ------------------------ | --------------------------- |
+        | Scheduling and admitting | $\frac{432000}{6000}=72$    |
+        | Housekeeping             | $\frac{4212000}{27000}=156$ |
+        | Nursing                  | $\frac{5376000}{192000}=28$ |
+
+   2. Determine the activity cost for each procedure
+
+      - | Activity    | Total Activity Cost by Procedure          |
+        | ----------- | ----------------------------------------- |
+        | Procedure A | $(72*280)+(156*1680)+(28*19200)=819840$   |
+        | Procedure B | $(72*650)+(156*3250)+(28*6000)=721800$    |
+        | Procedure C | $(72*1200)+(156*4800)+(28*24000)=1507200$ |
+
+   3. Determine the excess or deficiency of reimbursements to activity cost.
+
+      - | Activity    | Excess (deficiency) of reimbursement over activity cost |
+        | ----------- | ------------------------------------------------------- |
+        | Procedure A | $(406*1680)-819840=-137760$                             |
+        | Procedure B | $(406*3250)-721800=597700$                              |
+        | Procedure C | $(406*4800)-1507200=441600$                             |
+
+   4.  
+
+      1. Based on the determination of the excess or deficiency of reimbursement to activity cost, indicate which procedure cost is too high.
+         - **Procedure A**
+      2. Hospital management has decided to further investigate the nursing effort. Determine the weighted care units per patient days for each procedure. *Round to one decimal place.*
+         - Procedure A: $\frac{19200}{1680}=11.4$
+           Procedure B: $\frac{6000}{3250}=1.8$
+           Procedure C: $\frac{24000}{4800}=5.0$
+
+7. Blue Star Airline provides passenger airline service, using small jets. The airline connects four major cities: Charlotte, Pittsburgh, Detroit, and San Francisco. The company expects to fly 170,000 miles during a month. The following costs are budgeted for a month:
+
+   | Item             | Value              |
+   | ---------------- | ------------------ |
+   | Fuel             | 2120000            |
+   | Ground personnel | 788500             |
+   | Crew salaries    | 850000             |
+   | Depreciation     | <u>430000</u>      |
+   | Total costs      | <u>**4188500**</u> |
+
+   Blue Star management wishes to assign these costs to individual flights in order to gauge the profitability of its service offerings. The following activity bases were identified with the budgeted costs:
+
+   | Airline Cost                       | Activity Base                                   |
+   | ---------------------------------- | ----------------------------------------------- |
+   | Fuel, crew, and depreciation costs | Number of miles flown                           |
+   | Ground personnel                   | Number of arrivals and departures at an airport |
+
+   The size of the company's ground operation in each city is determined by the size of the workforce. The following monthly data are available from corporate records for each terminal operation:
+
+   | Terminal City | Ground Personnel Cost | Number of Arrivals/Departures |
+   | ------------- | --------------------- | ----------------------------- |
+   | Charlotte     | 256000                | 320                           |
+   | Pittsburgh    | 97500                 | 130                           |
+   | Detroit       | 129000                | 150                           |
+   | San Francisco | <u>306000</u>         | <u>340</u>                    |
+   | Total         | <u>**788500**</u>     | <u>**940**</u>                |
+
+   Three recent representative flights have been selected for the profitability study. Their characteristics are as follows:
+
+   | Flight Number | Description                | Miles Flown | Number of Passengers | Ticket Price per Passenger |
+   | ------------- | -------------------------- | ----------- | -------------------- | -------------------------- |
+   | Flight 101    | Charlotte to San Francisco | 2000        | 80                   | 695                        |
+   | Flight 102    | Detroit to Charlotte       | 800         | 50                   | 441.5                      |
+   | Flight 103    | Charlotte to Pittsburgh    | 400         | 20                   | 382                        |
+
+   1. Determine the fuel, crew, and depreciation cost per mile flown.
+
+      - $\frac{850000+2120000+430000}{170000}=20$
+
+   2. Determine the cost per arrival or departure by terminal city.
+
+      - Charlotte: $\frac{256000}{320}=800$
+        Pittsburgh: $\frac{97500}{130}=750$
+        Detroit: $\frac{129000}{150}=860$
+        San Francisco: $\frac{306000}{340}=900$
+
+   3. Use the information in (1) and (2) to construct a profitability report for the three flights. Each flight has a single arrival and departure to its origin and destination city pairs.
+
+      - Blue Star Airline Flight Profitability Report for Three Representative Flights
+
+        |                                    | Flight 101       | Flight 102      | Flight 103       |
+        | ---------------------------------- | ---------------- | --------------- | ---------------- |
+        | Passenger revenue                  | <u>55600</u>     | <u>22075</u>    | <u>7640</u>      |
+        | Fuel, crew, and depreciation costs | 40000            | 16000           | 8000             |
+        | Ground personnel                   | <u>1700</u>      | <u>1660</u>     | <u>1550</u>      |
+        | Total costs                        | <u>41700</u>     | <u>17660</u>    | <u>9550</u>      |
+        | Flight operating income (loss)     | <u>**13900**</u> | <u>**4415**</u> | <u>**-1910**</u> |
+
+## Homework Exercises
+
+1. Managers depend on the accuracy of product costing to make decisions regarding continuing operations and product mix.
+
+   - **True**
+
+2. Bob's Biscuit Corporation budgeted \$1,200,000 of factory overhead cost for the coming year. Its plantwide allocation base, machine hours, is budgeted at 100,000 hours. Budgeted units to be produced are 200,000 units. Bob's plantwide factory overhead rate is ​\$12 per machine hour.
+
+   - **True**
+
+3. Use of a plantwide factory overhead rate does *not* distort product costs when there are differences in the factory overhead rates across different production departments.
+
+   - **False**
+
+4. Activity-based costing can be used to allocate period costs to various products that the company sells.
+
+   - **True**
+
+5. Which of the following does *not* rely on managerial decisions involving accurate product costing?
+
+   - **product constraints**
+
+6. Ramapo Company produces two products, Blinks and Dinks. They are manufactured in two departments, Fabrication and Assembly. Data for the products and departments are listed below.
+
+   | Product | Number of Units | Labor Hours per Unit | Machine Hours per Unit |
+   | ------- | --------------- | -------------------- | ---------------------- |
+   | Blinks  | 1000            | 4                    | 5                      |
+   | Dinks   | 2000            | 2                    | 8                      |
+
+   All of the machine hours take place in the Fabrication Department, which has an estimated overhead of \$84,000. All of the labor hours take place in the Assembly Department, which has an estimated total overhead of \$72,000.
+
+   Ramapo Company uses a single plantwide overhead rate to apply all factory overhead costs. The single plantwide rate, if it is based on machine hours instead of labor hours, is $\frac{84000+72000}{(1000*5)+(2000*8)}=7.43$
+
+7. Blue Ridge Marketing Inc. manufactures two products, A and B. Presently, the company uses a single plantwide factory overhead rate for allocating overhead to products. However, management is considering moving to a multiple department rate system for allocating overhead. The following table presents information about estimated overhead and direct labor hours.
+
+   |                      | Overhead | Direct Labor Hours | Product A | Product B |
+   | -------------------- | -------- | ------------------ | --------- | --------- |
+   | Painting department  | 248000   | 10000              | 16        | 4         |
+   | Finishing department | 72000    | 10000              | 4         | 16        |
+   | Totals               | 320000   | 20000              | 20        | 20        |
+
+   The factory overhead allocated per unit of Product B in the Painting Department if Blue Ridge Marketing Inc. uses the multiple production department factory overhead rate method is $\frac{248000}{10000}*4=99.2$
+
+8. Scoresby Co. uses 6 machine hours and 2 direct labor hours to produce Product X. It uses 8 machine hours and 16 direct labor hours to produce Product Y. Scoresby's Assembly and Finishing departments have factory overhead rates of \$240 per machine hour and ​\$160 per direct labor hour, respectively. How much total factory overhead will be allocated to a unit of each of the two products?
+
+   - Product X: $(6*240)+(2*160)=1760$
+     Product Y: $(8*240)+(16*160)=4480$
+
+9. Panamint Systems Corporation is estimating activity costs associated with producing disk drives, tapes drives, and wire drives. The indirect labor can be traced to five separate activity pools. The budgeted activity cost and activity base data by product are provided below.
+
+   |                     | Activity Cost | Activity Base                 |
+   | ------------------- | ------------- | ----------------------------- |
+   | Procurement         | 370000        | Number of purchase orders     |
+   | Scheduling          | 250000        | Number of production orders   |
+   | Materials handling  | 500000        | Number of moves               |
+   | Product development | 730000        | Number of engineering changes |
+   | Production          | 1500000       | Machine hours                 |
+
+   |             | Number of Purchase Orders | Number of Production Orders | Number of Moves | Number of Engineering Changes | Machine Hours | Number of Units |
+   | ----------- | ------------------------- | --------------------------- | --------------- | ----------------------------- | ------------- | --------------- |
+   | Disk drives | 4000                      | 300                         | 1400            | 10                            | 2000          | 2000            |
+   | Tape drives | 4000                      | 150                         | 800             | 10                            | 8000          | 4000            |
+   | Wire drives | 12000                     | 800                         | 4000            | 25                            | 10000         | 2500            |
+
+   The activity rate for the production cost pool is $\frac{1500000}{2000+8000+10000}=75$
+
+10. Beauty Beyond Words Salon uses an activity-based costing system to determine the cost of services. The salon has determined the costs of services by activity and activity usage as follows:
+
+    | Activity           | Activity Rate |
+    | ------------------ | ------------- |
+    | Hair washing       | 4             |
+    | Conditioning       | 3.5           |
+    | Chemical treatment | 25            |
+    | Styling            | 10            |
+
+    |                | Hair Washing | Conditioning | Chemical Treatment | Styling |
+    | -------------- | ------------ | ------------ | ------------------ | ------- |
+    | Haircut        | 1            | 1            | 0                  | 0       |
+    | Complete style | 1            | 1            | 0                  | 0       |
+    | Perm           | 2            | 3            | 1                  | 1       |
+    | Highlights     | 3            | 4            | 2                  | 1       |
+
+    The cost of services for a haircut is $(1*4)+(1*3.5)=7.5$
+
+### Single Plantwide Factory Overhead Rate
+
+11. The total factory overhead for Bardot Marine Company is budgeted for the year at \$841,500. Bardot Marine manufactures two types of boats: speedboats and bass boats. The speedboat and bass boat each require three direct labor hours for manufacture. Each product is budgeted for 8,500 units of production for the year.
+
+    When required, round all per unit answers to the nearest cent.
+
+    1. Determine the total number of budgeted direct labor hours for the year
+       - $(8500*2)*3=51000$
+    2. Determine the single plantwide factory overhead rate
+       - $\frac{841500}{51000}=16.5$
+    3. Determine the factory overhead allocated per unit for each product using the single plantwide factory overhead rate.
+       - Speedboats: $16.5*3=49.5$
+         Bass boats: $16.5*3=49.5$
+
+12. Kennedy Appliance Inc.’s Machining Department incurred \$133,000 of factory overhead cost in producing hoses and valves. The two products consumed a total of 3,500 direct machine hours. Of that amount, hoses consumed 1,800 direct machine hours.
+
+    Determine the total amount of factory overhead that should be allocated to hoses using machine hours as the allocation base.
+
+    - $133000*\frac{1800}{3500}=68400$
+
+13. Bach Instruments Inc. makes three musical instruments: flutes, clarinets, and oboes. The budgeted factory overhead cost is \$116,480. Overhead is allocated to the three products on the basis of direct labor hours. The products have the following budgeted production volume and direct labor hours per unit:
+
+    |           | Budgeted Production Volume | Direct Labor Hours per Unit |
+    | --------- | -------------------------- | --------------------------- |
+    | Flutes    | 3100                       | .6                          |
+    | Clarinets | 800                        | 1.5                         |
+    | Oboes     | 1100                       | 1                           |
+
+    *If required, round all per unit answers to the nearest cent.*
+
+    1. Determine the single plantwide overhead rate.
+
+       - $\frac{116480}{(3100*.6)+(800*1.5)+(1100*1)}=28$
+
+    2. Use the overhead rate in (a) to determine the amount of total and per-unit overhead allocated to each of the three products.
+
+       - |           | Total Factory Overhead Cost | Per Unit Factory Overhead Cost |
+         | --------- | --------------------------- | ------------------------------ |
+         | Flutes    | $(3100*.6)*28=52080$        | $\frac{52080}{3100}=16.8$      |
+         | Clarinets | $(800*1.5)*28=33600$        | $\frac{33600}{800}=42$         |
+         | Oboes     | $(1100*1)*28=30800$         | $\frac{30800}{1100}=28$        |
+         | Total     | $52080+33600+30800=116480$  |                                |
+
+### Multiple Production Department Factory Overhead Rates
+
+14. The total factory overhead for Bardot Marine Company is budgeted for the year at \$800,000, divided into two departments: Fabrication, ​\$300,000, and Assembly, \$500,000. Bardot Marine manufactures two types of boats: speedboats and bass boats. The speedboats require one direct labor hour in Fabrication and four direct labor hours in Assembly. The bass boats require one direct labor hour in Fabrication and one direct labor hour in Assembly. Each product is budgeted for 8,000 units of production for the year.
+
+    If required, round all per unit answers to the nearest cent.
+
+    1. Determine the total number of budgeted direct labor hours for the year in each department.
+       - Fabrication direct labor hours: $(8000*1)+(8000*1)=16000$
+         Assembly direct labor hours: $(8000*4)+(8000*1)=40000$
+    2. Determine the departmental factory overhead rates for both departments.
+       - Fabrication: $\frac{300000}{16000}=18.75$
+         Assembly: $\frac{500000}{40000}=12.5$
+    3. Determine the factory overhead allocated per unit for each product using the department factory overhead allocation rates.
+       - Speedboat per unit: $(18.75*1)+(12.5*4)=68.75$
+         Bass boat per unit: $(18.75*1)+(12.5*1)=31.25$
+
+### Activity-Based Costing: Factory Overhead Costs
+
+15. The total factory overhead for Bardot Marine Company is budgeted for the year at \$1,196,800, divided into four activities: fabrication, \$608,000; assembly, \$272,000; *setup*, \$172,800; and inspection, $144,000. Bardot Marine manufactures two types of boats: speedboats and bass boats. The *activity-base* usage quantities for each product by each activity are as follows:
+
+    |           | Fabrication      | Assembly         | Setup          | Inspection     |
+    | --------- | ---------------- | ---------------- | -------------- | -------------- |
+    | Speedboat | 8000             | 25500            | 58             | 100            |
+    | Bass boat | <u>24000</u>     | <u>8500</u>      | <u>422</u>     | <u>700</u>     |
+    | Total     | <u>**32000**</u> | <u>**34000**</u> | <u>**480**</u> | <u>**800**</u> |
+
+    Each product is budgeted for 5,000 units of production for the year.
+
+    1. Determine the *activity rates* for each activity.
+       - Fabrication: $\frac{608000}{32000}=19$
+         Assembly: $\frac{272000}{34000}=8$
+         Setup: $\frac{172800}{480}=360$
+         Inspection: $\frac{144000}{800}=180$
+    2. Determine the activity-based factory overhead per unit for each product
+       - Speedboats per unit: $\frac{(19*8000)+(8*25500)+(360*58)+(180*100)}{5000}=79$
+         Bass boats per unit: $\frac{(19*24000)+(8*8500)+(360*422)+(180*700)}{5000}=160$
+
+### Activity-Based Costing for a Service Business
+
+16. Sterling Hotel uses activity-based costing to determine the cost of servicing customers. There are three activity pools: guest check-in, room cleaning, and meal service. The activity rates associated with each activity pool are \$8.70 per guest check-in, ​\$24.00 per room cleaning, and \$3.00 per served meal (not including food). Tara Campbell visited the hotel for a 3-night stay. Tara had 3 meals in the hotel during the visit.
+
+    Determine the total activity-based cost for Campbell's visit during the month. Round your answer to the nearest cent.
+
+    - $(8.7*1)+(24*3)+(3*3)=89.7$
+
+### *Activity Rates* and *Product Costs* using Activity-Based Costing
+
+17. Lonsdale Inc. manufactures entry and dining room lighting fixtures. Five activities are used in manufacturing the fixtures. These activities and their associated budgeted activity costs and *activity bases* are as follows:
+
+    | Activity           | Budgeted Activity Cost | Activity Base         |
+    | ------------------ | ---------------------- | --------------------- |
+    | Casting            | 328100                 | Machine hours         |
+    | Assembly           | 165000                 | Direct labor hours    |
+    | Inspecting         | 24840                  | Number of inspections |
+    | *Setup*            | 50660                  | Number of setups      |
+    | Materials handling | 39360                  | Number of loads       |
+
+    Corporate records were obtained to estimate the amount of activity to be used by the two products. The estimated activity-base usage quantities and units produced follow:
+
+    | Activity Base         | Entry | Dining | total |
+    | --------------------- | ----- | ------ | ----- |
+    | Machine hours         | 5110  | 4540   | 9650  |
+    | Direct labor hours    | 4400  | 6600   | 11000 |
+    | Number of inspections | 1570  | 500    | 2070  |
+    | Number of setups      | 280   | 60     | 340   |
+    | Number of loads       | 650   | 170    | 820   |
+    | Units produced        | 10200 | 5100   | 15300 |
+
+    1. Determine the activity rate for each activity. *If required, round the rate to the nearest dollar.*
+
+       - | Activity           | Activity Rate             |                       |
+         | ------------------ | ------------------------- | --------------------- |
+         | Casting            | $\frac{328100}{9650}=34$  | per machine hour      |
+         | Assembly           | $\frac{165000}{11000}=15$ | per direct labor hour |
+         | Inspecting         | $\frac{24840}{2070}=12$   | per inspection        |
+         | *Setup*            | $\frac{50660}{340}=149$   | per setup             |
+         | Materials handling | $\frac{39360}{820}=48$    | per load              |
+
+    2. Use the activity rates in (a) to determine the total and per-unit activity costs associated with each product. *Round the per unit amounts to the nearest cent.*
+
+       - | Product                       | Total Activity Cost                                       | Activity Cost per Unit      |
+         | ----------------------------- | --------------------------------------------------------- | --------------------------- |
+         | Entry lighting fixtures       | $(5110*34)+(4400*15)+(1570*12)+(280*149)+(650*48)=331500$ | $\frac{331500}{10200}=32.5$ |
+         | Dining room lighting fixtures | $(4540*34)+(6600*15)+(500*12)+(60*149)+(170*48)=276460$   | $\frac{276460}{5100}=54.21$ |
+
+## Quiz
+
+1. If selling and administrative expenses are allocated to different products, they should be reported as a **period cost**.
+
+2. Dawson Company manufactures small table lamps and desk lamps. The following shows the activities per product and the total overhead information:
+
+   |                   | Units | Setups | Inspections | Assembly |
+   | ----------------- | ----- | ------ | ----------- | -------- |
+   | Small table lamps | 3000  | 8000   | 9000        | 16000    |
+   | Desk lamps        | 6000  | 16000  | 15000       | 12000    |
+
+   | Activity    | Total Activity-Based Usage | Budgeted Activity Cost |
+   | ----------- | -------------------------- | ---------------------- |
+   | Setups      | 24000                      | 60000                  |
+   | Inspections | 24000                      | 120000                 |
+   | Assembly    | 28000                      | 280000                 |
+
+   The total factory overhead to be allocated to each unit of small table lamps is $\frac{(\frac{60000}{24000}*16000)+(\frac{120000}{24000}*15000)+(\frac{280000}{28000}*12000)}{3000}=75$
+   
+3. Aleutian Company produces two products: Rings and Dings. They are manufactured in two departments: Fabrication and Assembly. Data for the products and departments are listed below.
+
+   | Product | Number of Units | Direct Labor Hours per Unit | Machine Hours per Unit |
+   | ------- | --------------- | --------------------------- | ---------------------- |
+   | Rings   | 1000            | 4                           | 6                      |
+   | Dings   | 2000            | 3                           | 9                      |
+
+   All of the machine hours take place in the Fabrication Department, which has estimated total factory overhead of \$90,000. All of the labor hours take place in the Assembly Department, which has estimated total factory overhead of ​\$105,000.
+
+   Aleutian Company uses the multiple production department factory overhead rate method. The Fabrication Department uses machine hours as an allocation base, and the Assembly Department uses direct labor hours.
+
+   1. The total factory overhead allocated per unit of Rings is $[6*\frac{90000}{(1000*6)+(2000*9)}]+[4*\frac{105000}{(1000*4)+(2000*3)}]=64.5$
+   2. The Fabrication Department's factory overhead rate is $\frac{90000}{(1000*6)+(2000*9)}=3.75$
+
+4. Panamint Systems Corporation is estimating activity costs associated with producing disk drives, tapes drives, and wire drives. The indirect labor can be traced to five separate activity pools. The budgeted activity cost and activity base data by product are provided below.
+
+   |                     | **Activity Cost** | Activity Base                 |
+   | ------------------- | ----------------- | ----------------------------- |
+   | Procurement         | $370,000          | Number of purchase orders     |
+   | Scheduling          | 250,000           | Number of production orders   |
+   | Materials handling  | 500,000           | Number of moves               |
+   | Product development | 730,000           | Number of engineering changes |
+   | Production          | 1,500,000         | Machine hours                 |
+
+   |             | Number of Purchase Orders | Number of Production Orders | Number of Moves | Number of Engineering Changes | Machine Hours | Number of Units |
+   | ----------- | ------------------------- | --------------------------- | --------------- | ----------------------------- | ------------- | --------------- |
+   | Disk drives | 4,000                     | 300                         | 1,400           | 10                            | 2,000         | 2,000           |
+   | Tape drives | 4,000                     | 150                         | 800             | 10                            | 8,000         | 4,000           |
+   | Wire drives | 12,000                    | 800                         | 4,000           | 25                            | 10,000        | 2,500           |
+
+   1. The activity-based cost for each wire drive unit is $\frac{(12000*\frac{370000}{4000+4000+12000})+(800*\frac{250000}{300+150+800})+(4000*\frac{500000}{1400+800+4000})+(25*\frac{730000}{10+10+25})+(10000*\frac{1500000}{2000+8000+10000})}{2500}=744.06$
+   2. The activity rate for the product development cost pool is $\frac{730000}{10+10+25}=16222$
+   3. The activity-based cost for each disk drive unit is $\frac{(4000*\frac{370000}{4000+4000+12000})+(300*\frac{250000}{300+150+800})+(1400*\frac{500000}{1400+800+4000})+(10*\frac{730000}{10+10+25})+(2000*\frac{1500000}{2000+8000+10000})}{2000}=279.57$
+   4. The activity rate for the procurement activity cost pool is $\frac{370000}{4000+4000+12000}=18.5$
+
+5. Adirondack Marketing Inc. manufactures two products, A and B. Presently, the company uses a single plantwide factory overhead rate for allocating overhead to products. However, management is considering moving to a multiple department rate system for allocating overhead.
+
+   |           | Overhead | Total Direct Labor Hours | DLH for Product A | DLH for Product B |
+   | --------- | -------- | ------------------------ | ----------------- | ----------------- |
+   | Painting  | 250000   | 10000                    | 16                | 4                 |
+   | Finishing | 75000    | 12000                    | 4                 | 16                |
+   | Totals    | 325000   | 22000                    | 20                | 20                |
+
+   The single plantwide factory overhead rate for Adirondack Marketing Inc. is $\frac{325000}{22000}=14.77$
+
+6. Kaumajet Factory produces two products: table lamps and desk lamps. It has two separate departments: Fabrication and Assembly. The factory overhead budget for the Fabrication Department is \$550,000, using 500,000 direct labor hours. The factory overhead budget for the Assembly Department is ​\$400,000, using 80,000 direct labor hours.
+
+   1. If a table lamp requires 2 hours of fabrication and 1 hour of assembly, the amount of factory overhead that Kaumajet Factory will allocate to each unit of table lamp using the multiple production department factory overhead rate method with an allocation base of direct labor hours is $(2*\frac{550000}{500000})+(1*\frac{400000}{80000})=7.2$
+   2. If a table lamp requires 2 hours of fabrication and 1 hour of assembly, the total amount of factory overhead that Kaumajet Factory will allocate to table lamps using the multiple production department factory overhead rate method with an allocation base of direct labor hours if 75,000 units are produced is $[(2*\frac{550000}{500000})+(1*\frac{400000}{80000})]*75000=540000$
+
+7. Activity rates are determined by **dividing the cost budgeted for each activity pool by the estimated activity base for that pool**.
+
+8. Which of the following is *not* a factory overhead allocation method?
+
+   - **factory costing**
+
+9. Product costs consist of only direct materials and direct labor.
+
+   - **False**
+
+10. Blue Ridge Marketing Inc. manufactures two products, A and B. Presently, the company uses a single plantwide factory overhead rate for allocating overhead to products. However, management is considering moving to a multiple department rate system for allocating overhead. The following table presents information about estimated overhead and direct labor hours.
+
+    |           | Overhead | Direct Labor Hours | Product A | Product B |
+    | --------- | -------- | ------------------ | --------- | --------- |
+    | Painting  | 248000   | 10000              | 16        | 4         |
+    | Finishing | 72000    | 10000              | 4         | 16        |
+    | Totals    | 320000   | 20000              | 20        | 20        |
+
+    Using a single plantwide rate, the factory overhead allocated per unit of Product B is $\frac{320000}{20000}*20=320$
+
+11. Blackwelder Factory produces two similar products: small table lamps and desk lamps. The total factory overhead budget is \$640,000 with 400,000 estimated direct labor hours. It is further estimated that small table lamp production will require 275,000 direct labor hours, and desk lamp production will need 125,000 direct labor hours.
+
+    Using a single plantwide factory overhead rate with an allocation base of direct labor hours, the factory overhead that Blackwelder Factory will allocate to small table lamp production if actual direct labor hours for the period for small table lamp production is 285,000 would be $\frac{640000}{400000}*285000=456000$
+
+12. Ramapo Company produces two products, Blinks and Dinks. They are manufactured in two departments, Fabrication and Assembly. Data for the products and departments are listed below.
+
+    | Product | Number of Units | Direct Labor Hours per Unit | Machine Hours per Unit |
+    | ------- | --------------- | --------------------------- | ---------------------- |
+    | Blinks  | 1000            | 4                           | 5                      |
+    | Dinks   | 2000            | 2                           | 8                      |
+    
+    All of the machine hours take place in the Fabrication Department, which has an estimated overhead of \$84,000. All of the labor hours take place in the Assembly Department, which has an estimated total overhead of ​\$72,000.
+    
+    Ramapo Company uses a single plantwide overhead rate to apply all factory overhead costs based on direct labor hours. The factory overhead allocated per unit of Dinks is $\frac{84000+72000}{(1000*4)+(2000*2)}*2=39$
+
+13. Skagit Company manufactures Hooks and Nooks. The following shows the activities per product and total activity information:
+
+    |       | Units | Setups | Inspections | Assembly |
+    | ----- | ----- | ------ | ----------- | -------- |
+    | Hooks | 4000  | 1      | 3           | 1        |
+    | Nooks | 8000  | 2      | 2           | 3        |
+
+    | Activity    | Total Activity-Based Usage | Budgeted Activity Cost |
+    | ----------- | -------------------------- | ---------------------- |
+    | Setups      | 20000                      | 60000                  |
+    | Inspections | 24000                      | 120000                 |
+    | Assembly    | 28000                      | 420000                 |
+    
+    The total factory overhead to be allocated to Nooks is $[(\frac{60000}{20000}*2)+(\frac{120000}{24000}*2)+(\frac{420000}{28000}*3)]*8000=488000$
+
+14. Beauty Beyond Words Salon uses an activity-based costing system to determine the cost of services. The salon has determined the costs of services by activity and activity usage as follows:
+
+    | Activity           | Activity Rate |
+    | ------------------ | ------------- |
+    | Hair washing       | 4             |
+    | Conditioning       | 3.5           |
+    | Chemical treatment | 25            |
+    | Styling            | 10            |
+
+    |                | Hair Washing | Conditioning | Chemical Treatment | Styling |
+    | -------------- | ------------ | ------------ | ------------------ | ------- |
+    | Haircut        | 1            | 1            | 0                  | 0       |
+    | Complete style | 1            | 1            | 0                  | 0       |
+    | Perm           | 2            | 3            | 1                  | 1       |
+    | Highlights     | 3            | 4            | 2                  | 1       |
+
+    Determine the cost of services for a highlight.
+
+    - Hair washing: $3*4=12$
+      Conditioning: $4*3.5=14$
+      Chemical treatment: $2*25=50$
+      Styling: $1*10=10$
+      Total: $12+14+50+10=86$
+
+# Chapter 20
+
+## Pre-Lecture Videos
+
+1. Costs that do not change with the change in the level of production for some time is classified as **fixed costs**.
+2. Under variable costing, the cost of goods manufactured consists of all except **fixed factory overhead**.
+3. Costs that have characteristics of both a variable cost and a fixed cost are classified as **mixed costs**.
+4. Cost-volume-profit analysis is used for **analyzing the effects of changes in costs on profits**, **analyzing the effects of changes in volume on profits**, **determining selling price**.
+5. Contribution margin is the **difference between sales and variable costs**.
+6. Which of the following formulas is used to calculate break-even units?
+   - **Fixed Costs ÷ Unit Contribution Margin**
+7. What effect does the increase in fixed costs have on the break-even units?
+   - **Increase**
+8. If a company decides to increase the selling price of its product, what is its effect on break-even point?
+   - **Decrease**
+9. Which of the following assumptions is false in a cost-volume-profit analysis?
+   - **There are no changes in the inventory quantities during the period.**
+10. Which of the following charts plot only a profit line rather than sales and cost lines?
+    - **Profit-volume chart**
+11. The difference between contribution margin and income from operations is **fixed costs**.
+12. The relationship between a company’s contribution margin and income from operations is measured by **operating leverage**.
+13. The **sales mix** is the relative distribution of sales among the products sold by a company.
+14. The unit selling price of the overall enterprise product equals the **sum of the unit selling prices of each product multiplied by its sales mix percentage**.
+
+## Mini Quiz
+
+1. Beachside Co. sells two products: Skis and Snorkels. Last year, Beachside sold 12,600 units of Skis and 23,400 units of Snorkels. Related data are as follows:
+
+   | Product  | Unit Selling Price | Unit Variable Cost | Unit Contribution Margin |
+   | -------- | ------------------ | ------------------ | ------------------------ |
+   | Skis     | $120               | $80                | $40                      |
+   | Snorkels | 80                 | 60                 | 20                       |
+
+   What was Beachside Co.'s total unit selling price?
+
+   - $\frac{(12600*120)+(23400*80)}{12600+23400}=94$
+
+2. **Operating leverage** is a measure of the relative mix of a business's variable costs and fixed costs, computed as contribution margin divided by operating income.
+
+3. Which of the following conditions would cause the break-even point to decrease?
+
+   - **Total fixed costs decrease**
+
+4. The equation for the break-even point in sales units is **fixed costs divided by unit contribution margin.**
+
+5. Which of the following costs is an example of a cost that remains the same in total as the number of units produced changes?
+
+   - **Factory rent**
+
+6. Total direct materials costs are \$127,500, fixed costs are ​\$75,000, and units produced are 15,000. What is the direct materials cost per unit?
+
+   - $\frac{127000}{15000}=8.5$
+
+7. Variable costs for Oswego Company were 35% of sales, and sales were \$425,000. Fixed costs were ​\$100,000. What was the operating income?
+
+   - $425000-(425000*35\%)-100000=176250$
+
+8. Break-even analysis for a service company involves identifying the correct **unit of analysis**.
+
+9. All of the following are assumptions of cost-volume-profit analysis except **within the relevant range of operating activity, the efficiency of operations can change.**
+
+10. Contribution margin is **sales revenue minus variable costs.**
+
+11. Contribution margin ratio is also referred to as **profit-volume ratio.**
+
+12. Operating leverage can be used to measure **the impact of changes in sales on operating income.**
+
+13. When direct materials costs per unit are plotted on the vertical axis of a graph and units produced are plotted on the horizontal axis, a unit variable cost appears as a **horizontal straight line**.
+
+14. In a service company, the unit of analysis can influence whether costs are defined as **fixed or variable.**
+
+15. In a cost-volume-profit chart, the **slope of the total costs line is dependent on the variable cost per unit.**
+
+16. If fixed costs are \$400,000 and the unit contribution margin is \$20, how many units must be sold in order to realize an operating income of \$250,000?
+
+    - $\frac{400000+250000}{20}=32500$
+
+17. Unit variable costs may be affected by all of the following except changes in the **level of activity**.
+
+18. Target profit **can be calculated by modifying the break-even equation.**
+
+19. If fixed costs are \$300,000 and the unit contribution margin is ​\$20, how many units must be sold in order to have a zero profit?
+
+    - $\frac{300000}{20}=15000$
+
+20. If sales are \$440,000, variable costs are 75% of sales, and operating income is ​\$40,000, what is the operating leverage?
+
+    - $\frac{440000-(440000*75\%)}{40000}=2.75$
+
+21. Operating leverage is determined as **contribution margin divided by operating income.**
+
+22. Companies with high fixed costs will normally have **high operating leverage.**
+
+23. Craig Co. sells two products: A and B. Last year, Craig sold 14,000 units of A and 21,000 units of B. Related data are as follows:
+
+    | Product | Unit Selling Price | Unit Variable Cost | Unit Contribution Margin |
+    | ------- | ------------------ | ------------------ | ------------------------ |
+    | A       | $110               | $70                | $40                      |
+    | B       | 70                 | 50                 | 20                       |
+
+    - Total Units: $14000+21000=35000$
+      A's Proportion: $\frac{14000}{35000}=.4$
+      B's Proportion: $\frac{21000}{35000}=.6$
+      Unit selling price of A and B: $(110*.4)+(70*.6)=86$
+      Unit variable cost: $(70*.4)+(50*.6)=58$
+      Unit contribution margin: $(40*.4)+(20*.6)=28$
+
+24. Sales mix is **the relative distribution of sales among the products sold by a company.**
+
+## Practice Exercises
+
+## Homework Exercises
+
+## Quiz
+
+
+
+
 
