@@ -2797,11 +2797,439 @@
 
 ## Practice Exercises
 
+### Break-Even Analysis
+
+1. Media outlets such as ESPN and FOX Sports often have websites that provide in-depth coverage of news and events. Portions of these websites are restricted to members who pay a monthly subscription to gain access to exclusive news and commentary.
+
+   These websites typically offer a free trial period to introduce viewers to the websites. Assume that during a recent fiscal year, [ESPN.com](https://www.espn.com/) spent $4,200,000 on a promotional campaign for the [ESPN.com](https://www.espn.com/) websites that offered two free months of service for new subscribers. In addition, assume the following information:
+
+   | Number of months an average new customer stays with the service<br/>(including the two free months) | 14 months |
+   | ------------------------------------------------------------ | --------- |
+   | Revenue per month per customer subscription                  | 10        |
+   | Variable cost per month per customer subscription            | 5         |
+
+   Determine the number of new customer accounts needed to break even on the cost of the promotional campaign. In forming your answer, (1) treat the cost of the promotional campaign as a fixed cost, and (2) treat the revenue less variable cost per account for the subscription period as the unit contribution margin.
+
+   - $\frac{4200000}{(10*12)-(5*14)}=84000$ accounts
+
+### Break-Even Point
+
+2. Freese Inc. sells a product for 650 per unit. The *variable cost* is 455 per unit, while *fixed costs* are 4,290,000.
+
+   Determine (a) the break-even point in sales units and (b) the break-even point if the selling price were increased to \$655 per unit.
+
+   1. Break-even point in sales units: $\frac{4290000}{650-455}=22000$
+   2. Break-even point if the selling price were increased to \$655 per unit: $\frac{4290000}{655-455}=21450$
+
+### Break-even sales and sales to realize operating income
+
+3. For the current year ended March 31, Cosgrove Company expects *fixed costs* of \$27,600,000, a unit *variable cost* of ​\$805, and a unit selling price of \$1,150.
+   1. Compute the anticipated break-even sales (units)
+      - $\frac{27600000}{1150-805}=80000$
+   2. Compute the sales (units) required to realize operating income of \$5,175,000.
+      - $\frac{27600+5175000}{1150-805}=95000$
+
+### Break-Even Sales Under Present and Proposed Conditions
+
+4. Portmann Company, operating at full capacity, sold 1,000,000 units at a price of \$188 per unit during the current year. Its income statement is as follows:
+
+   | Item                    | Debit           | Credit              |
+   | ----------------------- | --------------- | ------------------- |
+   | Sales                   |                 | 188000000           |
+   | Cost of goods sold      |                 | <u>(100000000)</u>  |
+   | Gross profit            |                 | 88000000            |
+   | Expenses:               |                 |                     |
+   | Selling expenses        | 16000000        |                     |
+   | Administrative expenses | <u>12000000</u> |                     |
+   | Total expenses          |                 | <u>(28000000)</u>   |
+   | Operating income        |                 | <u>**60000000**</u> |
+
+   The division of costs between *variable* and *fixed* is as follows:
+
+   |                         | Variable | Fixed |
+   | ----------------------- | -------- | ----- |
+   | Cost of goods sold      | 70%      | 30%   |
+   | Selling expenses        | 75%      | 25%   |
+   | Administrative expenses | 50%      | 50%   |
+
+   Management is considering a plant expansion program for the following year that will permit an increase of \$11,280,000 in yearly sales. The expansion will increase fixed costs by \$5,000,000 but will not affect the relationship between sales and variable costs.
+
+   1. Determine the total variable costs and the total fixed costs for the current year.
+      - Total variable costs: $70000000+12000000+6000000=88000000$
+        Total fixed costs: $30000000+4000000+6000000=40000000$
+   2. Determine (a) the unit variable cost and (b) the *unit contribution margin* for the current year.
+      - Unit variable cost: $\frac{88000000}{1000000}=88$
+        Unit contribution margin: $\frac{188}{88}=100$
+   3. Compute the break-even sales (units) for the current year.
+      - $\frac{40000000}{100}=40000$
+   4. Compute the break-even sales (units) under the proposed program for the following year.
+      - $\frac{40000000+5000000}{100}=45000$
+   5. Determine the amount of sales (units) that would be necessary under the proposed program to realize the \$60,000,000 of operating income that was earned in the current year.
+      - $\frac{45000000+60000000}{100}=1050000$
+   6. Determine the maximum operating income possible with the expanded plant.
+      - $(188000000+11280000)-(88000000+(\frac{11280000}{188}*88))-45000000=61000000$
+   7. If the proposal is accepted and sales remain at the current level, what will the operating income or loss be for the following year?
+      - $188000000-88000000-450000000=55000000$ **Income**
+   8. Based on the data given, would you recommend accepting the proposal?
+      - **In favor of the proposal because of the possibility of increasing income from operations.**
+
+5. Howard Industries Inc., operating at full capacity, sold 64,000 units at a price of $45 per unit during the current year. Its income statement is as follows:
+
+   | Item                    | Debit         | Credit            |
+   | ----------------------- | ------------- | ----------------- |
+   | Sales                   |               | 2880000           |
+   | Cost of goods sold      |               | <u>(1400000)</u>  |
+   | Gross profit            |               | 1480000           |
+   | Expenses:               |               |                   |
+   | Selling expenses        | 400000        |                   |
+   | Administrative expenses | <u>387500</u> |                   |
+   | Total expenses          |               | <u>(787500)</u>   |
+   | Operating income        |               | <u>**692500**</u> |
+
+   The division of costs between *variable* and *fixed* is as follows:
+
+   |                         | Variable | Fixed |
+   | ----------------------- | -------- | ----- |
+   | Cost of goods sold      | 70%      | 25%   |
+   | Selling expenses        | 60%      | 40%   |
+   | Administrative expenses | 80%      | 20%   |
+
+   Management is considering a plant expansion program for the following year that will permit an increase of \$900,000 in yearly sales. The expansion will increase *fixed costs* by ​\$212,500 but will not affect the relationship between sales and *variable costs*.
+
+   1. Determine the total variable costs and the total fixed costs for the current year.
+      - Total variable costs: $1600000$
+        Total fixed costs: $587500$
+   2. Determine (a) the unit variable cost and (b) the *unit contribution margin* for the current year.
+      - Unit variable cost: $25$
+        Unit contribution margin: $20$
+   3. Compute the break-even sales (units) for the current year.
+      - $29375$
+   4. Compute the break-even sales (units) under the proposed program for the following year.
+      - $40000$
+   5. Determine the amount of sales (units) that would be necessary under the proposed program to realize the \$60,000,000 of operating income that was earned in the current year.
+      - $74625$
+   6. Determine the maximum operating income possible with the expanded plant.
+      - $880000$
+   7. If the proposal is accepted and sales remain at the current level, what will the operating income or loss be for the following year?
+      - $480000$ **Income**
+   8. Based on the data given, would you recommend accepting the proposal?
+      - **In favor of the proposal because of the possibility of increasing income from operations.**
+
+### Classify Costs
+
+6. Following is a list of various costs incurred in producing replacement automobile parts. With respect to the production and sale of these auto parts, classify each cost as either *variable costs*, *fixed costs*, or *mixed costs*.
+
+   - | Item                                                         | Cost Type |
+     | ------------------------------------------------------------ | --------- |
+     | Oil used in manufacturing equipment                          | Variable  |
+     | Plastic                                                      | Variable  |
+     | Property taxes, \$165,000 per year on factory building and equipment | Fixed     |
+     | Salary of plant manager                                      | Fixed     |
+     | Cost of labor for hourly workers                             | Variable  |
+     | Packaging                                                    | Variable  |
+     | Factory cleaning costs, \$6,000 per month                    | Fixed     |
+     | Metal                                                        | Variable  |
+     | Rent on warehouse, \$10,000 per month plus ​\$25 per square foot of storage used | Mixed     |
+     | Property insurance premiums, \$3,600 per month plus \$0.01 for each dollar of property over \$1,200,000 | Mixed     |
+     | Straight-line depreciation on the production equipment       | Fixed     |
+     | Hourly wages of machine operators                            | Variable  |
+     | Electricity costs, \$0.20 per kilowatt-hour                  | Variable  |
+     | Computer chip (purchased from a vendor)                      | Variable  |
+     | Pension cost, \$1.00 per employee hour on the job            | Variable  |
+
+### Contribution Margin
+
+7. Waite Company sells 250,000 units at 120 per unit. *Variable costs* are 78 per unit, and *fixed costs* are 8,175,000.
+
+   Determine (a) the contribution margin ratio, (b) the unit contribution margin, and (c) operating income.
+
+   1. Contribution margin ratio $\frac{120-78}{120}=35\%$
+   2. Unit contribution margin $120-78=42$ per unit
+   3. Operating income: $(250000*(120-78))-8175000=2325000$
+
+### Contribution Margin Ratio
+
+8.  
+   1. Young Company budgets sales of \$112,900,000, fixed costs of \$25,000,000, and variable costs of \$66,611,000. What is the contribution margin ratio for Young Company?
+      - $\frac{112900000-66611000}{112900000}=41\%$
+   2. If the contribution margin ratio for Martinez Company is 40%, sales were \$34,800,000, and fixed costs were ​\$1,500,000, what was the operating income?
+      - $(34800000*40\%)-1500000=12420000$
+
+### High-Low Method
+
+9. The manufacturing costs of Rosenthal Industries for the first three months of the year follow:
+
+   |          | Total Costs | Units Produced |
+   | -------- | ----------- | -------------- |
+   | January  | 1890000     | 22500          |
+   | February | 2800000     | 35000          |
+   | March    | 4230000     | 55000          |
+
+   Using the high-low method, determine (a) the variable cost per unit and (b) the total fixed cost.
+
+   1. Variable cost per unit: $\frac{4230000-1890000}{55000-22500}=72$
+   2. Total fixed cost: $4230000-(55000*72)=270000$
+
+10. Ziegler Inc. has decided to use the high-low method to estimate the total cost and the fixed and variable cost components of the total cost. The data for various levels of production are as follows:
+
+    | Units Produced | Total Costs |
+    | -------------- | ----------- |
+    | 80000          | 25100000    |
+    | 92000          | 27206000    |
+    | 120000         | 32120000    |
+
+    1. Determine the variable cost per unit and the total fixed cost.
+       - Variable cost (Round to two decimal places): $\frac{32120000-25100000}{120000-80000}=175.50$
+         Total fixed cost: $32120000-(175.5*120000)=11060000$
+    2. Based on part (a), estimate the total cost for 115,000 units of production.
+       - $11060000+(175.5*115000)=31242500$
+
+### Margin of Safety
+
+11. Jorgensen Company has sales of \$380,000,000, and the break-even point in sales dollars is ​\$323,000,000.
+
+    Determine Jorgensen Company’s margin of safety as a percent of current sales.
+
+    - $\frac{380000000-323000000}{380000000}=15\%$
+
+### Operating Leverage
+
+12. Haywood Co. reports the following data:
+
+    | Item                | Value              |
+    | ------------------- | ------------------ |
+    | Sales               | 6160000            |
+    | Variable Costs      | <u>(4620000)</u>   |
+    | Contribution margin | 1540000            |
+    | Fixed costs         | <u>(440000)</u>    |
+    | Operating income    | **<u>1100000</u>** |
+
+    Determine Haywood Co.’s operating leverage. *Round your answer to one decimal place.*
+
+    - $\frac{1540000}{1100000}=1.4$
+
+### Sales Mix and Break-Even Analysis
+
+13. Conley Company has fixed costs of \$17,802,000. The unit selling price, variable cost per unit, and contribution margin per unit for the company’s two products follow:
+
+    | Product Model | Selling Price | Variable Cost per Unit | Contribution Margin per Unit |
+    | ------------- | ------------- | ---------------------- | ---------------------------- |
+    | Yankee        | 180           | 99                     | 81                           |
+    | Zoro          | 225           | 135                    | 90                           |
+
+    The sales mix for products Yankee and Zoro is 80% and 20%, respectively. Determine the break-even point in units of Yankee and Zoro.
+
+    1. Product Model Yankee: $\frac{17802000}{(81*80\%)+(90*20\%)}*80\%=172000$
+    2. Product Model Zero: $\frac{17802000}{(81*80\%)+(90*20\%)}*20\%=43000$
+
+### Target Profit
+
+14. Beard Company sells a product for \$15 per unit. The variable cost is 10 per unit, and fixed costs are 1,750,000.
+
+    Determine (a) the break-even point in sales units and (b) the sales units required for the company to achieve a target profit of \$400,000.
+
+    1. Break-even point in sales units: $\frac{1750000}{15-10}=350000$
+    2. Break-even point in sales units required for the company to achieve a target profit of \$400,000: $\frac{1750000+400000}{15-10}=430000$
+
 ## Homework Exercises
+
+1. If the property tax rates are increased, this change in fixed costs will result in a decrease in the break-even point.
+   - **False**
+2. If employees accept a wage contract that increases the unit contribution margin, the break-even point will decrease.
+   - **True**
+3. If direct materials cost per unit increases, the break-even point will decrease.
+   - **False**
+4. If direct materials cost per unit decreases, the amount of sales necessary to earn a desired amount of profit will decrease.
+   - **True**
+5. If fixed costs are \$650,000 and the unit contribution margin is \$30, the sales necessary to earn an operating income of \$30,000 are 14,000 units.
+   - **False**
+6. Only a single line, which represents the difference between total sales revenues and total costs, is plotted on the cost-volume-profit chart.
+   - **False**
+7. The reliability of cost-volume-profit analysis does *not* depend on the assumption that costs can be accurately divided into fixed and variable components.
+   - **False**
+8. If a business sells four products, it is not possible to estimate the break-even point.
+   - **False**
+9. If the unit selling price is \$40, the volume of sales is ​\$3,000,000, sales at the break-even point amount to \$2,500,000, and the maximum possible sales are ​\$3,300,000, the margin of safety is 11,500 units.
+   - **False**
+10. If the volume of sales is \$6,000,000 and sales at the break-even point amount to ​\$4,800,000, the margin of safety is 25%.
+    - **False**
+
+### Break-Even Point
+
+11. Sheridan Inc. sells a product for \$107 per unit. The variable cost is \$54 per unit, while fixed costs are \$522,474.
+    Determine (a) the break-even point in sales units and (b) the break-even point if the selling price were increased to \$116 per unit.
+    1. Break-even point in sales units: $\frac{522474}{107-54}=9858$
+    2. Break-even point if the selling price were increased to \$116 per unit: $\frac{522474}{116-54}=8427$
+
+### Break-even sales and sales to realize operating income
+
+12. For the current year ended March 31, Cosgrove Company expects fixed costs of \$455,400, a unit variable cost of ​\$46, and a unit selling price of \$69.
+    1. Compute the anticipated break-even sales (units): $\frac{455400}{69-46}=19800$
+    2. Compute the sales (units) required to realize operating income of \$105,800: $\frac{455400+105800}{69-46}=24400$
+
+### Contribution Margin
+
+13. Harry Company sells 21,000 units at \$19 per unit. Variable costs are \$14.06 per unit, and fixed costs are \$36,300.
+
+    Determine (a) the contribution margin ratio, (b) the unit contribution margin, and (c) operating income.
+
+    1. Contribution margin ratio (Enter as a whole number.): $\frac{19-14.06}{19}=26\%$
+    2. Unit contribution margin *(Round to nearest cent.)*: $19-14.06=4.94$
+    3. Operating income: $(21000*4.94)-36300=67440$
+
+### Contribution Margin Ratio
+
+14. 
+    1. Young Company budgets sales of \$1,280,000, fixed costs of ​\$54,700, and variable costs of \$243,200. What is the contribution margin ratio for Young Company?
+       - $\frac{1280000-243200}{1280000}=81\%$
+    2. If the contribution margin ratio for Martinez Company is 51%, sales were \$556,000, and fixed costs were ​\$195,660, what was the operating income?
+       - $(556000*51\%)-195660=87900$
+
+### High-Low Method
+
+15. The manufacturing costs of Rosenthal Industries for the first three months of the year follow:
+
+    |          | Total Costs | Production |
+    | -------- | ----------- | ---------- |
+    | January  | 181440      | 880        |
+    | February | 236480      | 1680       |
+    | March    | 282240      | 2480       |
+
+    Using the high-low method, determine (a) the variable cost per unit and (b) the total fixed cost.
+
+    1. Variable cost per unit: $\frac{282240-181440}{2480-880}=63$
+    2. Total fixed cost: $181440-(880*63)=126000$
+
+16. Ziegler Inc. has decided to use the high-low method to estimate the total cost and the fixed and variable cost components of the total cost. The data for various levels of production are as follows:
+
+    | Units Produced | Total Costs |
+    | -------------- | ----------- |
+    | 3010           | 239940      |
+    | 5370           | 349510      |
+    | 7310           | 373240      |
+
+    1. Determine the variable cost per unit and the total fixed cost.
+       - Variable cost (Round to nearest dollar.): $\frac{373240-239940}{7310-3010}=31$
+         Total fixed cost: $373240-(7310*31)=146630$
+    2. Based on part (a), estimate the total cost for 3,720 units of production.
+       - Total cost for 3,720 units: $146630+(31*3720)=261950$
+
+### Margin of Safety
+
+17. The Whitehead Company has sales of \$480,000, and the break-even point in sales dollars is ​\$379,200.
+
+    Determine the Whitehead company's margin of safety as a percent of current sales.
+
+    - $\frac{480000-379200}{480000}=21\%$
+
+### Sales Mix and Break-Even Analysis
+
+18. Jordan Company has fixed costs of \$557,040. The unit selling price, variable cost per unit, and contribution margin per unit for the company’s two products follow:
+
+    | Product Model | Selling Price | Variable Cost per Unit | Contribution Margin per Unit |
+    | ------------- | ------------- | ---------------------- | ---------------------------- |
+    | Yankee        | 140           | 80                     | 60                           |
+    | Zoro          | 220           | 140                    | 80                           |
+
+    The sales mix for products Yankee and Zoro is 70% and 30%, respectively. Determine the break-even point in units of Yankee and Zoro.
+
+    1. Product model Yankee: $\frac{557040}{(60*70\%)+(80*30\%)}*70\%=5908$
+       Product model Zoro: $\frac{557040}{(60*.70)+(80*.30)}*.3=2532$
+
+### Target Profit
+
+19. Woodsman Company sells a product for \$235 per unit. The variable cost is ​\$125 per unit, and fixed costs are \$572,000.
+
+    Determine (a) the break-even point in sales units and (b) the sales units required for the company to achieve a target profit of \$188,760.
+
+    1. Break-even point in sales units: $\frac{572000}{235-125}=5200$
+    2. Break-even point in sales units required for the company to achieve a target profit of \$188,760: $\frac{572000+188760}{235-125}=6916$
 
 ## Quiz
 
+1. Cost behavior refers to the manner in which a cost **changes as the related activity changes**.
 
+2. If fixed costs are \$250,000, the unit selling price is \$125, and the unit variable costs are \$73, the break-even sales (units) is $\frac{250000}{125-73}=4808$
+
+3. Cost behavior refers to the methods used to estimate costs for use in managerial decision making.
+
+   - **False**
+
+4. Thompson Company manufactures and sells cookware. Because of current trends, it expects to increase sales by 15% next year. If this expected level of production and sales occurs and plant expansion is not needed, how should this increase affect next year's total amounts for the following costs?
+
+   - Variable Costs: **increase**
+     Fixed Costs: **no change**
+     Mixed Costs: **increase**
+
+5. Spice Inc.'s unit selling price is \$60, the unit variable costs are \$35, fixed costs are \$125,000, and current sales are 10,000 units. How much will operating income change if sales increase by 8,000 units?
+
+   - $8000*(60-35)=200000$
+
+6. If sales are \$425,000, variable costs are 62% of sales, and operating income is ​\$50,000, the contribution margin ratio is $100\%-62\%=38\%$
+
+7. A cost that has characteristics of both a variable cost and a fixed cost is called a **mixed cost**.
+
+8. Which of the following types of cost is shown in the cost data below?
+
+   | **Total Cost** | **Number of Units** |
+   | -------------- | ------------------- |
+   | $20            | 1                   |
+   | 40             | 2                   |
+   | 60             | 3                   |
+   | 80             | 4                   |
+
+   - **variable cost**
+
+9. If fixed costs are \$400,000 and the unit contribution margin is ​\$20, the amount of units that must be sold in order to have a zero profit is
+
+   - $\frac{400000}{20}=20000$
+
+10. A firm operated at 80% of capacity for the past year, during which fixed costs were \$330,000, variable costs were 70% of sales, and sales were ​\$1,000,000. Operating income (loss) was $1000000-(70\%*1000000)-330000=-30000$
+
+11. If sales are \$820,000, variable costs are 55% of sales, and operating income is ​\$260,000, the contribution margin ratio is $100\%-55\%=45\%$
+
+12. Which of the following graphs in Figure 1 illustrates the behavior of a total variable cost?
+    <img src="https://college.cengage.com/geyser/warren_9781337902663/images/ch20/fig1.jpg" alt="img" style="zoom:75%;" />
+
+    - **Graph 3**
+
+13. If fixed costs are \$1,200,000, the unit selling price is ​\$240, and the unit variable costs are \$110, the amount of sales (units) required to realize an operating income of ​\$200,000 is $\frac{1200000+200000}{240-110}=10769$
+
+14. Understanding how costs behave is useful to management for all of the following reasons *except* **predicting customer demand**.
+
+15. Given the following cost and activity observations for Bounty Company's utilities, use the high-low method to determine Bounty's variable utilities cost per machine hour. Round your answer to the nearest cent.
+
+    |       | **Cost** | **Machine Hours** |
+    | ----- | -------- | ----------------- |
+    | March | $3,100   | 15,000            |
+    | April | 2,700    | 10,000            |
+    | May   | 2,900    | 12,000            |
+    | June  | 3,600    | 18,000            |
+
+    - $\frac{3600-2700}{18000-10000}=.11$
+
+16. Given the following cost and activity observations for George Company's utilities, use the high-low method to determine George's variable utilities cost per machine hour.
+
+    |        | **Cost** | **Machine Hours** |
+    | ------ | -------- | ----------------- |
+    | May    | $16,500  | 105,000           |
+    | June   | 18,000   | 120,000           |
+    | July   | 16,000   | 100,000           |
+    | August | 17,500   | 117,000           |
+
+    - $\frac{18000-16000}{120000-100000}=.1$
+
+17. If fixed costs are \$500,000, the unit selling price is ​\$55, and the unit variable costs are \$30, the break-even sales (units) if fixed costs are increased by ​\$80,000 is $\frac{500000+80000}{55-30}=23200$
+
+18. Which of the following is *not an example of a cost that varies in total as the number of units produced changes?
+
+    - **straight-line depreciation on factory equipment**
+
+19. The point where the sales line and the total costs line intersect on the cost-volume-profit chart represents the **break-even point**.
+
+20. Which of the following activity bases would be the most appropriate for gasoline costs of a delivery service?
+
+    - **total miles driven**
 
 
 
