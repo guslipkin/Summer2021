@@ -3231,5 +3231,636 @@
 
     - **total miles driven**
 
+# Chapter 21
 
+## Pre-Lecture Videos
+
+1. Both fixed and variable factory costs are included as a part of factory overhead when accounting for absorption costing.
+   - **True**
+2. Both fixed and variable factory costs are included as a part of factory overhead when accounting for variable costing.
+   - **False**
+3. When units manufactured are less than the number of units sold, the variable costing operating income will be **greater than** that of absorption costing.
+4. When the units manufactured are greater than the units sold, finished goods inventory **increases**.
+5. Under absorption costing, increasing finished goods inventory causes **operating income to increase**.
+6. **Controllable** costs are costs that can be influenced (increased or decreased) by management at a specific level.
+7. Which of the following costs are controllable costs for operating management?
+   - **Variable manufacturing costs**
+8. Markets can be divided into market segments by **sales territories**, **product lines**, **salespersons**.
+9. The contribution margin ratio is computed as **contribution margin divided by sales**.
+10. Which of the following items does a service company not have on its financial statements?
+    - **Cost of goods sold**
+11. Common activity bases used by an airline are the number of **passengers** and the number of **miles flown**.
+
+## Mini Quiz
+
+1. Jersey Company uses variable costing for internal decision-making purposes and has the following information for April:
+
+   | Item                                         | Value  |
+   | -------------------------------------------- | ------ |
+   | Sales                                        | 810000 |
+   | Variable cost of goods sold                  | 340000 |
+   | Fixed manufacturing costs                    | 120000 |
+   | Variable selling and administrative expenses | 90000  |
+   | Fixed selling and administrative expenses    | 50000  |
+
+   1. What is the manufacturing margin?
+      - $810000-340000=470000$
+
+   2. What is the manufacturing margin for April?
+      - $810000-340000-90000=380000$
+
+2. Sonic Flights is preparing a contribution margin report segmented by route. The following information is available:
+
+   |                                    | Miami/LA | Atlanta/New York | New York/Chicago |
+   | ---------------------------------- | -------- | ---------------- | ---------------- |
+   | Average ticket price per passenger | 1200     | 800              | 700              |
+   | Total passengers served            | 6400     | 10800            | 11300            |
+   | Total miles flown                  | 150000   | 105000           | 80000            |
+
+   The variable costs per unit are as follows:
+
+   | Cost                  | Value | Unit          |
+   | --------------------- | ----- | ------------- |
+   | Fuel                  | 17    | per mile      |
+   | Wages                 | 21    | per mile      |
+   | Food/beverage service | 12    | per pessenger |
+   | Selling               | 65    | per passenger |
+
+   What is the contribution margin ratio for the Atlanta/New York route (rounded to one decimal place)?
+
+   - $\frac{[105000*(17+21)]+[10800*(12+65)]}{800*10800}=44.2\%$
+
+3. Sales mix is sometimes referred to as the **product mix**.
+
+4. Which of the following statements regarding service companies is not true?
+
+   - **A contribution margin report cannot be used to analyze and evaluate market segments.**
+
+5. Product A's contribution margin ratio (60%) is greater than Product B's contribution margin ratio (40%). Product A's contribution margin ratio can be contributed to its lower promotion and sales commissions costs. Thus, management should consider
+
+   - **increasing the price of Product B.**
+     **reducing Product B's promotion and sales commissions costs.**
+     **emphasizing product A in its marketing plans.**
+
+6. A company with a seasonal demand for its products may have an opportunity to obtain an off-season order. The relevant factors for such a short-run decision include the **additional revenues and variable costs.**
+
+7. Operating income is often termed EBIT because it represents **earnings before interest and taxes.**
+
+8. If the number of units manufactured is greater than the number of units sold, the operating income reported under the absorption costing concept **would be larger than the operating income reported under the variable costing concept.**
+
+9. Given the following information for Smith Company's Northern Division, what is the division's EBITDA margin?
+
+   | Item             | Value |
+   | ---------------- | ----- |
+   | Revenue          | 44140 |
+   | Operating income | 18112 |
+   | Depreciation     | 5000  |
+   | Amortization     | 1422  |
+   | Tax Rate         | 20%   |
+
+   - $\frac{18112+5000+1422}{44140}=56\%$
+
+10. Under absorption costing, managers may be encouraged to **produce inventory**.
+
+11. EBITDA represents earnings before which of the following have been deducted?
+
+    - **Income taxes**, **interest**, **depreciation and amortization**
+
+12. All of the following are examples of market segments except **advertising.**
+
+13. Variable manufacturing costs are \$70 per unit, and fixed costs are ​\$134,680. Sales are estimated to be 5,200 units. How much would absorption costing operating income differ between a plan to produce 5,200 units and a plan to produce 6,500 units?
+
+    - $(6500-5200)*\frac{134680}{6500}=26936$
+
+14. Which of the following is true under absorption costing?
+
+    -  **Decreases in operating income can be due to changes in inventory levels.**
+      **Increases in operating income can be due to changes in inventory levels.**
+      **A portion of a finished goods inventory increase is due to the allocation of fixed manufacturing overhead to ending inventory.**
+
+15. A logical activity base for the fuel expense of a bus service would be the number of **miles travelled.**
+
+16. Under variable costing, increases in ending inventory will **have no effect on operating income.**
+
+17. The following information is available for Forever Fragrance Company's Southern Territory by salesperson:
+
+    |                             | Garcia | Jones | Total |
+    | --------------------------- | ------ | ----- | ----- |
+    | Sales                       | 30000  | 40000 | 70000 |
+    | Variable cost of goods sold | 3600   | 4800  | 8400  |
+    | Variable selling expenses:  |        |       |       |
+    | Promotion costs             | 5000   | 8000  | 13000 |
+    | Sales commissions           | 4500   | 6000  | 10500 |
+
+    What is the contribution margin for Jones?
+
+    - $40000-(4800+8000+6000)=21200$
+
+18. Variable costing is sometimes called **direct** costing.
+
+19. If the number of units manufactured is greater than the number of units sold, the operating income reported under the absorption costing concept **would be larger than the operating income reported under the variable costing concept.**
+
+20. Sales less variable cost of goods sold equals **manufacturing margin.**
+
+21. Ormand Company uses variable costing for internal decision-making purposes and has the following information for June:
+
+    | Item                                         | Value  |
+    | -------------------------------------------- | ------ |
+    | Sales                                        | 900000 |
+    | Variable cost of goods sold                  | 440000 |
+    | Fixed manufacturing costs                    | 160000 |
+    | Variable selling and administrative expenses | 100000 |
+    | Fixed selling and administrative expenses    | 70000  |
+
+    What is the operating income for June?
+
+    - $900000-440000-160000-(100000+70000)=130000$
+
+22. Operating income can be determined using **absorption and variable costing.**
+
+## Practice Exercises
+
+1. In determining cost of goods sold, two alternate costing concepts can be used: absorption costing and variable costing.
+   - **True**
+2. In determining cost of goods sold, two alternate costing concepts can be used: direct costing and variable costing.
+   - **False**
+3. Fixed factory overhead costs are included as part of the cost of products manufactured under the absorption costing concept.
+   - **True**
+4. Under absorption costing, the cost of finished goods includes direct materials, direct labor, and all factory overhead.
+   - **True**
+5. Under absorption costing, the cost of finished goods includes only direct materials, direct labor, and variable factory overhead.
+   - **False**
+6. In variable costing, the cost of products manufactured is composed of only those manufacturing costs that increase or decrease as the volume of production rises or falls.
+   - **True**
+7. In variable costing, fixed costs do *not* become part of the cost of goods manufactured, but they are considered an expense of the period.
+   - **True**
+8. Variable costing is also known as direct costing.
+   - **True**
+9. For short-run production planning, information in the absorption costing format is more useful to management than is information in the variable costing format.
+   - **False**
+10. Sales mix is generally defined as the relative distribution of sales among the various products sold.
+    - **True**
+11. If the ability to sell and the amount of production facilities devoted to each of two products are equal, it is profitable to increase the sales of that product with the lowest contribution margin.
+    - **False**
+12. If the ability to sell and the amount of production facilities devoted to each of two products are equal, it is profitable to increase the sales of that product with the highest contribution margin.
+    - **True**
+13. The contribution margin ratio is computed as contribution margin divided by sales.
+    - **True**
+14. In evaluating the performance of salespersons, the salesperson with the highest level of sales dollars should be evaluated as the best performer.
+    - **False**
+
+### Absorption and Variable Costing Income Statements
+
+15. During the first month of operations ended July 31, YoSan Inc. manufactured 2,400 flat panel televisions, of which 2,000 were sold. Operating data for the month are summarized as follows:
+
+    | Item                                 |               |         |
+    | ------------------------------------ | ------------- | ------- |
+    | Sales                                |               | 2150000 |
+    | Manufacturing costs:                 |               |         |
+    | Direct materials                     | 960000        |         |
+    | Direct labor                         | 420000        |         |
+    | Variable manufacturing cost          | 156000        |         |
+    | Fixed manufacturing cost             | <u>288000</u> | 1824000 |
+    | Selling and administrative expenses: |               |         |
+    | Variable                             | 204000        |         |
+    | Fixed                                | <u>96000</u>  | 300000  |
+
+    1. Prepare an income statement based on the absorption costing concept.
+
+       - | Absorption Costing Income Statement For the Month Ended July 31 |                                                    |                                   |
+         | ------------------------------------------------------------ | -------------------------------------------------- | --------------------------------- |
+         | Sales                                                        |                                                    | 2150000                           |
+         | Cost of goods sold:                                          |                                                    |                                   |
+         | Cost of goods manufactured                                   | 1824000                                            |                                   |
+         | Inventory, July 31                                           | $(2400-2000)*\frac{1824000}{2400}=$<u>(304000)</u> |                                   |
+         | Total cost of goods sold                                     |                                                    | $1824000-304000=$<u>(1520000)</u> |
+         | Gross profit                                                 |                                                    | 630000                            |
+         | Selling and administrative expenses                          |                                                    | <u>(300000)</u>                   |
+         | Operating income                                             |                                                    | <u>**330000**</u>                 |
+
+    2. Prepare an income statement based on the variable costing concept.
+
+       - | Variable Costing income Statement For the Month Ended July 31 |                                                    |                   |
+         | ------------------------------------------------------------ | -------------------------------------------------- | ----------------- |
+         | Sales                                                        |                                                    | 2150000           |
+         | Variable cost of goods sold:                                 |                                                    |                   |
+         | Variable cost of goods manufactured                          | 1536000                                            |                   |
+         | Inventory, July 31                                           | $(2400-2000)*\frac{1536000}{2400}=$<u>(256000)</u> |                   |
+         | Total variable cost of goods sold                            |                                                    | <u>(1280000)</u>  |
+         | Manufacturing margin                                         |                                                    | 870000            |
+         | Variable selling and administrative expenses                 |                                                    | <u>(204000)</u>   |
+         | Contribution margin                                          |                                                    | 666000            |
+         | Fixed costs:                                                 |                                                    |                   |
+         | Fixed manufacturing costs                                    | 288000                                             |                   |
+         | Fixed selling and administrative expenses                    | <u>96000</u>                                       |                   |
+         | Total fixed costs                                            |                                                    | <u>(384000)</u>   |
+         | Operating income                                             |                                                    | <u>**282000**</u> |
+
+    3. Explain the reason for the difference in the amount of operating income reported in (1) and (2).
+
+       - The operating income reported under **absorption** costing exceeds the operating income reported under **variable** costing, due to **fixed** manufacturing costs that are deferred to a future month under **absorption** costing.
+
+### Analyzing Income under Absorption and Variable Costing
+
+16. Variable manufacturing costs are \$126 per unit, and fixed manufacturing costs are ​\$157,500. Sales are estimated to be 10,000 units.
+
+    If an amount is zero, enter "0".
+
+    1. How much would absorption costing operating income differ between a plan to produce 10,000 units and a plan to produce 15,000 units?
+       - $10000*(\frac{157500}{10000}-\frac{157500}{15000})=52500$
+    2. How much would variable costing operating income differ between the two production plans?
+       - $0$ because there would be no difference in variable costing operating income.
+
+### Contribution Margin by Segment
+
+17. The following information is for LaPlanche Industries Inc.:
+
+    |                         | East  | West  |
+    | ----------------------- | ----- | ----- |
+    | Sales volume (units):   |       |       |
+    | Product XX              | 45000 | 38000 |
+    | Product YY              | 60000 | 50000 |
+    | Sales price:            |       |       |
+    | Product XX              | 700   | 660   |
+    | Product YY              | 728   | 720   |
+    | Variable cost per unit: |       |       |
+    | Product XX              | 336   | 336   |
+    | Product YY              | 360   | 360   |
+
+    1. Determine the contribution margin for the Product YY.
+       - $[60000*(728-360)]+[50000*(720-360)]=40080000$
+    2. Determine the contribution margin for the West Region.
+       - $[38000*(660-336)]+[50000*(720-360)]=30312000$
+
+### Inventory Valuation under Absorption Costing and Variable Costing
+
+18. At the end of the first year of operations, 21,500 units remained in the finished goods inventory. The unit manufacturing costs during the year were as follows:
+
+    | Item                      | Value |
+    | ------------------------- | ----- |
+    | Direct materials          | 30    |
+    | Direct labor              | 18    |
+    | Fixed factory overhead    | 22    |
+    | Variable factory overhead | 14    |
+
+    Determine the cost of the finished goods inventory reported on the balance sheet under (a) the absorption costing concept and (b) the variable costing concept.
+
+    - Absorption costing: $21500*(30+18+22+14)=1806000$
+      Variable costing: $21500*(30+18+14)=1333000$
+
+### Variable and Absorption Costing–Three Products
+
+19. Winslow Inc. manufactures and sells three types of shoes. The income statements prepared under the absorption costing method for the three shoes are as follows:
+
+    | Product Income Statements–Absorption Costing For the Year Ended December 31, 20Y1 | Cross Training Shoes | Golf Shoes         | Running Shoes       |
+    | ------------------------------------------------------------ | -------------------- | ------------------ | ------------------- |
+    | Revenues                                                     | 5800000              | 6900000            | 4200000             |
+    | Cost of goods sold                                           | <u>(3016000)</u>     | <u>(3381000)</u>   | <u>(2814000)</u>    |
+    | Gross profit                                                 | 2784000              | 3519000            | 1386000             |
+    | Selling and administrative expenses                          | <u>(2436000)</u>     | <u>(2484000)</u>   | <u>(2142000)</u>    |
+    | Operating Income                                             | <u>**348000**</u>    | <u>**1035000**</u> | <u>**(756000)**</u> |
+
+    In addition, you have determined the following information with respect to allocated fixed costs:
+
+    |                                     | Cross Training Shoes | Golf Shoes | Running Shoes |
+    | ----------------------------------- | -------------------- | ---------- | ------------- |
+    | Fixed costs:                        |                      |            |               |
+    | Cost of goods sold                  | 928000               | 897000     | 798000        |
+    | Selling and administrative expenses | 696000               | 828000     | 588000        |
+
+    These fixed costs are used to support all three product lines and will not change with the elimination of any one product. In addition, you have determined that the effects of inventory may be ignored.
+
+    The management of the company has deemed the profit performance of the running shoe line as unacceptable. As a result, it has decided to eliminate the running shoe line. Management does not expect to be able to increase sales in the other two lines. However, as a result of eliminating the running shoe line, management expects the profits of the company to increase by \$756,000.
+
+    1. Are management’s decision and conclusions correct?
+
+       - Management’s decision and conclusion are **incorrect** . The profit **will not** be improved because the fixed costs used in manufacturing and selling running shoes **will not** be avoided if the line is eliminated.
+
+    2. Prepare a variable costing income statement for the three products. Enter a net loss as a negative number using a minus sign.
+
+       - | Variable Costing Income Statements–Three Product Lines For the Year Ended December 31, 20Y1 | Cross Training Shoes | Golf Shoes | Running Shoes |
+         | ------------------------------------------------------------ | -------------------- | ---------- | ------------- |
+         | Revenues                                                     | 5800000              | 6900000    | 4200000       |
+         | Variable cost of goods sold                                  | -2088000             | -2484000   | -2016000      |
+         | Manufacturing margin                                         | 3712000              | 4416000    | 2184000       |
+         | Variable selling and administrative expenses                 | -1740000             | -1656000   | -1554000      |
+         | Contribution margin                                          | 1972000              | 2760000    | 630000        |
+         | Fixed costs:                                                 |                      |            |               |
+         | Fixed manufacturing costs                                    | -928000              | -897000    | -798000       |
+         | Fixed selling and administrative expenses                    | -696000              | -828000    | -588000       |
+         | Total fixed costs                                            | -1624000             | -1725000   | 1386000       |
+         | Operating income (loss)                                      | 348000               | 1035000    | -756000       |
+
+    3. Use the report in (b) to determine the profit impact of eliminating the running shoe line, assuming no other changes.
+
+       - If the running shoe line were eliminated, then the contribution margin of the product line would **be eliminated** and the fixed costs **would not** be eliminated. Thus, the profit of the company would actually **decline** by **630000**. Management should keep the line and attempt to improve the profitability of the product by **increasing** prices, **increasing** volume, or **reducing** costs.
+
+### Variable Costing
+
+20. Marley Company has the following information for March:
+
+    | Item                                         | Value  |
+    | -------------------------------------------- | ------ |
+    | Sales                                        | 912000 |
+    | Variable cost of goods sold                  | 474000 |
+    | Fixed manufacturing costs                    | 82000  |
+    | Variable selling and administrative expenses | 238100 |
+    | Fixed selling and administrative expenses    | 54700  |
+
+    Determine the following for Marley Company for the month of March:
+
+    1. Manufacturing margin: $912000-474000=438000$
+    2. Contribution margin: $438000-238100=199900$
+    3. Operating income: $199900-82000-54700=63200$
+
+### Variable Costing–Production Exceeds Sales
+
+21. Fixed manufacturing costs are \$44 per unit, and variable manufacturing costs are ​\$100 per unit. Production was 67,200 units, while sales were 50,400 units.
+    1. Determine whether variable costing operating income is less than or greater than absorption costing operating income.
+       - **Variable costing operating income is less than absorption costing.**
+    2. Determine the difference in variable costing and absorption costing operating income.
+       - $16800*44=739200$
+
+### Variable Costing–Sales Exceed Production
+
+22. The beginning inventory is 52,800 units. All of the units that were manufactured during the period and 52,800 units of the beginning inventory were sold. The beginning inventory fixed manufacturing costs are \$14.70 per unit, and variable manufacturing costs are ​\$30 per unit.
+    1. Determine whether variable costing operating income is less than or greater than absorption costing operating income.
+       - **Variable costing operating income is greater than absorption costing.**
+    2. Determine the difference in variable costing and absorption costing operating income.
+       - $52800*14.7=776160$
+
+## Homework Exercises
+
+1. Which of the following terms is commonly used to describe the concept whereby the cost of manufactured products is composed of direct materials cost, direct labor cost, and variable factory overhead cost?
+
+   - **variable costing**
+
+2. Under variable costing, which of the following costs would *not* be included in finished goods inventory?
+
+   - **fixed factory overhead cost**
+
+3. In the variable costing income statement, deduction of variable selling and administrative expenses from manufacturing margin yields **contribution margin**.
+
+4. The amount of income under absorption costing will be more than the amount of income under variable costing when units manufactured **exceed units sold**.
+
+5. A business operated at 100% of capacity during its first month and incurred the following costs:
+
+   | Item                            | Value        | Value  |
+   | ------------------------------- | ------------ | ------ |
+   | Production costs (20000 units): |              |        |
+   | Direct materials                | 180000       |        |
+   | Direct labor                    | 240000       |        |
+   | Variable factory overhead       | 280000       |        |
+   | Operating expenses:             |              |        |
+   | Variable operating expenses     | 130000       |        |
+   | Fixed operating expenses        | <u>50000</u> | 180000 |
+
+   If 1,600 units remain unsold at the end of the month, the amount of inventory that would be reported on the variable costing balance sheet is
+
+   - $1600*\frac{180000+240000+280000}{20000}=56000$
+
+6. A business operated at 100% of capacity during its first month and incurred the following costs:
+
+   | Item                            | Value        | Value  |
+   | ------------------------------- | ------------ | ------ |
+   | Production costs (10000 units): |              |        |
+   | Direct materials                | 80000        |        |
+   | Direct labor                    | 120000       |        |
+   | Variable factory overhead       | 140000       |        |
+   | Fixed factory overhead          | <u>40000</u> | 380000 |
+   | Operating expenses:             |              |        |
+   | Variable operating expenses     | 65000        |        |
+   | Fixed operating expenses        | <u>25000</u> | 90000  |
+
+   If 600 units remain unsold at the end of the month, the amount of inventory that would be reported on the absorption costing balance sheet is:
+
+   -  
+
+7. A business operated at 100% of capacity during its first month and incurred the following costs:
+
+   | Item                           | Value       | Value  |
+   | ------------------------------ | ----------- | ------ |
+   | Production costs (5000 units): |             |        |
+   | Direct materials               | 70000       |        |
+   | Direct labor                   | 20000       |        |
+   | Variable factory overhead      | 10000       |        |
+   | Fixed factory overhead         | <u>2000</u> | 102000 |
+   | Operating expenses:            |             |        |
+   | Variable operating expenses    | 17000       |        |
+   | Fixed operating expenses       | <u>1000</u> | 18000  |
+
+   If 1,000 units remain unsold at the end of the month and sales total \$150,000 for the month, the amount of contribution margin that would be reported on the variable costing income statement is
+
+   -  
+
+8. A business operated at 100% of capacity during its first month and incurred the following costs:
+
+   | Item                          | Value        | Value  |
+   | ----------------------------- | ------------ | ------ |
+   | Sales (103 units)             |              | 484100 |
+   | Production costs (129 units): |              |        |
+   | Direct materials              | 65541        |        |
+   | Direct labor                  | 16734        |        |
+   | Variable factory overhead     | 29284        |        |
+   | Fixed factory overhead        | <u>27890</u> | 139449 |
+   | Operating expenses:           |              |        |
+   | Variable operating expenses   | 6053         |        |
+   | Fixed operating expenses      | <u>3513</u>  | 9566   |
+
+   The amount of operating income that would be reported on the absorption costing income statement is
+
+9. Under which inventory costing method could increases or decreases in operating income be misinterpreted to be the result of operating efficiencies or inefficiencies?
+
+   - **only absorption costing**
+
+10. Jake Entertainment Corporation has three segments with revenue, operating income, and depreciation and amortization information (in millions) as follows:
+
+    | Segment    | Revenue         | Operating Income | Depreciation and Amortization |
+    | ---------- | --------------- | ---------------- | ----------------------------- |
+    | Film       | 5000            | 1500             | 525                           |
+    | Theme Park | 1000            | 320              | 112                           |
+    | Video Game | <u>500</u>      | <u>175</u>       | <u>53</u>                     |
+    | Totals     | <u>**6500**</u> | <u>**1995**</u>  | <u>**690**</u>                |
+
+### Absorption and Variable Costing Income Statements
+
+11. During the first month of operations ended July 31, YoSan Inc. manufactured 10,100 flat panel televisions, of which 9,500 were sold. Operating data for the month are summarized as follows:
+
+    | Item                                 |               |         |
+    | ------------------------------------ | ------------- | ------- |
+    | Sales                                |               | 1662500 |
+    | Manufacturing costs:                 |               |         |
+    | Direct materials                     | 828200        |         |
+    | Direct labor                         | 252500        |         |
+    | Variable manufacturing cost          | 212100        |         |
+    | Fixed manufacturing cost             | <u>111100</u> | 1403900 |
+    | Selling and administrative expenses: |               |         |
+    | Variable                             | 113000        |         |
+    | Fixed                                | <u>61200</u>  | 194200  |
+
+    1. Prepare an income statement based on the absorption costing concept.
+
+       - | Absorption Costing Income Statement For the Month Ended July 31 |                                                    |                                   |
+         | ------------------------------------------------------------ | -------------------------------------------------- | --------------------------------- |
+         | Sales                                                        |                                                    | 1662500                           |
+         | Cost of goods sold:                                          |                                                    |                                   |
+         | Cost of goods manufactured                                   | 1403900                                            |                                   |
+         | Inventory, July 31                                           | $(10100-9500)*\frac{1403900}{10100}$<u>(83400)</u> |                                   |
+         | Total cost of goods sold                                     |                                                    | $1403900-83400=$<u>(1320500)</u>  |
+         | Gross profit                                                 |                                                    | $1662500-1320500=342000$          |
+         | Selling and administrative expenses                          |                                                    | <u>(194200)</u>                   |
+         | Operating income                                             |                                                    | $342000-194200=$<u>**147800**</u> |
+
+    2. Prepare an income statement based on the variable costing concept.
+
+       - | Variable Costing income Statement For the Month Ended July 31 |                                                     |                                   |
+         | ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- |
+         | Sales                                                        |                                                     | 1662500                           |
+         | Variable cost of goods sold:                                 |                                                     |                                   |
+         | Variable cost of goods manufactured                          | $828200+252500+212100=1292800$                      |                                   |
+         | Inventory, July 31                                           | $(10100-9500)*\frac{1292800}{10100}=$<u>(76800)</u> |                                   |
+         | Total variable cost of goods sold                            |                                                     | $1292800-76800=$<u>(1216000)</u>  |
+         | Manufacturing margin                                         |                                                     | $1662500-1216000=446500$          |
+         | Variable selling and administrative expenses                 |                                                     | <u>(113000)</u>                   |
+         | Contribution margin                                          |                                                     | $446500-133000=313500$            |
+         | Fixed costs:                                                 |                                                     |                                   |
+         | Fixed manufacturing costs                                    | 111100                                              |                                   |
+         | Fixed selling and administrative expenses                    | <u>61200</u>                                        |                                   |
+         | Total fixed costs                                            |                                                     | <u>(172300)</u>                   |
+         | Operating income                                             |                                                     | $313500-172300=$<u>**141200**</u> |
+
+    3. Explain the reason for the difference in the amount of operating income reported in (1) and (2).
+
+       - The operating income reported under **absorption** costing exceeds the operating income reported under **variable** costing, due to **fixed** manufacturing costs that are deferred to a future month under **absorption** costing.
+
+### Analyzing Income under Absorption and Variable Costing
+
+12. Variable manufacturing costs are \$90 per unit, and fixed manufacturing costs are ​\$69,300. Sales are estimated to be 6,300 units.
+
+    If an amount is zero, enter "0". *Round intermediate calculations to the nearest cent and your final answers to the nearest dollar.*
+
+    1. How much would absorption costing operating income differ between a plan to produce 6,300 units and a plan to produce 7,700 units?
+       - $6300*(\frac{69300}{6300}-\frac{69300}{7700})=12600$
+    2. How much would variable costing operating income differ between the two production plans?
+       - $0$
+
+### Contribution Margin by Segment
+
+13. The following data are for Flat Bed Apparel:
+
+    |                         | East | West |
+    | ----------------------- | ---- | ---- |
+    | Sales volume (units):   |      |      |
+    | Product XX              | 6300 | 7100 |
+    | Product YY              | 4200 | 6300 |
+    | Sales price:            |      |      |
+    | Product XX              | 11   | 9    |
+    | Product YY              | 15   | 17   |
+    | Variable cost per unit: |      |      |
+    | Product XX              | 7    | 7    |
+    | Product YY              | 9    | 9    |
+
+    1. Determine the contribution margin for Product YY.
+       - $[4200*(15-9)]+[6300*(17-9)]=75600$
+    2. Determine the contribution margin for the West Region.
+       - $[7100*(9-7)]+[6300*(17-9)]=64600$
+
+### Inventory Valuation under Absorption Costing and Variable Costing
+
+14. At the end of the first year of operations, 6,100 units remained in the finished goods inventory. The unit manufacturing costs during the year were as follows:
+
+    | Item                      | Value |
+    | ------------------------- | ----- |
+    | Direct materials          | 29.4  |
+    | Direct labor              | 16.9  |
+    | Fixed factory overhead    | 6.8   |
+    | Variable factory overhead | 6     |
+
+    Determine the cost of the finished goods inventory reported on the balance sheet under (a) the absorption costing concept and (b) the variable costing concept.
+
+    - Absorption costing: $6100*(29.4+16.9+6.8+6)=360510$
+      Variable costing: $6100*(29.4+16.9+6)=319030$
+
+### Variable and Absorption Costing—Three Products
+
+15. Winslow Inc. manufactures and sells three types of shoes. The income statements prepared under the absorption costing method for the three shoes are as follows:
+
+    | Product Income Statements–Absorption Costing For the Year Ended December 31, 20Y1 | Cross Training Shoes | Golf Shoes       | Running Shoes      |
+    | ------------------------------------------------------------ | -------------------- | ---------------- | ------------------ |
+    | Revenues                                                     | 447100               | 268300           | 228100             |
+    | Cost of goods sold                                           | <u>(232500)</u>      | <u>(131500)</u>  | <u>(152800)</u>    |
+    | Gross profit                                                 | 214600               | 136800           | 75300              |
+    | Selling and administrative expenses                          | <u>(184600)</u>      | <u>(98500)</u>   | <u>(125800)</u>    |
+    | Operating Income                                             | <u>**30000**</u>     | <u>**38300**</u> | <u>**(50500)**</u> |
+
+    In addition, you have determined the following information with respect to allocated fixed costs:
+
+    |                                     | Cross Training Shoes | Golf Shoes | Running Shoes |
+    | ----------------------------------- | -------------------- | ---------- | ------------- |
+    | Fixed costs:                        |                      |            |               |
+    | Cost of goods sold                  | 71500                | 34900      | 31900         |
+    | Selling and administrative expenses | 53700                | 32200      | 31900         |
+
+    These fixed costs are used to support all three product lines and will not change with the elimination of any one product. In addition, you have determined that the effects of inventory may be ignored.
+
+    The management of the company has deemed the profit performance of the running shoe line as unacceptable. As a result, it has decided to eliminate the running shoe line. Management does not expect to be able to increase sales in the other two lines. However, as a result of eliminating the running shoe line, management expects the profits of the company to increase by \$50,500.
+
+    1. Are management’s decision and conclusions correct?
+
+       -  
+
+    2. Prepare a variable costing income statement for the three products. Enter a net loss as a negative number using a minus sign.
+
+       - | Variable Costing Income Statements–Three Product Lines For the Year Ended December 31, 20Y1 | Cross Training Shoes   | Golf Shoes            | Running Shoes          |
+         | ------------------------------------------------------------ | ---------------------- | --------------------- | ---------------------- |
+         | Revenues                                                     | $447100$               | $268300$              | $228100$               |
+         | Variable cost of goods sold                                  | $232500-71500=161000$  | $131500-34900=96600$  | $152800-31900=120900$  |
+         | Manufacturing margin                                         | $447100-161000=286100$ | $268300-96600=171700$ | $228100-120900=107200$ |
+         | Variable selling and administrative expenses                 | $184600-53700=130900$  | $98500-32200=66300$   | $125800-31900=93900$   |
+         | Contribution margin                                          | $286100-130900=155200$ | $171700-66300=105400$ | $107200-93900=13300$   |
+         | Fixed costs:                                                 |                        |                       |                        |
+         | Fixed manufacturing costs                                    | $71500$                | 34900                 | $31900$                |
+         | Fixed selling and administrative expenses                    | $53700$                | 32200                 | $31900$                |
+         | Total fixed costs                                            | $71500+53700=125200$   | $34900+32200=67100$   | $31900+31900=63800$    |
+         | Operating income (loss)                                      | $155200-125200=30000$  | $105400-67100=38300$  | $13300-63800=-50500$   |
+
+    3. Use the report in (b) to determine the profit impact of eliminating the running shoe line, assuming no other changes.
+
+       - If the running shoes line were eliminated, then the contribution margin of the product line would **be eliminated** and the fixed costs **would not** be eliminated. Thus, the profit of the company would actually **decline** by $13300$. Management should keep the line and attempt to improve the profitability of the product by **increasing** prices, **increasing** volume, or **reducing** costs.
+
+### Variable Costing
+
+16. Marsich Company has the following information for July:
+
+    | Item                                         | Value  |
+    | -------------------------------------------- | ------ |
+    | Sales                                        | 710000 |
+    | Variable cost of goods sold                  | 326600 |
+    | Fixed manufacturing costs                    | 106500 |
+    | Variable selling and administrative expenses | 78100  |
+    | Fixed selling and administrative expenses    | 49700  |
+
+    Determine the following for Marsich Company for the month of July:
+
+    1. Manufacturing margin: $710000-326600=383400$
+    2. Contribution margin: $383400-78100=305300$
+    3. Operating income: $305300-106500-49700=149100$
+
+### Variable Costing–Production Exceeds Sales
+
+17. Fixed manufacturing costs are \$55 per unit, and variable manufacturing costs are ​\$165 per unit. Production was 132,000 units, while sales were 124,080 units.
+    1. Determine whether variable costing operating income is less than or greater than absorption costing operating income.
+       -  **Variable costing operating income is less than absorption costing.**
+    2. Determine the difference in variable costing and absorption costing operating income.
+       - $(132000-124080)*55=435600$
+
+### Variable Costing–Sales Exceed Production
+
+18. The beginning inventory is 13,300 units. All of the units that were manufactured during the period and 13,300 units of the beginning inventory were sold. The beginning inventory fixed manufacturing costs are \$47 per unit, and variable manufacturing costs are ​\$96 per unit.
+    1. Determine whether variable costing operating income is less than or greater than absorption costing operating income.
+       - **Variable costing operating income is greater than absorption costing.**
+    2. Determine the difference in variable costing and absorption costing operating income.
+       - $13300*47=625100$
+
+## Quiz
 

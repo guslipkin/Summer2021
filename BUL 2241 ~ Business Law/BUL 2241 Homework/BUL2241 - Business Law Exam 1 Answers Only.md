@@ -34,7 +34,7 @@
 
 # Section 2: Multiple Choice
 
-16. B: **the Minnesota Supreme Court.
+16. B: **the Minnesota Supreme Court.**
 17. A: **a domestic corporation.**
 
 18. A: **a consolidation.**
@@ -49,7 +49,7 @@
 
 23. C: **will be awarded the remedy sought.**
 
-24. A: **all of Diligent's books and records.
+24. A: **all of Diligent's books and records.**
 
 25. B: **a deposition.**
 
