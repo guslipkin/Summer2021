@@ -685,5 +685,408 @@
 
 ## Mini Quiz
 
+1. Standards that can be attained with reasonable effort are called **normal** standards.
+
+2. A standard is **estimate of acceptable production efficiency.**
+
+3. Given the following information for The Pelican Inn, what is the direct labor time variance?
+
+   | Item                                   | Value  |
+   | -------------------------------------- | ------ |
+   | Actual housekeeping staff hours worked | 760    |
+   | Standard staff hours for rooms cleaned | 800    |
+   | Standard staff pay rate per hour       | $12.50 |
+   | Actual staff pay rate per hour         | $13.00 |
+
+   - $(800-760)*12.5=$ **(500) favorable**
+
+4. Blueberry Baking Company produced 5,500 cakes that require 3 standard pounds per unit at a \$3 standard price per pound. The company actually used 16,650 pounds in production. Journalize the entry to record the standard direct materials used in production.
+
+   - **Debit Work in Process for \$49,500 and Direct Materials Quantity Variance for \$450 and credit Materials for \$49,950**
+
+5. If a company uses standard costs to record its inventory in the general ledger, what would the journal entry be for a purchase of direct materials with an unfavorable price variance?
+
+   - **Debit Materials (at standard) and Direct Materials Price Variance and credit Accounts Payable**
+
+6. Which of the following formulas represents the direct materials price variance?
+
+   - **(Actual Price – Standard Price) × Actual Quantity**
+
+7. Which of the following statements regarding standards in nonmanufacturing settings is true?
+
+   - **Standards may be used in nonmanufacturing settings where the tasks are repetitive in nature.**
+
+8. Jordan Industries produced 6,000 units of product that required 1.5 standard hours per unit. The standard variable overhead cost per unit is \$2.75 per hour. The actual variable factory overhead was ​\$29,000. What is the variable factory overhead controllable variance?
+
+   - $29000-(6000*1.5*2.75)=$ **\$4,250 unfavorable**
+
+9. At the end of the period, the balance left in the factory overhead account is equal to the **total factory overhead cost variance.**
+
+10. Given the following information for Albright Company, what was the factory overhead cost variance?
+
+    | Manufacturing Costs | Actual Costs      | Standard Cost at Actual Volume | Budgeted Cost     |
+    | ------------------- | ----------------- | ------------------------------ | ----------------- |
+    | Direct materials    | 80300             | 76000                          | 71250             |
+    | Direct labor        | 77000             | 72500                          | 68400             |
+    | Factory overhead    | <u>44800</u>      | <u>48000</u>                   | <u>45600</u>      |
+    | Total               | <u>**202100**</u> | <u>**196500**</u>              | <u>**185250**</u> |
+
+    - $44800-48000=$ **(3200) favorable**
+
+11. When actual costs are lower than standard costs, it is said to be a(n) **favorable** variance.
+
+12. Standard amounts budgeted are determined by multiplying the standard costs per unit by **planned** production.
+
+13. The **variable factory overhead controllable** variance is the difference between the actual variable overhead costs and the budgeted variable overhead for actual production.
+
+14. Standards are used in which of the following service settings?
+
+    - **Professional services**, **automotive services**, and **software development**.
+
+15. The difference between the budgeted fixed overhead at 100% of normal capacity and the standard fixed overhead for the actual units produced is the **volume variance**.
+
+16. Strawberry Mansion Company reported the following:
+
+    | Item                       | Value     |
+    | -------------------------- | --------- |
+    | Standard quantity per unit | 3 lbs     |
+    | Standard price per pound   | \$2.75    |
+    | Actual pounds used         | 15000 lbs |
+    | Actual price per pound     | \$3.00    |
+    | Number of units produced   | 4900      |
+
+    What is the direct materials quantity variance?
+
+    - **825 unfavorable**
+
+17. When actual hours exceed standard hours, the result is a(n) **unfavorable direct labor time variance.**
+
+18. One major objective in setting standards is to **motivate employees to achieve efficient operations.**
+
+19. The differences between standard costs and actual costs are called **cost variances.**
+
+20. The direct materials cost variance is separated into which of the following two components?
+
+    - **Price and quantity**
+
+21. An income statement reporting variances from standard costs **is for internal use only.**
+
+22. At the end of the period, the balance left in the factory overhead account is equal to the **total factory overhead cost variance.**
+
+23. Standard costs may be used as a management tool to control costs by **either including standard costs and variances in the general ledger or controlling these costs separately.**
+
+24. Which of the following statements about the reporting of variances is not true?
+
+    - **Variances are reported to external financial statement users.**
+
+## Practice Questions
+
+### Direct Labor Variances
+
+1. Bellingham Company produces a product that requires 4 standard direct labor hours per unit at a standard hourly rate of \$20 per hour. If 15,000 units used 61,800 hours at an hourly rate of ​\$19.85 per hour, what is the direct labor (a) rate variance, (b) time variance, and (c) cost variance? Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+
+   1. Direct labor rate variance
+      - $(19.85-20)*61800=$ **(9270) Favorable**
+   2. Direct labor time variance
+      - $(61800-60000)*20=$ **36000 Unfavorable**
+   3. Direct labor cost variance
+      - $(19.85*61800)-(20*60000)=$ **26730 Unfavorable**
+
+2. The following data relate to labor cost for production of 20,000 cellular telephones:
+
+   | Item      | Value                |
+   | --------- | -------------------- |
+   | Actual:   | 8,450 hrs. at $22.50 |
+   | Standard: | 8,400 hrs. at $23.00 |
+
+   1. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Rate variance: $(22.5-23)*8450=$ **(4225) Favorable**
+        Time variance: $(8450-8400)*23=$ **1150 Unfavorable**
+        Total direct labor cost variance: $-4224+1150=$ **(3075) Favorable**
+   2. The employees may have been less-experienced or poorly trained, thereby resulting in a **lower** labor rate than planned. The lower level of experience or training may have resulted in **less** efficient performance. Thus, the actual time required was **more** than standard.
+
+### Direct Materials Variances
+
+3. Bellingham Company produces a product that requires 2.5 standard pounds per unit. The standard price is \$3.75 per pound. If 15,000 units used 36,000 pounds, which were purchased at ​\$4.00 per pound, what is the direct materials (a) price variance, (b) quantity variance, and (c) cost variance? Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+
+   1. Direct materials price variance
+      - $(4-3.75)*36000=$ **9000 Unfavorable**
+   2. Direct materials quantity variance
+      - $(36000-37500)*3.75= $ **(5625) Favorable**
+   3. Direct materials cost variance
+      - $(4*36000)-(3.75*37500)=$ **3375 Unfavorable**
+
+4. The following data relate to the direct materials cost for the production of 50,000 automobile tires:
+
+   | Item      | Value                         |
+   | --------- | ----------------------------- |
+   | Actual:   | 725,000 lbs. at $3.00 per lb. |
+   | Standard: | 730,000 lbs. at $2.95 per lb. |
+
+   1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Direct Materials Price Variance: $(3-2.95)*725000=$ **36250 Unfavorable**
+        Direct Materials Quantity Variance: $(725000-730000)*2.95=$ **(14750) Favorable**
+        Direct Materials Cost Variance: $36250-14750=$ **21500 Unfavorable**
+   2. The direct materials price variance should normally be reported to the **Purchasing Department** . When lower amounts of direct materials are used because of production efficiencies, the variance would be reported to the **Production Supervisor** . When the favorable use of raw materials is caused by the purchase of higher-quality raw materials, the variance should be reported to the **Purchasing Department** .
+
+### Direct Materials, Direct Labor, and Factory Overhead Cost Variance Analysis
+
+5. Mackinaw Inc. processes a base chemical into plastic. Standard costs and actual costs for direct materials, direct labor, and factory overhead incurred for the manufacture of 40,000 units of product were as follows:
+
+   |                  | **Standard Costs**                                           | **Actual Costs**              |                       |
+   | ---------------- | ------------------------------------------------------------ | ----------------------------- | --------------------- |
+   | Direct materials | 120,000 lbs. at $3.20 per lb.                                | 118,500 lbs. at $3.25 per lb. |                       |
+   | Direct labor     | 12,000 hrs. at $24.40 per hr.                                | 11,700 hrs. at $25.00 per hr. |                       |
+   | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 15,000 direct labor hrs.: |                               |                       |
+   |                  |                                                              | Variable cost, $8.00          | $91,200 variable cost |
+   |                  |                                                              | Fixed cost, $10.00            | $150,000 fixed cost   |
+
+   Each unit requires 0.3 hour of direct labor.
+
+   1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Direct Materials Price Variance: $(3.25-3.2)*118500=$ **5925 Unfavorable**
+        Direct Materials Quantity Variance: $(118500-120000)*3.2=$ **(4800) Favorable**
+        Direct Materials Cost Variance: $5925-4800=$ **1125 Unfavorable**
+   2. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Direct Labor Rate Variance: $(25-24.4)*11700=$ **7020 Unfavorable**
+        Direct Labor Time Variance: $(11700-12000)*24.4=$ **(7320) Favorable**
+        Direct Labor Cost Variance: $-7320+7020=$ **(300) Favorable**
+   3. Determine the variable factory overhead controllable variance, fixed factory overhead volume variance, and total factory overhead cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Variable factory overhead controllable variance: $91200-96000=$ **(4800) Favorable**
+        Fixed factory overhead volume variance: $(15000-12000)*10=$ **30000 Unfavorable**
+        Total factory overhead cost variance: $-4800+30000=$ **25200 Unfavorable**
+
+### Factory Overhead Controllable Variance
+
+6. Bellingham Company produced 15,000 units of product that required 4 standard direct labor hours per unit. The standard variable overhead cost per unit is \$0.90 per direct labor hour. The actual variable factory overhead was ​\$52,770. Determine the variable factory overhead controllable variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+   - $52770-(.9*15000*4)=$ **(1230) Favorable**
+
+### Factory Overhead Variance Corrections
+
+7. The data related to Shunda Enterprises Inc.'s factory overhead cost for the production of 100,000 units of product are as follows:
+
+   | Actual:   |                                                              |          |
+   | --------- | ------------------------------------------------------------ | -------- |
+   |           | Variable factory overhead                                    | $458,000 |
+   |           | Fixed factory overhead                                       | 494,000  |
+   | Standard: | 132,000 hrs. at \$7.30 (\$3.50 for variable factory overhead) | 963,600  |
+
+   Productive capacity at 100% of normal was 130,000 hours, and the factory overhead cost budgeted at the level of 132,000 standard hours was \$956,000. Based on these data, the chief cost accountant prepared the following variance analysis:
+
+   | Variable factory overhead controllable variance:     |           |      |            |
+   | ---------------------------------------------------- | --------- | ---- | ---------- |
+   | Actual variable factory overhead cost incurred       | \$458,000 |      |            |
+   | Budgeted variable factory overhead for 132,000 hours | (462,000) |      |            |
+   | Variance—favorable                                   |           |      | \$ (4,000) |
+   | Fixed factory overhead volume variance:              |           |      |            |
+   | Normal productive capacity at 100%                   | 130,000   | hrs. |            |
+   | Standard for amount produced                         | (132,000) |      |            |
+   | Productive capacity not used                         | 2,000     | hrs. |            |
+   | Standard variable factory overhead rate              | x $7.30   |      |            |
+   | Variance—unfavorable                                 |           |      | 14,600     |
+   | Total factory overhead cost variance—unfavorable     |           |      | \$10,600   |
+
+   Compute the following to assist you in identifying the errors in the factory overhead cost variance analysis. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number. *Round your interim computations to the nearest cent, if required.*
+
+   - | Variance                                        | Amount                                | Favorable/Unfavorable |
+     | ----------------------------------------------- | ------------------------------------- | --------------------- |
+     | Variable Factory Overhead Controllable Variance | $458000-462000=$ **(4000)**           | **Favorable**         |
+     | Fixed Factory Overhead Volume Variance          | $(132000-130000)*3.8=$ **(7600)**     | **Favorable**         |
+     | Total Factory Overhead Cost Variance            | $(458000+494000)-963600=$ **(11600)** | **Favorable**         |
+
+### Factory Overhead Volume Variance
+
+8. Bellingham Company produced 15,000 units of product that required 4 standard direct labor hours per unit. The standard fixed overhead cost per unit is \$1.15 per direct labor hour at 58,000 hours, which is 100% of normal capacity. Determine the fixed factory overhead volume variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+   - $1.15*[58000-(15000*4)]=$ **(2300) Favorable**
+
+### Income Statement with Variances
+
+9. Bellingham Company produces a product that requires 2.5 standard pounds per unit at a standard price of \$3.75 per pound. The company used 36,000 pounds to produce 15,000 units, which were purchased at \$4.00 per pound. Each unit requires 4 standard direct labor hours per unit at a standard hourly rate of \$20 per hour. For the 15,000 units produced, 61,800 hours were needed and employees were paid an hourly rate of \$19.85 per hour. The company uses a standard variable overhead cost per unit of \$0.90 per direct labor hour. Actual variable factory overhead was \$52,770. The company uses a standard fixed overhead cost per unit of $1.15 per direct labor hour at 58,000 hours, which is 100% of normal capacity.
+
+   Prepare an income statement through gross profit for Bellingham Company for the month ending March 31. Assume Bellingham sold 15,000 units at \$172 per unit. For those boxes in which you must enter subtractive or negative numbers use a minus sign. If an amount box does not require an entry, leave it blank..
+
+   - | Bellingham Company Income Statement Through Gross Profit For the Month Ending March 31 | <u>Favorable</u>                    | <u>Unfavorable</u>           |                                                              |
+     | ------------------------------------------------------------ | ----------------------------------- | ---------------------------- | ------------------------------------------------------------ |
+     | Sales                                                        |                                     |                              | $15000*172=2580000$                                          |
+     | Cost of goods sold-at standard                               |                                     |                              | $(15000*2.5*3.75)+(15000*4*20)+$<br />$[15000*4*(.9+1.15)]=1463625$ |
+     | Gross profit-at standard                                     |                                     |                              | $2580000-1463625=1116375$                                    |
+     | Variances from standard cost:                                |                                     |                              |                                                              |
+     | Direct materials price                                       |                                     | $(4-3.75)*36000=9000$        |                                                              |
+     | Direct materials quantity                                    | $[36000-(2.5*15000)]=-5625$         |                              |                                                              |
+     | Direct labor rate                                            | $(19.85-20)*61800=-9270$            |                              |                                                              |
+     | Direct labor time                                            |                                     | $[61800-(15000*4)]*20=36000$ |                                                              |
+     | Factory overhead controllable                                | $52770-(15000*4*.9)=-1230$          |                              |                                                              |
+     | Factory overhead volume                                      | $(1.15*58000)-(1.15*15000*4)=-2300$ |                              |                                                              |
+     | Net variances from standard cost-favorable                   |                                     |                              | $9000+36000-5625-9270-1230-2300=-26575$                      |
+     | Gross profit                                                 |                                     |                              | $1116375-26575=1089800​                                       |
+
+### Standard Cost Journal Entries
+
+10. Bellingham Company produced 15,000 units that require 2.5 standard pounds per unit at a \$3.75 standard price per pound. The company actually used 36,000 pounds in production.
+
+    Journalize the entry to record the standard direct materials used in production. If an amount box does not require an entry, leave it blank.
+
+    - | Item                               |                     |                           |
+      | ---------------------------------- | ------------------- | ------------------------- |
+      | Work in Process                    | $37500*3.75=140625$ |                           |
+      | Direct Materials Quantity Variance |                     | $(36000-37500)*3.75=5625$ |
+      | Materials                          |                     | $36000*3.75=135000$       |
+
+## Homework Exercises
+
+1. In most businesses, cost standards are established principally by accountants.
+   - **False**
+2. Standards are set for only direct labor and direct materials.
+   - **False**
+3. Standards are designed to evaluate price and quantity variances separately.
+   - **True**
+4. If the standard to produce a given amount of product is 1,000 units of direct materials at \$11 and the actual direct materials used are 800 units at \$12, the direct materials price variance is \$800 favorable.
+   - **False**
+5. If the standard to produce a given amount of product is 600 direct labor hours at \$15 and the actual direct labor incurred is 600 hours at ​\$17, the direct labor rate variance is \$1,200 unfavorable.
+   - **True**
+6. The variance from standard for factory overhead cost resulting from operating at a level above or below 100% of normal capacity is termed volume variance.
+   - **True**
+7. Although favorable fixed factory overhead volume variances are usually good news, if inventory levels are too high, additional production could be harmful.
+   - **True**
+8. At the end of the fiscal year, the variances from standard are usually transferred to the finished goods account.
+   - **False**
+9. Standards can be used in nonmanufacturing settings where the tasks are nonrepetitive in nature.
+   - **False**
+10. Subtracting actual revenues from planned revenues provides the revenue price variance.
+    - **False**
+
+### Direct Labor Variances
+
+11. Bellingham Company produces a product that requires 4 standard direct labor hours per unit at a standard hourly rate of \$22.00 per hour. If 2,800 units used 11,400 hours at an hourly rate of ​\$21.34 per hour, what is the direct labor (a) rate variance, (b) time variance, and (c) cost variance? Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+
+    1. Direct labor rate variance
+       - $(21.34-22)*11400=$ **(7524) Favorable**
+    2. Direct labor time variance
+       - $[11400-(2800*4)]*22=$ **4400 Unfavorable**
+    3. Direct labor cost variance
+       - $(21.34*11400)-[22*(2800*4)]=$ **(3124) Favorable**
+
+12. The following data relate to labor cost for production of 4,200 cellular telephones:
+
+    | Item      | Value                |
+    | --------- | -------------------- |
+    | Actual:   | 2,870 hrs. at $15.60 |
+    | Standard: | 2,820 hrs. at $15.90 |
+
+    1. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Rate variance: $(15.6-15.9)*2870=$ **(861) Favorable**
+         Time variance: $(2870-2820)*15.9=$ **795 Unfavorable**
+         Total direct labor cost variance: $-861+795=$ **(66) Favorable**
+
+### Direct Materials, Direct Labor, and Factory Overhead Cost Variance Analysis
+
+13. Mackinaw Inc. processes a base chemical into plastic. Standard costs and actual costs for direct materials, direct labor, and factory overhead incurred for the manufacture of 74,000 units of product were as follows:
+
+    |                  | **Standard Costs**                                           | **Actual Costs**      |                       |
+    | ---------------- | ------------------------------------------------------------ | --------------------- | --------------------- |
+    | Direct materials | 244,200 lbs. at $5.90                                        | 241,800 lbs. at $5.70 |                       |
+    | Direct labor     | 18,500 hrs. at $17.40                                        | 18,930 hrs. at $17.80 |                       |
+    | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 19,310 direct labor hrs.: |                       |                       |
+    |                  |                                                              | Variable cost, $4.50  | $82,420 variable cost |
+    |                  |                                                              | Fixed cost, $7.10     | $137,101 fixed cost   |
+
+    Each unit requires 0.25 hour of direct labor.
+
+    1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Direct Materials Price Variance: $(5.7-5.9)*241800=$ **(48360) Favorable**
+         Direct Materials Quantity Variance: $(241800-244200)*5.9=$ **(14160) Favorable**
+         Total Direct Materials Cost Variance: $-48360-14160=$ **(62520) Favorable**
+    2. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Direct Labor Rate Variance: $(17.8-17.4)*18930=$ **7572 Unfavorable**
+         Direct Labor Time Variance: $(18930-18500)*17.4=$ **7482 Unfavorable**
+         Total Direct Labor Cost Variance: $7572+7482=$ **15054 Unfavorable**
+    3. Determine the variable factory overhead controllable variance, fixed factory overhead volume variance, and total factory overhead cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Variable factory overhead controllable variance: $82420-(18500*4.5)=$ **(830) Favorable**
+         Fixed factory overhead volume variance: $(19310-18500)*7.1=$ **5751 Unfavorable**
+         Total factory overhead cost variance: $-830+5751=$ **4921 Unfavorable**
+
+### Direct Materials Variances
+
+14. Bellingham Company produces a product that requires 14 standard pounds per unit. The standard price is \$4.5 per pound. If 4,800 units used 69,200 pounds, which were purchased at ​\$4.73 per pound, what is the direct materials (a) price variance, (b) quantity variance, and (c) cost variance? Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+
+    1. Direct materials price variance
+       - $(4.73-4.5)*69200=$ **15916 Unfavorable**
+    2. Direct materials quantity variance
+       - $[69200-(14*4800)]*4.5=$ **9000 Unfavorable**
+    3. Direct materials cost variance
+       - $(4.73*69200)-[4.5*(14*4800)]=$ **24916 Unfavorable**
+
+15. The following data relate to the direct materials cost for the production of 2,000 automobile tires:
+
+    | Item      | Value                        |
+    | --------- | ---------------------------- |
+    | Actual:   | 53,400 lbs. at $2 per lb.    |
+    | Standard: | 52,300 lbs. at $2.05 per lb. |
+
+    1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Direct Materials Price Variance: $(2-2.05)*53400=$ **(2670) Favorable**
+         Direct Materials Quantity Variance: $(53400-52300)*2.05=$ **2255 Unfavorable**
+         Total Direct Materials Cost Variance: $-2670+2255=$ **(415) Favorable**
+    2. The direct materials price variance should normally be reported to the **Purchasing Department** . When lower amounts of direct materials are used because of production efficiencies, the variance would be reported to the **Production Supervisor** . When the favorable use of raw materials is caused by the purchase of higher-quality raw materials, the variance should be reported to the **Purchasing Department**.
+
+### Factory Overhead Controllable Variance
+
+16. Bellingham Company produced 6,000 units of product that required 6.5 standard direct labor hours per unit. The standard variable overhead cost per unit is \$4.00 per direct labor hour. The actual variable factory overhead was ​\$158,810. Determine the variable factory overhead controllable variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+    - $158810-(4*6000*6.5)=$ **2810 Unfavorable**
+
+### Factory Overhead Variance Corrections
+
+17. The data related to Shunda Enterprises Inc.’s factory overhead cost for the production of 40,000 units of product are as follows:
+
+    | Actual:   |                                                           |          |
+    | --------- | --------------------------------------------------------- | -------- |
+    |           | Variable factory overhead                                 | $175,100 |
+    |           | Fixed factory overhead                                    | 126,300  |
+    | Standard: | 61,000 hrs. at \$5 (​\$2.90 for variable factory overhead) | 305,000  |
+
+    Productive capacity at 100% of normal was 60,200 hours, and the factory overhead cost budgeted at the level of 61,000 standard hours was \$303,200. Based on these data, the chief cost accountant prepared the following variance analysis:
+
+    | Variable factory overhead controllable variance:    |           |      |          |
+    | --------------------------------------------------- | --------- | ---- | -------- |
+    | Actual variable factory overhead cost incurred      | $175,100  |      |          |
+    | Budgeted variable factory overhead for 61,000 hours | (176,900) |      |          |
+    | Variance—favorable                                  |           |      | $(1,800) |
+    | Fixed factory overhead volume variance:             |           |      |          |
+    | Normal productive capacity at 100%                  | 60,200    | hrs. |          |
+    | Standard for amount produced                        | (61,000)  |      |          |
+    | Productive capacity not used                        | 800       | hrs. |          |
+    | Standard variable factory overhead rate             | x $5      |      |          |
+    | Variance—unfavorable                                |           |      | 4,000    |
+    | Total factory overhead cost variance—unfavorable    |           |      | $2,200   |
+
+    Compute the following to assist you in identifying the errors in the factory overhead cost variance analysis. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number. *Round your interim computations to the nearest cent, if required.*
+
+    - | Variance                                        | Amount                              | Favorable/Unfavorable |
+      | ----------------------------------------------- | ----------------------------------- | --------------------- |
+      | Variable Factory Overhead Controllable Variance | $175100-176900=$ **(1800)**         | **Favorable**         |
+      | Fixed Factory Overhead Volume Variance          | $(61000-60200)*(5-2.9)=$ **(1680)** | **Favorable**         |
+      | Total Factory Overhead Cost Variance            | $-1800-1680=$ **(3480)**            | **Favorable**         |
+
+### Factory Overhead Volume Variance
+
+18. Bellingham Company produced 3,400 units of product that required 1.5 standard direct labor hours per unit. The standard fixed overhead cost per unit is \$2.40 per direct labor hour at 4,600 hours, which is 100% of normal capacity. Determine the fixed factory overhead volume variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+    - $2.4*[4600-(3400*1.5)]=$ **(1200) Favorable**
+
+### Standard Cost Journal Entries
+
+19. Bellingham Company produced 4,900 units that require nine standard pounds per unit at a $5.5 standard price per pound. The company actually used 45,000 pounds in production.
+
+    Journalize the entry to record the standard direct materials used in production. If an amount box does not require an entry, leave it blank.
+
+    - | Item                               | Debit                       | Credit             |
+      | ---------------------------------- | --------------------------- | ------------------ |
+      | Work in Process                    | $(4900*9)*5.5=242550$       |                    |
+      | Direct Materials Quantity Variance | $[(4900*9)-45000]*5.5=4950$ |                    |
+      | Materials                          |                             | $45000*5.5=247500$ |
+
+
+
+
+
 
 
