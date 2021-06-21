@@ -664,6 +664,117 @@
 
 ## Quiz
 
+1. Next year's sales forecast shows that 20,000 units of Product A and 22,000 units of Product B are going to be sold for prices of \$10 and ​\$12 per unit, respectively. The desired ending inventory of Product A is 20% higher than its beginning inventory of 2,000 units. The beginning inventory of Product B is 2,500 units. The desired ending inventory of Product B is 3,000 units.
+
+   Budgeted production of Product B for the year would be $22000-2500+3000=22500$
+
+2. For April, sales revenue is \$700,000, sales commissions are 5% of sales, the sales manager's salary is ​\$98,000, advertising expenses are \$90,000, shipping expenses total 2% of sales, and miscellaneous selling expenses are ​\$2,100 plus 1/2 of 1% of sales. Total selling expenses for the month of April are $(700000*5\%)+98000+90000+(700000*2\%)+[2100+(.5\%*700000)]=242600$
+
+3. Finch Company began its operations on March 31 of the current year. Finch has the following projected costs:
+
+   |                         | **April** | **May**  | **June** |
+   | ----------------------- | --------- | -------- | -------- |
+   | Manufacturing costs*    | $156,800  | $195,200 | $217,600 |
+   | Insurance expense**     | 1,000     | 1,000    | 1,000    |
+   | Depreciation expense    | 2,000     | 2,000    | 2,000    |
+   | Property tax expense*** | 500       | 500      | 500      |
+
+   *Of the manufacturing costs, three-fourths is paid for in the month they are incurred; one-fourth is paid in the following month.*
+   *Insurance expense is $1,000 a month; however, the insurance is paid four times yearly in the first month of the quarter (i.e., January, April, July, and October).*
+   *Property tax is paid once a year in November.*
+
+   The cash payments expected for Finch Company in the month of April are $(156800*75\%)+(1000*3)=120600$
+
+4. A variant of fiscal-year budgeting whereby a 12-month projection into the future is maintained at all times is termed **continuous** budgeting.
+
+5. Nuthatch Corporation began its operations on September 1 of the current year. Budgeted sales for the first three months of business September, October, and November are \$260,000, ​\$375,000, and \$400,000, respectively. The company expects to sell 30% of its merchandise for cash. Of sales on account, 80% are expected to be collected in the month of the sale and 20% in the month following the sale.
+
+   The cash collections expected in September from accounts receivable are estimated to be $(260000*70\%)*80\%=145600$
+
+6. A company is preparing its cash budget. Its cash balance on January 1 is \$290,000, and it has a minimum cash requirement of \$340,000. The following data have been provided:
+
+   |               | **January** | **February** | **March**   |
+   | ------------- | ----------- | ------------ | ----------- |
+   | Cash receipts | \$1,061,200 | \$1,182,400  | \$1,091,700 |
+   | Cash payments | 984,500     | 1,210,000    | 1,075,000   |
+
+   The amount of cash excess or deficiency (after considering the minimum cash balance required) for March is a(n) $290000+(1061200-984500)+(1182400-1210000)+(1091700-1075000)-340000=$ **15800 excess**.
+
+7. The production budget is used to prepare which of the following budgets?
+
+   - **direct materials purchases, direct labor cost, and factory overhead cost**
+
+8. Production estimates for July for Starling Co. are as follows:
+
+   | Item                                | Value  |
+   | ----------------------------------- | ------ |
+   | Estimated inventory (units), July 1 | 8,500  |
+   | Desired inventory (units), July 31  | 10,500 |
+   | Expected sales volume (units), July | 76,000 |
+
+   For each unit produced, the direct materials requirements are as follows:
+
+   | Item                     | Value    |
+   | ------------------------ | -------- |
+   | Material A ($5 per lb.)  | 3.0 lbs. |
+   | Material B ($18 per lb.) | 0.5 lb.  |
+
+   The number of pounds of Materials A and B required for July production is
+
+   - $76000+10500-8500=78000$
+     **Material A:** $78000*3=234000$
+     **Material B:** $78000*.5=39000$
+
+9. A formal written statement of management's plans for the future, expressed in financial terms, is a **budget**.
+
+10. Pelican Roost Hotel has 100 rooms. For a normal February, it averages 60% capacity. However, there are three 3-day events scheduled for February in which the hotel expects to be completely booked. Of the additional guests coming for the events, one-half will likely attach an extra day before or after the event to enjoy the beach and/or other local sights. You have determined that the housekeeping staff requires 30 minutes to clean each occupied room. The housekeeping staff is paid \$14 per hour. The housekeeping labor cost is fully variable to the number of occupied rooms. Assuming it is not a leap year, the total housekeeping budget for February is $[(3*3*100)+([28-(3*3)]*[100*60\%])+(40*.5*3)]*.5*14=14700$
+
+11. Mandy Corporation sells a single product. Budgeted sales for the year are anticipated to be 640,000 units, estimated beginning inventory is 98,000 units, and desired ending inventory is 80,000 units. The quantities of direct materials expected to be used for each unit of finished product are given below.
+
+    Material A: 0.5 lb. per unit @ \$0.60 per pound
+    Material B: 1.0 lb. per unit @ ​\$1.70 per pound
+    Material C: 1.2 lbs. per unit @ ​\$1.00 per pound
+
+    The dollar amount of Material C used in production during the year is $(640000+80000-98000)*1.2*1=746400$
+
+12. Cardinal Company has finished goods inventory of 55,000 units on January 1. Its projected sales for the next four months are: January, 200,000 units; February, 180,000 units; March, 210,000 units; and April, 230,000 units. Cardinal Company wishes to maintain a desired ending finished goods inventory of 20% of the following month's sales.
+
+    The budgeted units of production for March would be $210000+46000-42000=214000$
+
+13. Dove Corporation began its operations on September 1 of the current year. Budgeted sales for the first three months of business are \$250,000, ​\$320,000, and \$410,000, respectively, for September, October, and November. The company expects to sell 25% of its merchandise for cash. Of sales on account, 70% are expected to be collected in the month of the sale and 30% in the month following the sale.
+
+    The cash collections in November are $[(320000*[1-.25])*30\%]+[(410000*[1-.25])*70\%]+(410000*25\%)=389750$
+
+14. Chelsa Manufacturing Co.'s static budget at 5,000 units of production includes \$40,000 for direct labor and ​\$5,000 for variable electric power. Total fixed costs are \$23,000. At 8,000 units of production, a flexible budget would show
+
+    - **Total fixed costs:** $23000$
+      **Total variable costs:** $(8000*\frac{40000}{5000})+(8000*\frac{5000}{5000})=72000$
+
+15. As of January 1 of the current year, Grayson Company had accounts receivable of \$40,000. The sales for January, February, and March were ​\$120,000, \$140,000, and ​\$150,000, respectively. Of each month's sales, 20% are for cash. Of the remaining 80% (the credit sales), 60% are collected in the month of sale, with the remaining 40% collected in the following month. The total cash collected (both from accounts receivable and for cash sales) in the month of January is $40000+[(120000*80\%)*60\%]+(120000*20\%)=121600$
+
+16. Principal components of a master budget include **capital expenditures budget**, **production budget**, and **sales budget**.
+
+17. An October sales forecast projects 7,000 units are going to be sold at a price of \$11.50 per unit. The desired ending inventory in units is 15% higher than the beginning inventory of 1,000 units. Total October sales are anticipated to be $7000*11.5=80500$
+
+18. Below is budgeted production and sales information for Flushing Company for the month of December.
+
+    |                               | **Product XXX** | **Product ZZZ** |
+    | ----------------------------- | --------------- | --------------- |
+    | Estimated beginning inventory | 32,000 units    | 20,000 units    |
+    | Desired ending inventory      | 34,000 units    | 17,000 units    |
+    | Region I, anticipated sales   | 320,000 units   | 260,000 units   |
+    | Region II, anticipated sales  | 180,000 units   | 140,000 units   |
+
+    The unit selling price for product XXX is \$5 and for product ZZZ is ​\$15.
+
+    Budgeted sales for the month is $[(320000+180000)*5]+[(260000+140000)*15]=8500000$
+
+19. If the expected sales volume for the current period is 8,000 units, the desired ending inventory is 1,400 units, and the beginning inventory is 1,200 units, the number of units set forth in the production budget, representing total production for the current period, is $8000+1400-1200=8200$
+
+20. The budgeting process does *not* involve which of the following activities?
+
+    - **increased marketing efforts to boost sales**
+
 # Chapter 23
 
 ## Pre-Lecture Video
@@ -1084,9 +1195,144 @@
       | Direct Materials Quantity Variance | $[(4900*9)-45000]*5.5=4950$ |                    |
       | Materials                          |                             | $45000*5.5=247500$ |
 
+## Quiz
 
+1. The standard costs and actual costs for factory overhead for the manufacture of 2,500 units of actual production are as follows:
 
+   |                                        | Standard Costs                     |
+   | -------------------------------------- | ---------------------------------- |
+   | Fixed overhead (based on 10,000 hours) | 3 hours per unit at $0.80 per hour |
+   | Variable overhead                      | 3 hours per unit at $2.00 per hour |
+   |                                        |                                    |
+   | Actual Costs                           |                                    |
+   | Total variable cost, $18,000           |                                    |
+   | Total fixed cost, $8,000               |                                    |
 
+   The variable factory overhead controllable variance is $18000-15000=$ **3000 unfavorable**.
 
+2. Assuming that the standard fixed overhead rate is based on full capacity, the cost of available but unused productive capacity is indicated by the **fixed factory overhead volume variance**.
 
+3. The standard costs and actual costs for direct labor in the manufacture of 2,500 units of product are as follows:
+
+   | Standard Costs |                       |
+   | -------------- | --------------------- |
+   | Direct labor   | 7,500 hours at $11.80 |
+   |                |                       |
+   | Actual Costs   |                       |
+   | Direct labor   | 7,400 hours at $11.40 |
+
+   The direct labor time variance is $(7400-7500)*11.8=$ **1180 favorable**.
+
+4. Jaxson Corporation has the following data related to direct labor costs for September: actual costs for 10,200 hours at \$15.75 per hour and standard costs for 10,800 hours at ​\$15.50 per hour.
+
+   The direct labor time variance is $(10200-10800)*15.5=$ **9300 favorable**.
+   
+5. If the actual quantity of direct materials used in producing a commodity differs from the standard quantity, the variance is a **quantity** variance.
+
+6. The following data are given for Stringer Company:
+
+   | Item                                           | Value                          |
+   | ---------------------------------------------- | ------------------------------ |
+   | Budgeted production                            | 26,000 units                   |
+   | Actual production                              | 27,500 units                   |
+   | Materials:                                     |                                |
+   | Standard price per ounce                       | $6.50                          |
+   | Standard ounces per completed unit             | 8                              |
+   | Actual ounces purchased and used in production | 228,000                        |
+   | Actual price paid for materials                | $1,504,800                     |
+   | Labor:                                         |                                |
+   | Standard hourly labor rate                     | $22 per hour                   |
+   | Standard hours allowed per completed unit      | 6.6                            |
+   | Actual labor hours worked                      | 183,000                        |
+   | Actual total labor costs                       | $4,020,000                     |
+   | Overhead:                                      |                                |
+   | Actual and budgeted fixed overhead             | $1,029,600                     |
+   | Standard variable overhead rate                | $24.50 per standard labor hour |
+   | Actual variable overhead costs                 | $4,520,000                     |
+
+   Overhead is applied on standard labor hours. (Round interim calculations to the nearest cent.)
+
+   The direct materials quantity variance is $[228000-(27500*8)]*6.5=$ **52000 unfavorable**.
+
+7. Standard costs are divided into which of the following components?
+
+   - **standard price and standard quantity**
+
+8. The following data relate to direct labor costs for the current period:
+
+   | Item           | Value                 |
+   | -------------- | --------------------- |
+   | Standard costs | 6,000 hours at $12.00 |
+   | Actual costs   | 7,500 hours at $11.40 |
+
+   The direct labor rate variance is $(11.4-12)*7500=$ **4500 favorable**.
+
+9. The principle of exceptions allows managers to focus on correcting variances between **standard costs and actual costs**.
+
+10. Accounting systems that use standards for product costs are called variable cost systems.
+
+    - **False**
+
+11. The following data relate to direct labor costs for March:
+
+    Rate: standard, \$12.00; actual, ​\$12.25
+    Hours: standard, 18,500; actual, 17,955
+    Units of production: 9,450
+
+    The total direct labor variance is $[(17955-18500)*12]+[(12.25-12)*17955]=$ **2051.25 favorable**.
+
+12. The following data relate to direct materials costs for February:
+
+    Materials cost per yard: standard, \$2.00; actual, ​\$2.10
+    Yards per unit: standard, 4.5 yards; actual, 4.75 yards
+    Units of production: 9,500
+
+    The direct materials price variance is $(2.1-2)*(4.75*9500)=$ **4512.5 unfavorable**.
+
+13. The direct materials price variance is the difference between the **actual costs and the actual quantity at the standard price**.
+
+14. Which of the following is *not* a reason for a direct materials quantity variance?
+
+    - **increased material cost per unit**
+
+15. The total manufacturing cost variance is **the difference between total actual costs and total standard costs for the units produced**.
+
+16. The unfavorable volume variance may be due to all of the following factors *except* **unexpected increases in the cost of utilities**.
+
+17. The following data are given for Harry Company:
+
+    | Item                                           | Value                          |
+    | ---------------------------------------------- | ------------------------------ |
+    | Budgeted production                            | 26,000 units                   |
+    | Actual production                              | 27,500 units                   |
+    | Materials:                                     |                                |
+    | Standard price per ounce                       | $6.50                          |
+    | Standard ounces per completed unit             | 8                              |
+    | Actual ounces purchased and used in production | 228,000                        |
+    | Actual price paid for materials                | $1,504,800                     |
+    | Labor:                                         |                                |
+    | Standard hourly labor rate                     | $22.00 per hour                |
+    | Standard hours allowed per completed unit      | 6.6                            |
+    | Actual labor hours worked                      | 183,000                        |
+    | Actual total labor costs                       | $4,020,000                     |
+    | Overhead:                                      |                                |
+    | Actual and budgeted fixed overhead             | $1,029,600                     |
+    | Standard variable overhead rate                | $24.50 per standard labor hour |
+    | Actual variable overhead costs                 | $4,520,000                     |
+
+    Overhead is applied on standard labor hours. (Round interim calculations to the nearest cent.)
+
+    The direct labor time variance is $[183000-(6.6*27500)]*22=$ **33000 unfavorable**.
+
+18. The following data relate to direct labor costs for August: actual costs for 5,500 hours at \$24.00 per hour and standard costs for 5,000 hours at ​\$23.70 per hour.
+
+    The direct labor rate variance is $(24-23.7)*5500=$ **1650 unfavorable**.
+
+19. St. Augustine Corporation originally budgeted for \$360,000 of fixed overhead at 100% of normal production capacity. Production was budgeted to be 12,000 units. The standard hours for production were 5 hours per unit. The variable overhead rate was ​\$3 per hour. Actual fixed overhead was \$360,000, and actual variable overhead was ​\$170,000. Actual production was 11,700 units.
+
+    The fixed factory overhead volume variance is $[(12000*5)-(11700*5)]*\frac{360000}{5*12000}=$ **9000 unfavorable**.
+
+20. Which of the following conditions normally would *not* indicate that standard costs should be revised?
+
+    - **Actual costs differed from standard costs for the preceding week.**
 
