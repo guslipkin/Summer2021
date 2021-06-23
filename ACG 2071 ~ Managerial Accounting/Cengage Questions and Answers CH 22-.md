@@ -1336,3 +1336,562 @@
 
     - **Actual costs differed from standard costs for the preceding week.**
 
+# Chapter 24
+
+## Pre-Lecture Video
+
+1. In a centralized company, all major planning and operating decisions are made by **top management**.
+2. All of the following are considered advantages of decentralized operations *except* that it **duplicates assets and expenses**.
+3. All of the following are types of responsibility centers *except* **fulfillment centers**.
+4. Investment centers have the responsibility for **costs**, **revenues**, **investments in assets**.
+5. The total direct materials cost variance is equal to the **direct materials price** variance and the **direct materials quantity** variance.
+6. Service department charges are computed by **service usage multiplied by the service department charge rate**.
+7. Operations of individual profit centers should be evaluated across **time and against its budget**.
+8. The return on investment (ROI) is computed as **operating income divided by invested assets**.
+9. When comparing Return on Investment (ROI) over time, a favorable trend would be **an increase in ROI**.
+10. The excess of operating income over a minimum acceptable Operating Income is called **residual income**.
+11. The three common approaches to setting transfer prices include all of the following *except* the **preferred price** approach.
+12. Using the **market price** approach, the transfer price will be the price at which the product or service transferred could be sold to outside buyers.
+13. The **negotiated price** approach allows the managers to agree among themselves on a transfer price.
+
+## Mini Quiz
+
+1. The following information is for Blueberry Pie Company. What is the residual income if the minimum acceptable operating income as a percent of assets is 12%?
+
+   | Item               | Value      |
+   | ------------------ | ---------- |
+   | Sales              | $4,300,000 |
+   | Costs and expenses | 2,700,000  |
+   | Invested assets    | 10,000,000 |
+
+   - $(4300000-2700000)-(10000000*12\%)=400000$
+
+2. The ratio of operating income to sales is referred to as **profit margin**.
+
+3. The transfer price approach that would be used by two related companies if the supplying company is currently using all its capacity and can sell to outside customers is the **market price** approach.
+
+4. According to the DuPont formula, the two factors that affect the rate earned on total assets are **profit margin and investment turnover.**
+
+5. Transfer prices **may be used for cost, profit, and investment centers**, **are used to motivate managers**, and **can be set as low as variable costs**.
+
+6. Bright Times Company manufactures table lamps. It purchases 50,000 light bulbs from an outside supplier for \$0.60 per unit. Neon Company, a sister company, makes the same light bulb. Currently, Neon has excess production of 70,000 units. Each light bulb is sold for ​\$0.60 per unit and has a variable cost of \$0.25. Using the negotiated approach, what is the increase in income for Neon Company if the negotiated price between Bright Times and Neon is ​\$0.45?
+
+   - $(.45*50000)-(.25*50000)=10000$
+
+7. Which of the following is a disadvantage of decentralization?
+
+   - **Decisions made by one manager may not be the best decision for the entire company.**
+
+8. A manager of a cost center has responsibility for **costs only.**
+
+9. Kahle Company has two support departments: Purchasing and Payroll. The Purchasing Department expense is \$500,000 to process 50,000 purchase requisitions, which are the cost driver for the department. The Payroll Department expense is ​\$300,000 to process 25,000 payroll checks, which are the cost driver for the department. The Purchasing Department allocation rate is $\frac{500000}{50000}=10$
+
+10. The centralized Purchasing Department for Ridgewood, Inc., has monthly expenses of \$42,000. The department has prepared 3,500 purchase requisitions this month. Division L initiated 700 purchases, and Division G initiated 500 purchases. How much should Division G be charged for purchases?
+
+    - $\frac{42000}{3500}*500=6000$
+
+11. Divisional operating income should be compared **over time to a budget.**
+
+12. Which of the following would not be considered a service department?
+
+    - **A production department**
+
+13. Which of the following is considered a responsibility center?
+
+    - **Cost**, **profit**, and **investment**
+
+14. Responsibility accounting reports for higher-level managers are **more summarized than those** for lower-level managers.
+
+## Practice Exercises
+
+### Budgetary Performance for Cost Center
+
+1. Vinton Company’s costs were under budget by \$36,000. The company is divided into North and South regions. The North Region’s costs were over budget by ​\$45,000.
+
+   Determine the amount that the South Region's costs were over or under budget.
+
+   - $36000+45000=$ **81000 under budget**
+
+### Divisional Performance Analysis and Evaluation
+
+2. The vice president of operations of Recycling Industries is evaluating the performance of two divisions organized as investment centers. Invested assets and condensed income statement data for the past year for each division are as follows:
+
+   |                    | Business Division | Consumer Division |
+   | ------------------ | ----------------- | ----------------- |
+   | Sales              | $42,800,000       | $56,000,000       |
+   | Cost of goods sold | 23,500,000        | 30,500,000        |
+   | Operating expenses | 11,424,800        | 14,300,000        |
+   | Invested assets    | 34,240,000        | 70,000,000        |
+
+   *Required:*
+
+   1. Prepare condensed divisional income statements for the year ended December 31, 20Y8, assuming that there were no support department allocations.
+
+      - | Recycling Industries Divisional Income Statements For the Year Ended December 31, 20Y8 | Business Division            | Consumer Division            |
+        | ------------------------------------------------------------ | ---------------------------- | ---------------------------- |
+        | Sales                                                        | $42800000$                   | $56000000$                   |
+        | Cost of goods sold                                           | $-23500000$                  | $-30500000$                  |
+        | Gross profit                                                 | $42800000-23500000=19300000$ | $56000000-30500000=25500000$ |
+        | Operating expenses                                           | $-11424800$                  | $-14300000$                  |
+        | Operating income                                             | $19300000-11424800=7875200$  | $25500000-14300000=11200000$ |
+
+   2. Using the DuPont formula for return on investment, determine the profit margin, investment turnover, and return on investment for each division. *Round percentages to one decimal place and the investment turnover to two decimal places.*
+
+      - | Division          | Profit Margin                      | Investment Turnover              | ROI                                                        |
+        | ----------------- | ---------------------------------- | -------------------------------- | ---------------------------------------------------------- |
+        | Business Division | $\frac{7875200}{42800000}=18.4\%$  | $\frac{42800000}{34240000}=1.25$ | $\frac{7875200}{42800000}*\frac{42800000}{34240000}=23\%$  |
+        | Consumer Division | $\frac{11200000}{56000000}=18.4\%$ | $\frac{56000000}{70000000}=.8$   | $\frac{11200000}{56000000}*\frac{56000000}{70000000}=16\%$ |
+
+   3. If management desires a minimum acceptable return on investment of 10%, determine the residual income for each division.
+
+      - |                   | Residual Income                    |
+        | ----------------- | ---------------------------------- |
+        | Business Division | $7875200-(34240000*10\%)=4451200$  |
+        | Consumer Division | $11200000-(70000000*10\%)=4200000$ |
+
+   4. On the basis of operating income, the **Consumer** Division is the more profitable of the two divisions. However, operating income **does not** consider the amount of invested assets in each division. On the basis of residual income, the **Business** Division is the more profitable of the two divisions.
+
+3. The vice president of operations of Free Ride Bike Company is evaluating the performance of two divisions organized as investment centers. Invested assets and condensed income statement data for the past year for each division are as follows:
+
+   |                    | Road Bike Division | Mountain Bike Division |
+   | ------------------ | ------------------ | ---------------------- |
+   | Sales              | $1,728,000         | $1,760,000             |
+   | Cost of goods sold | 1,380,000          | 1,400,000              |
+   | Operating expenses | 175,200            | 236,800                |
+   | Invested assets    | 1,440,000          | 800,000                |
+
+   *Required:*
+
+   1. Prepare condensed divisional income statements for the year ended December 31, 20Y7, assuming that there were no support department allocations.
+
+      - | Free Ride Bike Company Divisional Income Statements For the Year Ended December 31, 20Y7 | Road Bike Division       | Mountain Bike Division   |
+        | ------------------------------------------------------------ | ------------------------ | ------------------------ |
+        | Sales                                                        | $1728000$                | $1760000$                |
+        | Cost of goods sold                                           | $-1380000$               | $-1400000$               |
+        | Gross profit                                                 | $1728000-1380000=348000$ | $1760000-1400000=360000$ |
+        | Operating expenses                                           | $-175200$                | $-236800$                |
+        | Operating income                                             | $348000-175200=172800$   | $360000-236800=123200$   |
+
+   2. Using the DuPont formula for return on investment, determine the profit margin, investment turnover, and rate of return on investment for each division. *If required, round your answers to one decimal place.*
+
+      - | Division               | Profit Margin                 | Investment Turnover           | ROI                                                    |
+        | ---------------------- | ----------------------------- | ----------------------------- | ------------------------------------------------------ |
+        | Road Bike Division     | $\frac{172800}{1728000}=10\%$ | $\frac{1728000}{1440000}=1.2$ | $\frac{172800}{1728000}*\frac{1728000}{1440000}=12\%$  |
+        | Mountain Bike Division | $\frac{123200}{1760000}=7\%$  | $\frac{1760000}{800000}=2.2$  | $\frac{123200}{1760000}*\frac{1760000}{800000}=15.4\%$ |
+
+   3. If management's minimum acceptable return on investment is 10%, determine the residual income for each division.
+
+      - |                        | Residual Income               |
+        | ---------------------- | ----------------------------- |
+        | Road Bike Division     | $172800-(1440000*10\%)=28800$ |
+        | Mountain Bike Division | $123200-(800000*10\%)=43200$  |
+
+   4. On the basis of operating income, the **Road Bike** Division is the more profitable of the two divisions. However, operating income **does not** consider the amount of invested assets in each division. On the basis of residual income, the **Mountain Bike** Division is the more profitable of the two divisions.
+
+### Operating Income for Profit Center
+
+4. The centralized computer technology department of Hardy Company has expenses of $320,000. The department has provided a total of 4,000 hours of service for the period. The Retail Division has used 2,750 hours of computer technology service during the period, and the Commercial Division has used 1,250 hours of computer technology service. Additional data for the two divisions is following below:
+
+   |                    | Retail Division | Commercial Division |
+   | ------------------ | --------------- | ------------------- |
+   | Sales              | $2,150,000      | $1,200,000          |
+   | Cost of goods sold | 1,300,000       | 800,000             |
+   | Selling expenses   | 150,000         | 175,000             |
+
+   Determine the divisional operating income for the Retail Division and the Commercial Division. Do not round interim calculations.
+
+   - | Hardy Company Divisional Operating Income          | Retail Division                     | Commercial Division                 |
+     | -------------------------------------------------- | ----------------------------------- | ----------------------------------- |
+     | Sales                                              | $2150000$                           | $1200000$                           |
+     | Cost of goods sold                                 | $-1300000$                          | $-800000$                           |
+     | Gross profit                                       | $215000-1300000=850000$             | $1200000-800000=400000$             |
+     | Selling expenses                                   | $-150000$                           | $-175000$                           |
+     | Operating income before service department charges | $850000-150000=700000$              | $400000-175000=225000$              |
+     | Service department charges                         | $-\frac{2750}{4000}*320000=-220000$ | $-\frac{1250}{4000}*320000=-100000$ |
+     | Operating income                                   | $700000-220000=480000$              | $225000-100000=125000$              |
+
+### Profit Margin, Investment Turnover, and ROI
+
+5. Briggs Company has operating income of \$36,000, invested assets of \$180,000, and sales of \$720,000. Use the DuPont formula to compute the return on investment.
+   1. Profit margin
+      - $\frac{36000}{720000}=5\%$
+   2. Investment turnover
+      - $\frac{720000}{180000}=4$
+   3. Return on investment
+      - $5\%*4=20\%$
+
+### Residual Income
+
+6. The Commercial Division of Galena Company has operating income of \$12,680,000 and assets of ​\$74,500,000. The minimum acceptable return on assets is 12%.
+
+   What is the residual income for the division?
+
+   - $12680000-(74500000*12\%)=3740000$
+
+### Support Department Allocations
+
+7. The centralized computer technology department of Hardy Company has expenses of \$320,000. The department has provided a total of 4,000 hours of service for the period. The Retail Division has used 2,750 hours of computer technology service during the period, and the Commercial Division has used 1,250 hours of computer technology service.
+
+   How much should each division be allocated for computer technology department services? Do not round interim calculations.
+
+   - Retail Division: $\frac{2750}{4000}*320000=220000$
+     Commercial Division: $\frac{1250}{4000}*320000=100000$
+
+### Transfer Pricing
+
+8. The materials used by the Multinomah Division of Isbister Company are currently purchased from outside suppliers at \$90 per unit. These same materials are produced by the Pembroke Division. The Pembroke Division can produce the materials needed by the Multinomah Division at a variable cost of \$75 per unit. The division is currently producing 120,000 units and has capacity of 150,000 units. The two divisions have recently negotiated a transfer price of \$82 per unit for 15,000 units.
+
+   By how much will each division's income increase as a result of this transfer?
+
+   - Pembroke Division: $(82-75)*15000=105000$
+     Multinomah Division: $(90-82)*15000=120000$
+
+## Homework Exercises
+
+1. The primary disadvantage of decentralized operations is that decisions made by one manager may affect other managers in such a way that the profitability of the entire company may suffer.
+
+   - **True**
+
+2. A responsibility center in which the department manager has responsibility for and authority over costs, revenues, and assets invested in the department is termed a cost center.
+
+   - **False**
+
+3. Operating expenses directly traceable to or incurred for the sole benefit of a specific department and usually subject to the control of the department manager are termed direct operating expenses.
+
+   - **True**
+
+4. The rates at which centralized services are charged to each division are called support department allocation rates.
+
+   - **True**
+
+5. The return on investment may be computed by multiplying investment turnover by the profit margin.
+
+   - **True**
+
+6. A manager is responsible for costs only in a(n) **cost** center.
+
+7. Which of the following is a measure of a cost center manager's performance?
+
+   - **budget performance report**
+
+8. Division A reported operating income of \$975,000 and total support department allocations of \$675,000. As a result, **operating income before support department allocations was \$1,650,000**.
+
+9. ABC Corporation has three support departments with the following costs and cost drivers:
+
+   | **Support Department** | **Cost** | **Cost Driver**              |
+   | ---------------------- | -------- | ---------------------------- |
+   | Graphics Production    | $200,000 | number of copies made        |
+   | Accounting             | 500,000  | number of invoices processed |
+   | Personnel              | 400,000  | number of employees          |
+
+   ABC has three operating divisions, Micro, Macro, and Super. Their revenue, cost, and activity information are as follows:
+
+   |                              | **Micro** | **Macro** | **Super** |
+   | ---------------------------- | --------- | --------- | --------- |
+   | Revenues                     | $700,000  | $850,000  | $650,000  |
+   | Direct operating expenses    | 50,000    | 70,000    | 100,000   |
+   | Number of copies made        | 20,000    | 30,000    | 50,000    |
+   | Number of invoices processed | 700       | 800       | 500       |
+   | Number of employees          | 130       | 145       | 125       |
+
+   The operating income of the Micro Division after all support department allocations will be $305000$
+
+10. A responsibility center in which the department manager is responsible for costs, revenues, and assets for a department is called a(n) **investment** center.
+
+### Budgetary Performance for Cost Center
+
+11. Cumming Company's costs were over budget by \$24,000. The company is divided into North and South regions. The North Region’s costs were under budget by ​\$1,900.
+
+    Determine the amount that the South Region’s costs were over or under budget.
+
+    - $24000+1900=$ **25900 over budget**
+
+### Profit Margin, Investment Turnover, and ROI
+
+12. Briggs Company has operating income of \$16,170, invested assets of \$70,000, and sales of \$147,000. Use the DuPont formula to compute the return on investment. If required, round your answers to two decimal places.
+    1. Profit margin: $\frac{16170}{147000}=16.33\%$
+    2. Investment turnover: $\frac{147000}{70000}=2.1$
+    3. Return on investment: $11\%*2.1=23.1\%$
+
+### Residual Income
+
+13. The Commercial Division of Galena Company has operating income of \$138,500 and assets of ​\$541,000. The minimum acceptable return on assets is 8%.
+
+    What is the residual income for the division?
+
+    - $138500-(541000*8\%)=95220$
+
+### Support Department Allocations
+
+14. The centralized computer technology department of Hardy Company has expenses of \$183,400. The department has provided a total of 13,100 hours of service for the period. The Retail Division has used 5,371 hours of computer technology service during the period, and the Commercial Division has used 7,729 hours of computer technology service.
+
+    How much should each division be allocated for computer technology department services? Do not round interim calculations.
+
+    - Retail Division: $\frac{5371}{13100}*183400=75194$
+      Commercial Division: $\frac{7729}{13100}*183400=108206$
+
+## Quiz
+
+1. Responsibility accounting reports for profit centers will include **revenues, expenses, and operating income or loss**.
+
+2. All of the following are advantages of decentralization:
+
+   - **expertise in all areas of the business is difficult; decentralization makes it better to delegate certain responsibilities**
+     **managers make better decisions when closer to the operations of the company**
+     **decentralized managers can respond quickly to customer needs**
+
+3. Blaser Corporation had \$275,000 in invested assets, sales of \$330,000, operating income amounting to $33,000, and a desired minimum return on investment of 7.5%. The return on investment for Blaser Corporation is
+
+   Round the percentage to one decimal place.
+
+   - $\frac{33000}{275000}=12\%$
+
+4. In an investment center, the manager has responsibility and authority for making decisions that affect **costs, revenues, and assets**.
+
+5. The best measure of managerial efficiency in the use of investments in assets is **investment turnover**.
+
+6. Mason Corporation had \$650,000 in invested assets, sales of \$700,000, operating income amounting to \$99,000, and a desired minimum return on investment of 15%.
+
+   The residual income for Mason Corporation is $99000-(650000*15\%)=1500$
+
+7. A manager is responsible for costs only in a(n) **cost** center.
+
+8. Chicks Corporation had \$1,100,000 in invested assets, sales of \$1,210,000, operating income amounting to \$302,500, and a desired minimum return on investment of 15%.
+
+   The investment turnover for Chicks Corporation is $\frac{1210000}{1100000}=1.1$
+
+9. The costs of services charged to a profit center on the basis of its use of those services are **support department allocations**.
+
+10. Businesses that are separated into two or more manageable units in which managers have authority and responsibility for operations are said to be **decentralized**.
+
+11. Assume that divisional operating income amounts to \$215,000 and top management has established 15% as the minimum return on divisional assets totaling ​\$1,000,000. The residual income for the division is $215000-(1000000*15\%)=65000$
+
+12. The formula for the return on investment (ROI) is $\frac{\textrm{operating income}}{\textrm{invested assets}}$
+
+13. ABC Corporation has three support departments with the following costs and cost drivers:
+
+    | **Support Department** | **Cost** | **Cost Driver**              |
+    | ---------------------- | -------- | ---------------------------- |
+    | Graphics Production    | $200,000 | number of copies made        |
+    | Accounting             | 500,000  | number of invoices processed |
+    | Personnel              | 400,000  | number of employees          |
+
+    ABC has three operating divisions, Micro, Macro, and Super. Their revenue, cost, and activity information are as follows:
+
+    |                              | **Micro** | **Macro** | **Super** |
+    | ---------------------------- | --------- | --------- | --------- |
+    | Revenues                     | $700,000  | $850,000  | $650,000  |
+    | Direct operating expenses    | 50,000    | 70,000    | 100,000   |
+    | Number of copies made        | 20,000    | 30,000    | 50,000    |
+    | Number of invoices processed | 700       | 800       | 500       |
+    | Number of employees          | 130       | 145       | 125       |
+
+    The support department allocation rate for Graphics Production is $\frac{200000}{20000+30000+50000}=2$
+
+14. Managers of what type of decentralized units have authority and responsibility for revenues, costs, and assets invested in the unit?
+
+    - **investment center**
+
+15. For higher levels of management, responsibility accounting reports **are more summarized than for lower levels of management**.
+
+16. Separation of businesses into more manageable operating units is termed decentralization.
+
+    - **True**
+
+17. In a profit center, the manager has responsibility and authority for making decisions that affect **revenues**.
+
+18. Clydesdale Company has sales of \$4,500,000, invested assets of \$2,000,000, and operating expenses of \$3,600,000. The company has established a minimum return on investment of 7%.
+
+    Clydesdale Company's investment turnover is $\frac{4500000}{2000000}=2.25$
+
+19. The Central Division of Nebraska Company has a return on investment of 28% and a profit margin of 14%. The investment turnover is $\frac{.28}{.14}=2$
+
+20. Division D of Saunders Company has sales of \$350,000, cost of goods sold of \$120,000, operating expenses of \$58,000, and invested assets of ​\$150,000.
+
+    The return on investment (ROI) for Division D is $\frac{350000-120000-58000}{150000}=114.7\%$
+
+# Chapters 22-24 Exam
+
+## Review
+
+1. The standard costs and actual costs for direct materials for the manufacture of 3,000 actual units of product are as follows:
+
+   | Standard Costs   |                          |
+   | ---------------- | ------------------------ |
+   | Direct materials | 1,040 kilograms at $8.75 |
+   |                  |                          |
+   | Actual Costs     |                          |
+   | Direct materials | 2,000 kilograms at $8.00 |
+
+   The direct materials price variance is $(8-8.75)*2000=$ **1500 favorable**
+
+2. If the actual direct labor hours spent producing a commodity differ from the standard hours, the variance is a **time** variance.
+
+3. The following data relate to direct labor costs for February:
+
+   | Item           | Value                 |
+   | -------------- | --------------------- |
+   | Actual costs   | 7,700 hours at $14.00 |
+   | Standard costs | 7,000 hours at $16.00 |
+
+   The direct labor rate variance is $(14-16)*7700=$ **15400 favorable**.
+
+4. The standard factory overhead rate is $7.50 per machine hour ($6.20 for variable factory overhead and $1.30 for fixed factory overhead) based on 100% of normal capacity of 80,000 machine hours. The standard cost and the actual cost of factory overhead for the production of 15,000 units during August were as follows:
+
+   | Actual:                                    |                           |          |
+   | ------------------------------------------ | ------------------------- | -------- |
+   |                                            | Variable factory overhead | $360,000 |
+   |                                            | Fixed factory overhead    | 104,000  |
+   |                                            |                           |          |
+   | Standard hours allowed for units produced: | 60,000 hours              |          |
+
+   The fixed factory overhead volume variance is $(80000-60000)*1.3=26000$
+
+5. The term used to describe expenses that are incurred by a specific department is **direct operating** expenses.
+
+6. ABC Corporation has three support departments with the following costs and cost drivers:
+
+   | **Support Department** | **Cost** | **Cost Driver**              |
+   | ---------------------- | -------- | ---------------------------- |
+   | Graphics Production    | $200,000 | number of copies made        |
+   | Accounting             | 500,000  | number of invoices processed |
+   | Personnel              | 400,000  | number of employees          |
+
+   ABC has three operating divisions, Micro, Macro, and Super. Their revenue, cost, and activity information are as follows:
+
+   |                              | **Micro** | **Macro** | **Super** |
+   | ---------------------------- | --------- | --------- | --------- |
+   | Revenues                     | $700,000  | $850,000  | $650,000  |
+   | Direct operating expenses    | 50,000    | 70,000    | 100,000   |
+   | Number of copies made        | 20,000    | 30,000    | 50,000    |
+   | Number of invoices processed | 700       | 800       | 500       |
+   | Number of employees          | 130       | 145       | 125       |
+
+   The support department allocation rate for Graphics Production is $\frac{200000}{20000+30000+50000}=2.00$
+
+7. Clydesdale Company has sales of \$4,500,000, invested assets of \$2,000,000, and operating expenses of \$3,600,000. The company has established a minimum return on investment of 7%.
+
+   Clydesdale Company's residual income is $4500000-3600000-(2000000*7\%)=760000$
+
+8. The excess of divisional operating income over a minimum acceptable amount of divisional operating income is **residual income**.
+
+9. Investment centers differ from profit centers in that they **are able to invest in assets**.
+
+10. Motorcycle Manufacturers, Inc., projected sales of 78,000 machines for the year. The estimated January 1 inventory is 6,500 units, and the desired December 31 inventory is 6,000 units. The budgeted production for the year is $78000+6000-6500=77500$
+
+### Direct Materials, Direct Labor, and Factory Overhead Cost Variance Analysis
+
+11. Mackinaw Inc. processes a base chemical into plastic. Standard costs and actual costs for direct materials, direct labor, and factory overhead incurred for the manufacture of 40,000 units of product were as follows:
+
+    |                  | **Standard Costs**                                           | **Actual Costs**              |      |
+    | ---------------- | ------------------------------------------------------------ | ----------------------------- | ---- |
+    | Direct materials | 238,000 lbs. at $4.80 per lb.                                | 235,600 lbs. at $4.60 per lb. |      |
+    | Direct labor     | 17,500 hrs. at $17.90 per hr.                                | 17,900 hrs. at $18.20 per hr. |      |
+    | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 18,260 direct labor hrs.: |                               |      |
+    |                  | Variable cost, $2.90                                         | $50,240 variable cost         |      |
+    |                  | Fixed cost, $4.60                                            | $83,996 fixed cost            |      |
+
+       Each unit requires 0.25 hour of direct labor.
+
+       1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+          - Direct Materials Price Variance: $(4.6-4.8)*235600=$ **(47120) Favorable**
+            Direct Materials Quantity Variance: $(235600-238000)*4.8=$ **(11520) Favorable**
+            Direct Materials Cost Variance: $-47120-11520=$ **(58640) Favorable**
+    2. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Direct Labor Rate Variance: $(18.2-17.9)*17900=$ **5370 Unfavorable**
+         Direct Labor Time Variance: $(17900-17500)*17.9=$ **7160 Unfavorable**
+         Direct Labor Cost Variance: $7160+5370=$ **12530 Unfavorable**
+    3. Determine the variable factory overhead controllable variance, fixed factory overhead volume variance, and total factory overhead cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+       - Variable factory overhead controllable variance: $50240-(70000*.25)=$ **(510) Favorable**
+         Fixed factory overhead volume variance: $(18260-[70000*.25])*4.6=$ **3496 Unfavorable**
+         Total factory overhead cost variance: $-510+3496=$ **2986 Unfavorable**
+
+### Divisional Performance Analysis and Evaluation
+
+12. The vice president of operations of Free Ride Bike Company is evaluating the performance of two divisions organized as investment centers. Invested assets and condensed income statement data for the past year for each division are as follows:
+
+    |                    | Road Bike Division | Mountain Bike Division |
+    | ------------------ | ------------------ | ---------------------- |
+    | Sales              | $5,880,000         | $6,300,000             |
+    | Cost of goods sold | 2,587,000          | 2,961,000              |
+    | Operating expenses | 2,234,600          | 2,331,000              |
+    | Invested assets    | 4,900,000          | 4,500,000              |
+
+    *Required:*
+
+    1. Prepare condensed divisional income statements for the year ended December 31, 20Y7, assuming that there were no support department allocations.
+
+       - | Free Ride Bike Company Divisional Income Statements For the Year Ended December 31, 20Y7 | Road Bike Division        | Mountain Bike Division     |
+         | ------------------------------------------------------------ | ------------------------- | -------------------------- |
+         | Sales                                                        | $5880000$                 | $6300000$                  |
+         | Cost of goods sold                                           | $-2587000$                | $-2961000$                 |
+         | Gross profit                                                 | $5880000-2587000=3293000$ | $6300000-2961000=3339000$  |
+         | Operating expenses                                           | $-2234600$                | $-2331000$                 |
+         | Operating income                                             | $3293000-2234600=1058400$ | $3339000-22331000=1008000$ |
+
+    2. Using the DuPont formula for return on investment, determine the profit margin, investment turnover, and rate of return on investment for each division. *If required, round your answers to one decimal place.*
+
+       - | Division               | Profit Margin                  | Investment Turnover           | ROI                                                      |
+         | ---------------------- | ------------------------------ | ----------------------------- | -------------------------------------------------------- |
+         | Road Bike Division     | $\frac{1058400}{5880000}=18\%$ | $\frac{5880000}{4900000}=1.2$ | $\frac{1058400}{5880000}*\frac{5880000}{4900000}=21.6\%$ |
+         | Mountain Bike Division | $\frac{1008000}{6300000}=16\%$ | $\frac{6300000}{4500000}=1.4$ | $\frac{1008000}{6300000}*\frac{6300000}{4500000}=22.4\%$ |
+
+    3. If management desires a minimum acceptable rate of return of 14%, determine the residual income for each division.
+
+       - |                        | Residual Income                 |
+         | ---------------------- | ------------------------------- |
+         | Road Bike Division     | $1058400-(4900000*14\%)=372400$ |
+         | Mountain Bike Division | $1008000-(4500000*14\%)=378000$ |
+
+    4. On the basis of operating income, the **Road Bike** Division is the more profitable of the two divisions. However, operating income **does not** consider the amount of invested assets in each division. On the basis of residual income, the **Mountain Bike** Division is the more profitable of the two divisions.
+
+### Production Budget
+
+13. Healthy Measures Inc. produces a Bath and Gym version of its popular electronic scale. The anticipated unit sales for the scales by sales region are as follows:
+
+    |                            | **Bath Scale** | Gym Scale |
+    | -------------------------- | -------------- | --------- |
+    | Northern Region unit sales | 25,200         | 37,700    |
+    | Southern Region unit sales | 27,200         | 28,600    |
+    | Total                      | 52,400         | 66,300    |
+
+    The finished goods inventory estimated for March 1, for the Bath and Gym scale models is 1,300 and 2,500 units, respectively. The desired finished goods inventory for March 31 for the Bath and Gym scale models is 900 and 2,700 units, respectively.
+
+    Prepare a production budget for the Bath and Gym scales for the month ended March 31. For those boxes in which you must enter subtracted or negative numbers use a minus sign.
+
+    - | Healthy Measures Inc. <br />Production Budget <br />For the Month Ending March 31 | Units Bath Scale   | Units Gym Scale    |
+      | ------------------------------------------------------------ | ------------------ | ------------------ |
+      | Expected units to be sold                                    | $52400$            | $66300$            |
+      | Desired inventory, March 31                                  | $900$              | $2700$             |
+      | Total units available                                        | $52400+900=53300$  | $66300+2700=69000$ |
+      | Estimated inventory, March 1                                 | $-1300$            | $-2500$            |
+      | Total units to be produced                                   | $53300-1300=52000$ | $69000-2500=66500$ |
+
+### Schedule of Cash Collections of Accounts Receivable
+
+14. Pet Supplies Inc., a pet wholesale supplier, was organized on January 1. Projected sales for each of the first three months of operations are as follows:
+
+    | Month    | Value    |
+    | -------- | -------- |
+    | January  | $300,000 |
+    | February | 500,000  |
+    | March    | 750,000  |
+
+    All sales are on account. Seventy-five percent of sales are expected to be collected in the month of the sale, 20% in the month following the sale, and the remainder in the second month following the sale.
+
+    Prepare a schedule indicating cash collections from sales for January, February, and March. Enter all amounts as positive numbers.
+
+    - | Pet Supplies Inc.<br />Schedule of Cash Collections from Sales<br />For the Three Months Ending March 31 | January              | February              | March                        |
+      | ------------------------------------------------------------ | -------------------- | --------------------- | ---------------------------- |
+      | January sales on account:                                    |                      |                       |                              |
+      | Collected in January                                         | $300000*75\%=225000$ |                       |                              |
+      | Collected in February                                        |                      | $300000*20\%=60000$   |                              |
+      | Collected in March                                           |                      |                       | $300000*5\%=15000$           |
+      | February sales on account:                                   |                      |                       |                              |
+      | Collected in February                                        |                      | $500000*75\%=375000$  |                              |
+      | Collected in March                                           |                      |                       | $500000*20\%=100000$         |
+      | March sales on account:                                      |                      |                       |                              |
+      | Collected in March                                           |                      |                       | $750000*75\%=562500$         |
+      | Total cash collected                                         | $225000$             | $60000+375000=435000$ | $15000+100000+562500=677500$ |
+
+
