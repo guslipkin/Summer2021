@@ -1736,7 +1736,7 @@
 
    The direct labor rate variance is $(14-16)*7700=$ **15400 favorable**.
 
-4. The standard factory overhead rate is $7.50 per machine hour ($6.20 for variable factory overhead and $1.30 for fixed factory overhead) based on 100% of normal capacity of 80,000 machine hours. The standard cost and the actual cost of factory overhead for the production of 15,000 units during August were as follows:
+4. The standard factory overhead rate is \$7.50 per machine hour (\$6.20 for variable factory overhead and $1.30 for fixed factory overhead) based on 100% of normal capacity of 80,000 machine hours. The standard cost and the actual cost of factory overhead for the production of 15,000 units during August were as follows:
 
    | Actual:                                    |                           |          |
    | ------------------------------------------ | ------------------------- | -------- |
@@ -1745,7 +1745,7 @@
    |                                            |                           |          |
    | Standard hours allowed for units produced: | 60,000 hours              |          |
 
-   The fixed factory overhead volume variance is $(80000-60000)*1.3=26000$
+   The fixed factory overhead volume variance is $(80000-60000)*1.3=$ **26000 unfavorable**
 
 5. The term used to describe expenses that are incurred by a specific department is **direct operating** expenses.
 
@@ -1783,13 +1783,13 @@
 
 11. Mackinaw Inc. processes a base chemical into plastic. Standard costs and actual costs for direct materials, direct labor, and factory overhead incurred for the manufacture of 40,000 units of product were as follows:
 
-    |                  | **Standard Costs**                                           | **Actual Costs**              |      |
-    | ---------------- | ------------------------------------------------------------ | ----------------------------- | ---- |
-    | Direct materials | 238,000 lbs. at $4.80 per lb.                                | 235,600 lbs. at $4.60 per lb. |      |
-    | Direct labor     | 17,500 hrs. at $17.90 per hr.                                | 17,900 hrs. at $18.20 per hr. |      |
-    | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 18,260 direct labor hrs.: |                               |      |
-    |                  | Variable cost, $2.90                                         | $50,240 variable cost         |      |
-    |                  | Fixed cost, $4.60                                            | $83,996 fixed cost            |      |
+    |                  | **Standard Costs**                                           | **Actual Costs**              |
+    | ---------------- | ------------------------------------------------------------ | ----------------------------- |
+    | Direct materials | 238,000 lbs. at $4.80 per lb.                                | 235,600 lbs. at $4.60 per lb. |
+    | Direct labor     | 17,500 hrs. at $17.90 per hr.                                | 17,900 hrs. at $18.20 per hr. |
+    | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 18,260 direct labor hrs.: |                               |
+    |                  | Variable cost, $2.90                                         | $50,240 variable cost         |
+    |                  | Fixed cost, $4.60                                            | $83,996 fixed cost            |
 
        Each unit requires 0.25 hour of direct labor.
 
@@ -1894,4 +1894,100 @@
       | Collected in March                                           |                      |                       | $750000*75\%=562500$         |
       | Total cash collected                                         | $225000$             | $60000+375000=435000$ | $15000+100000+562500=677500$ |
 
+### Exam
 
+1. The budgeting process does *not* involve which of the following activities?
+
+   - **increased marketing efforts to boost sales**
+
+2. Divisional Performance Analysis and Evaluation
+
+   The vice president of operations of Free Ride Bike Company is evaluating the performance of two divisions organized as investment centers. Invested assets and condensed income statement data for the past year for each division are as follows:
+
+   |                    | Road Bike Division | Mountain Bike Division |
+   | ------------------ | ------------------ | ---------------------- |
+   | Sales              | $1,650,000         | $1,690,000             |
+   | Cost of goods sold | 726,000            | 794,000                |
+   | Operating expenses | 660,000            | 659,400                |
+   | Invested assets    | 1,500,000          | 1,300,000              |
+
+   *Required:*
+
+   1. Prepare condensed divisional income statements for the year ended December 31, 20Y7, assuming that there were no support department allocations.
+
+      - | Free Ride Bike Company Divisional Income Statements For the Year Ended December 31, 20Y7 | Road Bike Division      | Mountain Bike Division  |
+        | ------------------------------------------------------------ | ----------------------- | ----------------------- |
+        | Sales                                                        | $1650000$               | $1690000$               |
+        | Cost of goods sold                                           | $-726000$               | $-794000$               |
+        | Gross profit                                                 | $1650000-726000=924000$ | $1690000-794000=896000$ |
+        | Operating expenses                                           | $-660000$               | $-659400$               |
+        | Operating income                                             | $924000-660000=264000$  | $896000-659400=236600$  |
+
+   2. Using the DuPont formula for return on investment, determine the profit margin, investment turnover, and rate of return on investment for each division. *If required, round your answers to one decimal place.*
+
+      - | Division               | Profit Margin                 | Investment Turnover           | ROI                                                     |
+        | ---------------------- | ----------------------------- | ----------------------------- | ------------------------------------------------------- |
+        | Road Bike Division     | $\frac{264000}{1650000}=16\%$ | $\frac{1650000}{1500000}=1.1$ | $\frac{264000}{1650000}*\frac{1650000}{1500000}=17.6\%$ |
+        | Mountain Bike Division | $\frac{236600}{1690000}=14\%$ | $\frac{1690000}{1300000}=1.3$ | $\frac{236600}{1690000}*\frac{1690000}{1300000}=18.2\%$ |
+
+   3. If management desires a minimum acceptable rate of return of 19%, determine the residual income for each division.
+
+      - |                        | Residual Income                  |
+        | ---------------------- | -------------------------------- |
+        | Road Bike Division     | $264000-(1500000*19\%)=-21000$   |
+        | Mountain Bike Division | $2236600-(1300000*19\%)=1989600$ |
+
+   4. On the basis of operating income, the **Road Bike** Division is the more profitable of the two divisions. However, operating income **does not** consider the amount of invested assets in each division. On the basis of residual income, the **Mountain Bike** Division is the more profitable of the two divisions.
+
+3. Healthy Measures Inc. produces a Bath and Gym version of its popular electronic scale. The anticipated unit sales for the scales by sales region are as follows:
+
+   |                            | Bath Scale | Gym Scale |
+   | -------------------------- | ---------- | --------- |
+   | Northern Region unit sales | 19,500     | 40,700    |
+   | Southern Region unit sales | 21,100     | 22,200    |
+   | Total                      | 40,600     | 62,900    |
+
+   The finished goods inventory estimated for March 1, for the Bath and Gym scale models is 1,600 and 2,700 units, respectively. The desired finished goods inventory for March 31 for the Bath and Gym scale models is 1,200 and 2,900 units, respectively.
+
+   Prepare a production budget for the Bath and Gym scales for the month ended March 31. For those boxes in which you must enter subtracted or negative numbers use a minus sign.
+
+   - | Healthy Measures Inc.<br />Production Budget<br />For the Month Ending March 31 | Units Bath Scale   | Units Gym Scale    |
+     | ------------------------------------------------------------ | ------------------ | ------------------ |
+     | Expected Units to be sold                                    | $40600$            | $62900$            |
+     | Desired inventory, March 31                                  | $1200$             | $2900$             |
+     | Total units available                                        | $40600+1200=41800$ | $62900+2900=65800$ |
+     | Estimated inventory, March 1                                 | $-1600$            | $-2700$            |
+     | Total units to be produced                                   | $41800-1600=40200$ | $65800-2700=63100$ |
+
+4. If the actual direct labor hours spent producing a commodity differ from the standard hours, the variance is a **time** variance.
+
+5. Investment centers differ from profit centers in that they **are able to invest in assets**.
+
+6. Mackinaw Inc. processes a base chemical into plastic. Standard costs and actual costs for direct materials, direct labor, and factory overhead incurred for the manufacture of 78,000 units of product were as follows:
+
+   |                  | **Standard Costs**                                           | **Actual Costs**      |
+   | ---------------- | ------------------------------------------------------------ | --------------------- |
+   | Direct materials | 265,200 lbs. at $5.90                                        | 262,500 lbs. at $5.80 |
+   | Direct labor     | 19,500 hrs. at $16.10                                        | 19,950 hrs. at $16.50 |
+   | Factory overhead | Rates per direct labor hr., based on 100% of normal capacity of 20,350 direct labor hrs.: |                       |
+   |                  | Variable cost, $3.00                                         | $57,920 variable cost |
+   |                  | Fixed cost, $4.70                                            | $95,645 fixed cost    |
+
+   Each unit requires 0.25 hour of direct labor.
+
+   *Required:*
+
+   1. Determine the direct materials price variance, direct materials quantity variance, and total direct materials cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Direct Materials Price Variance: $(5.8-5.9)*262500=$ **(26250) Favorable**
+        Direct Materials Quantity Variance: $(262500-265200)*5.9=$ **(15930) Favorable**
+        Direct Materials Cost Variance: $-26250-15930=$ **(42180) Favorable**
+   2. Determine the direct labor rate variance, direct labor time variance, and total direct labor cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Direct Labor Rate Variance: $(16.5-16.1)*19950=$ **7980 Unfavorable**
+        Direct Labor Time Variance: $(19950-19500)*16.1=$ **7245 Unfavorable**
+        Direct Labor Cost Variance: $7980+7245=$ **15225 Unfavorable**
+   3. Determine the variable factory overhead controllable variance, fixed factory overhead volume variance, and total factory overhead cost variance. Enter a favorable variance as a negative number using a minus sign and an unfavorable variance as a positive number.
+      - Variable factory overhead controllable variance: $57920-(19500*3)=$ **(580) Favorable**
+        Fixed factory overhead volume variance: $(20350-19500)*4.7=$ **3995 Unfavorable**
+        Total factory overhead cost variance: $-580+3995=$ **3415 Unfavorable**
+
+7. Motorcycle Manufacturers, Inc., projected sales of 78,000 machines for the year. The estimated January 1 inventory is 6,500 units, and the desired December 31 inventory is 6,000 units. The budgeted production for the year is $78000+6000-6500=77500$
