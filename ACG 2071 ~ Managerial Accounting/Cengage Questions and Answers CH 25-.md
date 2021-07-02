@@ -433,7 +433,161 @@
 
 ## Quiz
 
+1. Magpie Corporation uses the total cost method of product pricing. Below is cost information for the production and sale of 60,000 units of its sole product. Magpie desires a profit equal to a 25% return on invested assets of $700,000.
 
+   | Item                                              | Value   |
+   | ------------------------------------------------- | ------- |
+   | Fixed factory overhead cost                       | $38,700 |
+   | Fixed selling and administrative costs            | 7,500   |
+   | Variable direct materials cost per unit           | 4.60    |
+   | Variable direct labor cost per unit               | 1.88    |
+   | Variable factory overhead cost per unit           | 1.13    |
+   | Variable selling and administrative cost per unit | 4.50    |
+
+   The markup percentage on total cost for Magpie's product is $\frac{700000*25\%}{38700+7500+[(4.6+1.88+1.13+4.5)*60000]}=22.6\%$
+
+2. All of the following should be considered in a make-or-buy decision **quality issues with the supplier**, **future growth in the plant and other production opportunities**, and **cost savings**.
+
+3. The amount of increase or decrease in revenue that is expected from a particular course of action as compared with an alternative is **differential revenue**.
+
+4. Carmen Co. can further process Product J to produce Product D. Product J is currently selling for \$20.00 per pound and costs ​\$15.75 per pound to produce. Product D would sell for \$38.00 per pound and would require an additional cost of ​\$8.55 per pound to produce.
+
+   The differential revenue of producing Product D is $38-20=$ **$18.00 per pound​**.
+
+5. Dotterel Corporation uses the variable cost method of product pricing. Below is cost information for the production and sale of 35,000 units of its sole product. Dotterel desires a profit equal to an 11.2% return on invested assets of $350,000.
+
+   | Item                                              | Value    |
+   | ------------------------------------------------- | -------- |
+   | Fixed factory overhead cost                       | $105,000 |
+   | Fixed selling and administrative costs            | 35,000   |
+   | Variable direct materials cost per unit           | 4.34     |
+   | Variable direct labor cost per unit               | 5.18     |
+   | Variable factory overhead cost per unit           | 0.98     |
+   | Variable selling and administrative cost per unit | 0.70     |
+
+   The dollar amount of desired profit from the production and sale of Dotterel's product is $350000*11.2\%=39200$
+
+6. Widgeon Co. manufactures three products: Bales, Tales, and Wales. The selling prices are \$55, \$78, and \$32, respectively. The variable costs for each product are \$20, \$50, and ​\$15, respectively. Each product must go through the same processing in a machine that is limited to 2,000 hours per month. Bales take 5 hours to process; Tales 7 hours; and Wales 1 hour.
+
+   Assuming that Widgeon Co. can sell all of the products it can make, the maximum contribution margin it can earn per month is
+
+   - |                                                         | Bales | Tales | Wales |
+     | ------------------------------------------------------- | ----- | ----- | ----- |
+     | Unit selling price                                      | $55   | $78   | $32   |
+     | Unit variable cost                                      | (20)  | (50)  | (15)  |
+     | Unit contribution margin                                | $35   | $28   | $17   |
+     | Processing time per unit                                | ÷5    | ÷7    | ÷1    |
+     | Unit contribution margin per processing bottleneck hour | $7    | $4    | $17   |
+
+   ​          $2000*17=34000$
+
+7. Stryker Industries received an offer from an exporter for 15,000 units of product at $17.50 per unit. The acceptance of the offer will not affect normal production or domestic sales prices. The following data are available:
+
+   | Item                      | Value |
+   | ------------------------- | ----- |
+   | Domestic unit sales price | $20   |
+   | Unit manufacturing costs: |       |
+   | Variable                  | 11    |
+   | Fixed                     | 1     |
+
+   The amount of profit or loss from acceptance of the offer is a
+
+   - | Differential Analysis Reject Order (Alternative 1) or Accept Order (Alternative 2) | Reject Order (Alternative 1) | Accept Order (Alternative 2) | Differential Effect on Income (Alternative 2) |
+     | ------------------------------------------------------------ | ---------------------------- | ---------------------------- | --------------------------------------------- |
+     | Revenues                                                     | $0                           | $15000*17.5=262,500$         | $262,500                                      |
+     | Costs                                                        | 0                            | $15000*-11=-165,000$         | (165,000)                                     |
+     | Profit (loss)                                                | $0                           | $97,500                      | **97500 profit**                              |
+
+8. Mighty Safe Fire Alarm is currently buying 50,000 motherboards from MotherBoard, Inc., at a price of \$65 per board. Mighty Safe is considering making its own boards. The costs to make the board are as follows: direct materials, \$32 per unit; direct labor, \$10 per unit; and variable factory overhead, \$16 per unit. Fixed costs for the plant would increase by \$75,000. Which option should be selected and why?
+
+   - | Differential Analysis Make (Alternative 1) or Buy (Alternative 2) Motherboards | Make Motherboard (Alternative 1) | Buy Motherboard (Alternative 2) | Differential Effects (Alternative 2) |
+     | ------------------------------------------------------------ | -------------------------------- | ------------------------------- | ------------------------------------ |
+     | Unit costs:                                                  |                                  |                                 |                                      |
+     | Purchase price                                               | $0.00                            | $(65.00)                        | $(65.00)                             |
+     | Direct material                                              | (32.00)                          | 0.00                            | 32.00                                |
+     | Direct labor                                                 | (10.00)                          | 0.00                            | 10.00                                |
+     | Variable factory overhead                                    | (16.00)                          | 0.00                            | 16.00                                |
+     | Fixed costs                                                  | $\frac{75000}{50000}=-1.5$       | 0.00                            | 1.50                                 |
+     | Total unit costs                                             | $(59.50)                         | $(65.00)                        | $(5.50)                              |
+
+   ​          **If making them...**$5.5*50000=$**275000 increase in profits**
+
+9. Differential revenue is the amount of profit that would result from the best available alternative proposed use of cash.
+
+   - **False**
+
+10. Which of the following methods of applying the cost-plus approach to product pricing includes only total manufacturing costs in the cost amount to which the markup is added?
+
+    - **product cost method**
+
+11. The revenue that is forgone from an alternative use of an asset, such as cash, is called **opportunity cost**.
+
+12. Contractors who sell to government agencies would be most likely to use which of the following cost methods in pricing their products?
+
+    - **total costmethod**
+
+13. Flyer Company sells a product in a competitive marketplace. Market analysis indicates that its product would probably sell at \$48 per unit. Flyer management desires a 12.5% profit margin on sales. Flyer's current full cost for the product is ​\$44 per unit.
+
+    If the company cannot cut costs any lower than they already are, the profit margin on sales to meet the market selling price would be $\frac{48-44}{48}=8.3\%$
+
+14. Mallard Corporation uses the product cost method of product pricing. Below is cost information for the production and sale of 45,000 units of its sole product. Mallard desires a profit equal to a 12% return on invested assets of $800,000.
+
+    | Item                                              | Value   |
+    | ------------------------------------------------- | ------- |
+    | Fixed factory overhead cost                       | $82,000 |
+    | Fixed selling and administrative costs            | 45,000  |
+    | Variable direct materials cost per unit           | 5.50    |
+    | Variable direct labor cost per unit               | 7.65    |
+    | Variable factory overhead cost per unit           | 2.25    |
+    | Variable selling and administrative cost per unit | 0.90    |
+
+    The unit selling price for the company's product is $\frac{775000}{45000}+(\frac{(12\%*800000)+[(.9*45000)+45000]}{(5.5*45000)+(7.65*45000)+[(2.25*45000)+82000]}*17.22)=21.25$
+
+15. The condensed income statement for Hayden Corp. for the past year is as follows:
+
+    |                | Product T  | Product U  |
+    | -------------- | ---------- | ---------- |
+    | Sales          | $680,000   | $320,000   |
+    | Costs:         |            |            |
+    | Variable costs | $(540,000) | $(220,000) |
+    | Fixed costs    | (145,000)  | (40,000)   |
+    | Total costs    | $(685,000) | $(260,000) |
+    | Income (loss)  | $(5,000)   | $60,000    |
+
+    Management is considering the discontinuance of the manufacture and sale of Product T at the beginning of the current year. The discontinuance would have no effect on the total fixed costs and expenses or on the sales of Product U. The amount of change in profit for the current year that will result from the discontinuance of Product T is a
+
+    - | Differential Analysis Continue Product T (Alternative 1) or Discontinue Product T (Alternative 2) | Continue Product T (Alternative 1) | Discontinue Product T (Alternative 2) | Differential Effects (Alternative 2) |
+      | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------- | ------------------------------------ |
+      | Revenues                                                     | $680000+320000=1,000,000$          | $320,000                              | $(680,000)                           |
+      | Costs:                                                       |                                    |                                       |                                      |
+      | Variable costs                                               | $540000+220000=-760,000$           | (220,000)                             | 540,000                              |
+      | Fixed costs                                                  | $145000+40000=-185,000$            | (185,000)                             | 0                                    |
+      | Profit (loss)                                                | $55,000                            | $(85,000)                             | **140000 decrease**                  |
+
+16. Farris Company is considering a cash outlay of \$500,000 for the purchase of land, which it could lease for \$40,000 per year. If alternative investments are available that yield a 15% return, the opportunity cost of the purchase of the land is $500000*15\%=75000$
+
+17. Keating Co. is considering disposing of equipment that cost \$50,000 and has ​\$40,000 of accumulated depreciation to date. Keating Co. can sell the equipment through a broker for \$25,000 less a 5% commission. Alternatively, Gunner Co. has offered to lease the equipment for five years for a total of \$48,750. Keating will incur repair, insurance, and property tax expenses estimated at \$8,000 over the five-year period. At lease-end, the equipment is expected to have no residual value. The net differential profit or loss from the sell alternative is a
+
+    - | Differential Analysis Lease Equipment (Alternative 1) or Sell Equipment (Alternative 2) | Lease Equipment (Alternative 1) | Sell Equipment (Alternative 2) | Differential Effects (Alternative 2) |
+      | ------------------------------------------------------------ | ------------------------------- | ------------------------------ | ------------------------------------ |
+      | Revenues                                                     | $48,750                         | $25,000                        | $(23,750)                            |
+      | Costs                                                        | (8,000)                         | $25000*5\%=-1250$              | 6,750                                |
+      | Profit (loss)                                                | $40,750                         | $23,750                        | **17000 loss**                       |
+
+18. Delaney Company is considering replacing equipment that originally cost \$600,000 and has accumulated depreciation of \$420,000 to date. A new machine will cost \$790,000. The sunk cost in this situation is $600000-420000=180000$
+
+19. Magpie Corporation uses the total cost method of product pricing. Below is cost information for the production and sale of 60,000 units of its sole product. Magpie desires a profit equal to a 25% return on invested assets of $700,000.
+
+    | Item                                              | Value   |
+    | ------------------------------------------------- | ------- |
+    | Fixed factory overhead cost                       | $38,700 |
+    | Fixed selling and administrative costs            | 7,500   |
+    | Variable direct materials cost per unit           | 4.60    |
+    | Variable direct labor cost per unit               | 1.88    |
+    | Variable factory overhead cost per unit           | 1.13    |
+    | Variable selling and administrative cost per unit | 4.50    |
+
+    The dollar amount of desired profit from the production and sale of Magpie's product is $700000*25\%=175000$
 
 # Chapter 26
 
@@ -1100,3 +1254,163 @@
 
     3. The net present value, present value index, and internal rate of return all indicate that the **After Hours** TV show is a better financial opportunity compared to the **Sun Fun** TV show, although both investments meet the minimum return criterion of 10%.
 
+## Quiz
+
+1. The management of River Corporation is considering the purchase of a new machine costing \$380,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+
+   | **Year** | **Operating Income** | **Net Cash Flow** |
+   | -------- | -------------------- | ----------------- |
+   | 1        | $20,000              | $95,000           |
+   | 2        | 20,000               | 95,000            |
+   | 3        | 20,000               | 95,000            |
+   | 4        | 20,000               | 95,000            |
+   | 5        | 20,000               | 95,000            |
+
+   The cash payback period for this investment is **4 years**
+
+2. The management of Charlton Corporation is considering the purchase of a new machine costing \$380,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+
+   | **Year** | **Operating Income** | **Net Cash Flow** |
+   | -------- | -------------------- | ----------------- |
+   | 1        | $20,000              | $95,000           |
+   | 2        | 20,000               | 95,000            |
+   | 3        | 20,000               | 95,000            |
+   | 4        | 20,000               | 95,000            |
+   | 5        | 20,000               | 95,000            |
+
+   The cash payback period for this investment is **4 years**
+
+3. An analysis of a proposal by the net present value method indicated that the present value of future cash inflows exceeded the amount to be invested. Which of the following statements best describes the results of this analysis?
+
+   - **The proposal is desirable, and the rate of return expected from the proposal exceeds the minimum rate used for the analysis.**
+
+4. The excess of the cash flowing in from revenues over the cash flowing out for expenses is termed net discounted cash flow.
+
+   - **False**
+
+5. All of the following qualitative considerations may influence capital investment analysis except the investment proposal’s impact on **manufacturing sunk cost**.
+
+6. The process by which management plans, evaluates, and controls investments in fixed assets is called capital investment analysis.
+
+   - **True**
+
+7. All of the following are factors that may complicate capital investment analysis: **federal income tax ramifications**, **changes in price levels**, and **possible leasing alternatives**.
+
+8. Following is a table for the present value of $1 at compound interest:
+
+   | **Year** | **6%** | **10%** | **12%** |
+   | -------- | ------ | ------- | ------- |
+   | 1        | 0.943  | 0.909   | 0.893   |
+   | 2        | 0.890  | 0.826   | 0.797   |
+   | 3        | 0.840  | 0.751   | 0.712   |
+   | 4        | 0.792  | 0.683   | 0.636   |
+   | 5        | 0.747  | 0.621   | 0.567   |
+
+   Following is a table for the present value of an annuity of $1 at compound interest:
+
+   | **Year** | **6%** | **10%** | **12%** |
+   | -------- | ------ | ------- | ------- |
+   | 1        | 0.943  | 0.909   | 0.893   |
+   | 2        | 1.833  | 1.736   | 1.690   |
+   | 3        | 2.673  | 2.487   | 2.402   |
+   | 4        | 3.465  | 3.170   | 3.037   |
+   | 5        | 4.212  | 3.791   | 3.605   |
+
+   Using the tables provided, the present value of \$8,000 to be received 1 year from today, assuming an earnings rate of 12%, is $7144$
+
+9. The management of California Corporation is considering the purchase of a new machine costing \$400,000. The company's desired rate of return is 10%. The present value factors for ​\$1 at compound interest of 10% for 1 through 5 years are 0.909, 0.826, 0.751, 0.683, and 0.621, respectively. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+
+   | **Year** | **Operating Income** | **Net Cash Flow** |
+   | -------- | -------------------- | ----------------- |
+   | 1        | $100,000             | $180,000          |
+   | 2        | 40,000               | 120,000           |
+   | 3        | 20,000               | 100,000           |
+   | 4        | 10,000               | 90,000            |
+   | 5        | 10,000               | 90,000            |
+
+   The present value index for this investment is $1.14$
+
+10. Which of the following provisions of the Internal Revenue Code can be used to reduce the amount of the income tax expense arising from capital investment projects?
+
+    - **depreciation deduction**
+
+11. The management of Wyoming Corporation is considering the purchase of a new machine costing \$375,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+
+    | **Year** | **Operating Income** | **Net Cash Flow** |
+    | -------- | -------------------- | ----------------- |
+    | 1        | $18,750              | $93,750           |
+    | 2        | 18,750               | 93,750            |
+    | 3        | 18,750               | 93,750            |
+    | 4        | 18,750               | 93,750            |
+    | 5        | 18,750               | 93,750            |
+
+    The average rate of return for this investment is $10\%$
+
+12. The **average rate of return** method of analyzing capital investment proposals divides the estimated average annual income by the average investment.
+
+13. The amount of the average investment for a proposed investment of \$120,000 in a fixed asset with a useful life of 4 years, straight-line depreciation, no residual value, and an expected total income of ​\$21,600 for the 4 years is $60000$
+
+14. Tennessee Corporation is analyzing a capital expenditure that will involve a cash outlay of \$109,332. Estimated cash flows are expected to be \$36,000 annually for 4 years. The present value factors for an annuity of \$1 for 4 years at interest of 10%, 12%, 14%, and 15% are 3.170, 3.037, 2.914, and 2.855, respectively. The internal rate of return for this investment is $12\%$
+
+15. Following is a table for the present value of $1 at compound interest:
+
+    | **Year** | **6%** | **10%** | **12%** |
+    | -------- | ------ | ------- | ------- |
+    | 1        | 0.943  | 0.909   | 0.893   |
+    | 2        | 0.890  | 0.826   | 0.797   |
+    | 3        | 0.840  | 0.751   | 0.712   |
+    | 4        | 0.792  | 0.683   | 0.636   |
+    | 5        | 0.747  | 0.621   | 0.567   |
+
+    Following is a table for the present value of an annuity of $1 at compound interest:
+
+    | **Year** | **6%** | **10%** | **12%** |
+    | -------- | ------ | ------- | ------- |
+    | 1        | 0.943  | 0.909   | 0.893   |
+    | 2        | 1.833  | 1.736   | 1.690   |
+    | 3        | 2.673  | 2.487   | 2.402   |
+    | 4        | 3.465  | 3.170   | 3.037   |
+    | 5        | 4.212  | 3.791   | 3.605   |
+
+    Using the tables provided, the present value of \$30,000 to be received 3 years from today, assuming an earnings rate of 6%, is $25200$
+
+16. Which of the following is a method of analyzing capital investment proposals that ignores present value?
+
+    - **average rate of return**
+
+17. Which of the following is *not* an advantage of the average rate of return method?
+
+    - **takes into consideration the time value of money**
+
+18. Following is a table for the present value of $1 at compound interest:
+
+    | **Year** | **6%** | **10%** | **12%** |
+    | -------- | ------ | ------- | ------- |
+    | 1        | 0.943  | 0.909   | 0.893   |
+    | 2        | 0.890  | 0.826   | 0.797   |
+    | 3        | 0.840  | 0.751   | 0.712   |
+    | 4        | 0.792  | 0.683   | 0.636   |
+    | 5        | 0.747  | 0.621   | 0.567   |
+
+    Following is a table for the present value of an annuity of $1 at compound interest:
+
+    | **Year** | **6%** | **10%** | **12%** |
+    | -------- | ------ | ------- | ------- |
+    | 1        | 0.943  | 0.909   | 0.893   |
+    | 2        | 1.833  | 1.736   | 1.690   |
+    | 3        | 2.673  | 2.487   | 2.402   |
+    | 4        | 3.465  | 3.170   | 3.037   |
+    | 5        | 4.212  | 3.791   | 3.605   |
+
+    Using the tables provided, if an investment is made now for \$23,500 that will generate a cash inflow of ​\$8,000 a year for the next 4 years, the net present value of the investment, assuming an earnings rate of 10%, is $1860$
+
+19. The production department is proposing the purchase of an automatic insertion machine. It has identified 3 machines and has asked the accountant to analyze them to determine which of the proposals (if any) meet or exceed the company’s policy of a minimum desired rate of return of 10% using the net present value method. Each of the assets has an estimated useful life of 10 years. The accountant has identified the following data:
+
+    |                                                              | **Machine A** | **Machine B** | **Machine C** |
+    | ------------------------------------------------------------ | ------------- | ------------- | ------------- |
+    | Present value of future cash flows computed using 10% rate of return | $305,000      | $295,000      | $300,000      |
+    | Amount of initial investment                                 | 300,000       | 300,000       | 300,000       |
+
+    Which of the investments are acceptable?
+
+    - **Machines A and C**
