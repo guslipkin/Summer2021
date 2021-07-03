@@ -1266,19 +1266,7 @@
    | 4        | 20,000               | 95,000            |
    | 5        | 20,000               | 95,000            |
 
-   The cash payback period for this investment is **4 years**
-
-2. The management of Charlton Corporation is considering the purchase of a new machine costing \$380,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
-
-   | **Year** | **Operating Income** | **Net Cash Flow** |
-   | -------- | -------------------- | ----------------- |
-   | 1        | $20,000              | $95,000           |
-   | 2        | 20,000               | 95,000            |
-   | 3        | 20,000               | 95,000            |
-   | 4        | 20,000               | 95,000            |
-   | 5        | 20,000               | 95,000            |
-
-   The cash payback period for this investment is **4 years**
+   The cash payback period for this investment is $\frac{380000}{95000}=$**4 years**
 
 3. An analysis of a proposal by the net present value method indicated that the present value of future cash inflows exceeded the amount to be invested. Which of the following statements best describes the results of this analysis?
 
@@ -1316,9 +1304,9 @@
    | 4        | 3.465  | 3.170   | 3.037   |
    | 5        | 4.212  | 3.791   | 3.605   |
 
-   Using the tables provided, the present value of \$8,000 to be received 1 year from today, assuming an earnings rate of 12%, is $7144$
+   Using the tables provided, the present value of \$8,000 to be received 1 year from today, assuming an earnings rate of 12%, is $8000*.893=7144$
 
-9. The management of California Corporation is considering the purchase of a new machine costing \$400,000. The company's desired rate of return is 10%. The present value factors for ​\$1 at compound interest of 10% for 1 through 5 years are 0.909, 0.826, 0.751, 0.683, and 0.621, respectively. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+8. The management of California Corporation is considering the purchase of a new machine costing \$400,000. The company's desired rate of return is 10%. The present value factors for ​\$1 at compound interest of 10% for 1 through 5 years are 0.909, 0.826, 0.751, 0.683, and 0.621, respectively. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
 
    | **Year** | **Operating Income** | **Net Cash Flow** |
    | -------- | -------------------- | ----------------- |
@@ -1328,13 +1316,24 @@
    | 4        | 10,000               | 90,000            |
    | 5        | 10,000               | 90,000            |
 
-   The present value index for this investment is $1.14$
+   The present value index for this investment is
 
-10. Which of the following provisions of the Internal Revenue Code can be used to reduce the amount of the income tax expense arising from capital investment projects?
+   - | Year  | Present Value of $1 at 10% | Net Cash Flow | Present Value of Net Cash Flow |
+     | ----- | -------------------------- | ------------- | ------------------------------ |
+     | 1     | 0.909                      | $180,000      | $163,620                       |
+     | 2     | 0.826                      | 120,000       | 99,120                         |
+     | 3     | 0.751                      | 100,000       | 75,100                         |
+     | 4     | 0.683                      | 90,000        | 61,470                         |
+     | 5     | 0.621                      | 90,000        | 55,890                         |
+     | Total |                            | $580,000      | $473,830                       |
 
-    - **depreciation deduction**
+   ​         $\frac{500000}{473830}=1.14$
 
-11. The management of Wyoming Corporation is considering the purchase of a new machine costing \$375,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
+9. Which of the following provisions of the Internal Revenue Code can be used to reduce the amount of the income tax expense arising from capital investment projects?
+
+   - **depreciation deduction**
+
+10. The management of Wyoming Corporation is considering the purchase of a new machine costing \$375,000. The company's desired rate of return is 6%. The present value factor for an annuity of ​\$1 at interest of 6% for 5 years is 4.212. In addition to the foregoing information, use the following data in determining the acceptability of this investment:
 
     | **Year** | **Operating Income** | **Net Cash Flow** |
     | -------- | -------------------- | ----------------- |
@@ -1344,15 +1343,17 @@
     | 4        | 18,750               | 93,750            |
     | 5        | 18,750               | 93,750            |
 
-    The average rate of return for this investment is $10\%$
+    The average rate of return for this investment is $\frac{18750}{\frac{375000}{2}}=10\%$
 
-12. The **average rate of return** method of analyzing capital investment proposals divides the estimated average annual income by the average investment.
+11. The **average rate of return** method of analyzing capital investment proposals divides the estimated average annual income by the average investment.
 
-13. The amount of the average investment for a proposed investment of \$120,000 in a fixed asset with a useful life of 4 years, straight-line depreciation, no residual value, and an expected total income of ​\$21,600 for the 4 years is $60000$
+12. The amount of the average investment for a proposed investment of \$120,000 in a fixed asset with a useful life of 4 years, straight-line depreciation, no residual value, and an expected total income of ​\$21,600 for the 4 years is $\frac{120000}{2}=60000$
 
-14. Tennessee Corporation is analyzing a capital expenditure that will involve a cash outlay of \$109,332. Estimated cash flows are expected to be \$36,000 annually for 4 years. The present value factors for an annuity of \$1 for 4 years at interest of 10%, 12%, 14%, and 15% are 3.170, 3.037, 2.914, and 2.855, respectively. The internal rate of return for this investment is $12\%$
+13. Tennessee Corporation is analyzing a capital expenditure that will involve a cash outlay of \$109,332. Estimated cash flows are expected to be \$36,000 annually for 4 years. The present value factors for an annuity of \$1 for 4 years at interest of 10%, 12%, 14%, and 15% are 3.170, 3.037, 2.914, and 2.855, respectively. The internal rate of return for this investment is
 
-15. Following is a table for the present value of $1 at compound interest:
+    - $\frac{109332}{36000}=3.037$ **...check problem for interest at rate of return –>** $12\%$
+
+14. Following is a table for the present value of $1 at compound interest:
 
     | **Year** | **6%** | **10%** | **12%** |
     | -------- | ------ | ------- | ------- |
@@ -1372,17 +1373,17 @@
     | 4        | 3.465  | 3.170   | 3.037   |
     | 5        | 4.212  | 3.791   | 3.605   |
 
-    Using the tables provided, the present value of \$30,000 to be received 3 years from today, assuming an earnings rate of 6%, is $25200$
+    Using the tables provided, the present value of \$30,000 to be received 3 years from today, assuming an earnings rate of 6%, is $30000*.830=25200$
 
-16. Which of the following is a method of analyzing capital investment proposals that ignores present value?
+15. Which of the following is a method of analyzing capital investment proposals that ignores present value?
 
     - **average rate of return**
 
-17. Which of the following is *not* an advantage of the average rate of return method?
+16. Which of the following is *not* an advantage of the average rate of return method?
 
     - **takes into consideration the time value of money**
 
-18. Following is a table for the present value of $1 at compound interest:
+17. Following is a table for the present value of $1 at compound interest:
 
     | **Year** | **6%** | **10%** | **12%** |
     | -------- | ------ | ------- | ------- |
@@ -1402,9 +1403,9 @@
     | 4        | 3.465  | 3.170   | 3.037   |
     | 5        | 4.212  | 3.791   | 3.605   |
 
-    Using the tables provided, if an investment is made now for \$23,500 that will generate a cash inflow of ​\$8,000 a year for the next 4 years, the net present value of the investment, assuming an earnings rate of 10%, is $1860$
+    Using the tables provided, if an investment is made now for \$23,500 that will generate a cash inflow of ​\$8,000 a year for the next 4 years, the net present value of the investment, assuming an earnings rate of 10%, is $(8000*3.170)-23500=1860$
 
-19. The production department is proposing the purchase of an automatic insertion machine. It has identified 3 machines and has asked the accountant to analyze them to determine which of the proposals (if any) meet or exceed the company’s policy of a minimum desired rate of return of 10% using the net present value method. Each of the assets has an estimated useful life of 10 years. The accountant has identified the following data:
+18. The production department is proposing the purchase of an automatic insertion machine. It has identified 3 machines and has asked the accountant to analyze them to determine which of the proposals (if any) meet or exceed the company’s policy of a minimum desired rate of return of 10% using the net present value method. Each of the assets has an estimated useful life of 10 years. The accountant has identified the following data:
 
     |                                                              | **Machine A** | **Machine B** | **Machine C** |
     | ------------------------------------------------------------ | ------------- | ------------- | ------------- |
@@ -1413,4 +1414,11 @@
 
     Which of the investments are acceptable?
 
-    - **Machines A and C**
+    - |                                                              | **Machine A**        | **Machine B**         | **Machine C**     |
+      | ------------------------------------------------------------ | -------------------- | --------------------- | ----------------- |
+      | Present value of future cash flows computed using 10% rate of return | $305,000             | $295,000              | $300,000          |
+      | Amount of initial investment                                 | 300,000              | 300,000               | 300,000           |
+      | Net present value                                            | $305000-300000=5000$ | $295000-300000=-5000$ | $300000-300000=0$ |
+
+    ​          **Machines A and C**
+
