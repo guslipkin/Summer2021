@@ -1422,3 +1422,451 @@
 
     ​          **Machines A and C**
 
+# Chapter 27
+
+## Pre-Lecture Videos
+
+1. **Lead time** measures the time interval between when a product enters production (started) and when it is completed (finished).
+2. All of the following are lead time terms and classifications except **operating cycle** time.
+3. If manufacturing processes are organized around a product, the company has a **product-oriented** layout.
+4. The last step in Six Sigma is **control**.
+5. In lean accounting, the journal entry to record all materials and conversion costs includes a debit to **raw and in process inventory**.
+6. Which of the following are examples of nonfinancial performance?
+   - **lead time price quantity variance**, **setup time**, and **value-added ratio**.
+7. Lean manufacturing normally uses nonfinancial measures to help guide **short-term operating performance**.
+8. Activity analysis determines the cost of activities for the purpose of determining the cost of **quality**, **value-added activities**, and **processes**.
+9. A cost of quality report normally includes which of the following?
+   - **Total activity cost for each quality cost classification**, **percent of total quality costs associated with each classification**, and **percent of each quality cost classification to sales**.
+10. A process is a series of activities that converts an input into an output.
+    - **True**
+
+## Mini Quiz
+
+1. Lopez Company incurred an activity cost of $456,000 for inspecting 120,000 units of production. Management determined that the inspecting objectives could be met without inspecting every unit. Therefore, rather than inspecting 120,000 units of production, the inspection activity was limited to 30% of the production. What is the difference in the activity cost per unit on the 120,000 units after the improvement?
+
+   - $\frac{.7*456000}{120000}=2.66$
+
+2. Which of the following is the process used by companies that produce products with high quality, low cost, and fast response availability?
+
+   - **Lean manufacturing**
+
+3. In lean manufacturing, the cell conversion cost rate is calculated as **budgeted conversion cost divided by planned hours of production.**
+
+4. Costs of scrap and rework are classified as **internal failure costs**.
+
+5. Which of the following is not one of the reasons a company would undertake activity analysis?
+
+   - **To determine prevention costs**
+
+6. Which of the following statements regarding lean principles for nonmanufacturing processes is not true?
+
+   - **The goal of lean principles is to maximize the time consumed in a process.**
+
+7. In lean accounting, all of the following are combined accounts except
+
+   - **Finished goods inventory**
+
+8. McPhee Company manufactures rugs in the cutting and assembly process. Rugs are manufactured in 70-rug batch sizes. The cutting time is 14 minutes per rug. The assembly time is 24 minutes per rug. It takes 18 minutes to move a batch of rugs from cutting to assembly. What is the value-added ratio?
+
+   -  $\frac{38}{[(14+24)*(70-1)]+18+38}=1.4\%$
+
+9. All of the following statements regarding traditional manufacturing are true except **traditional manufacturing practices decrease lead time to protect against uncertainty.**
+
+10. Which of the following is not true when applying lean principles to hospital care?
+
+    - **The overall cost of patient care will increase.**
+
+11. The budgeted conversion costs for a just-in-time cell are \$244,720 for 3,800 production hours. Each unit produced by the cell requires 45 minutes of cell process time. During the month, 2,100 units are manufactured in the cell. The estimated materials cost is ​\$50 per unit. What is the journal entry if 2,000 units are completed and placed into finished goods?
+
+    - $(50+[\frac{244720}{3800}*\frac{45}{60}])*2000=196600$
+
+      | Item                         |         |         |
+      | ---------------------------- | ------- | ------- |
+      | Finished Good Inventory      | 196,600 |         |
+      | Raw and In Process Inventory |         | 196,600 |
+
+12. All of the following statements regarding lean manufacturing are true except **lean manufacturing principles increase inventory.**.
+
+13. Sarasota Company manufactures pillows in the cutting and assembly process. Pillows are manufactured in 40-pillow batch sizes. The cutting time is 4 minutes per pillow. The assembly time is 8 minutes per pillow. It takes 10 minutes to move a batch of pillows from cutting to assembly. What is the value-added ratio?
+
+    - $\frac{12}{(4+8)+[(4+8)*(40-1)]+10}=2.4\%$
+
+14. McPhee Company manufactures rugs in the cutting and assembly process. Rugs are manufactured in 70-rug batch sizes. The cutting time is 14 minutes per rug. The assembly time is 24 minutes per rug. It takes 18 minutes to move a batch of rugs from cutting to assembly. What is the value-added lead time?
+
+    - $14+24=38$
+
+## Practice Exercises
+
+### Cost of Quality Report
+
+1. Meagher Solutions Inc. manufactures memory chips for personal computers. An activity analysis was conducted, and the following activity costs were identified with the manufacture and sale of memory chips:
+
+   1. Identify the cost of quality classification for each activity.
+
+      - | Quality Activities               | Activity Cost | Quality Cost Classification |
+        | -------------------------------- | ------------- | --------------------------- |
+        | Correct shipment errors          | $150,000      | **External failure**        |
+        | Disposing of scrap               | 95,000        | **Internal failure**        |
+        | Emergency equipment maintenance  | 125,000       | **Internal failure**        |
+        | Employee training                | 50,000        | **Prevention**              |
+        | Final inspection                 | 80,000        | **Appraisal**               |
+        | Inspecting incoming materials    | 60,000        | **Appraisal**               |
+        | Preventive equipment maintenance | 40,000        | **Prevention**              |
+        | Processing customer returns      | 90,000        | **External failure**        |
+        | Scrap reporting                  | 45,000        | **Internal failure**        |
+        | Supplier development             | 15,000        | **Prevention**              |
+        | Warranty claims                  | 250,000       | **External failure**        |
+        | Total                            | $1,000,000    |                             |
+
+   2. Prepare a cost of quality report. Assume that the sales for the period were \$4,000,000. If required, round percents to one decimal place.
+
+      - | Meagher Solutions Inc.<br />Cost of Quality Report |              |                                 |                                |
+        | -------------------------------------------------- | ------------ | ------------------------------- | ------------------------------ |
+        | Quality Cost Classification                        | Quality Cost | Percent of Total Quality Cost   | Percent of Total Sales         |
+        | Prevention                                         | $105000$     | $\frac{105000}{1000000}=10.5\%$ | $\frac{105000}{4000000}=2.6\%$ |
+        | Appraisal                                          | $140000$     | 14%                             | 3.5%                           |
+        | Internal failure                                   | $265000$     | 26.5%                           | 6.6%                           |
+        | External failure                                   | $490000$     | 49%                             | 12.3%                          |
+        | Total                                              | $1000000$    | 100%                            | 25%                            |
+
+   3. The category with the fewest number of quality activities is **prevention costs** . Nearly fifty percent of the quality activity costs are **external failures** . The highest single cost is warranty claims, which is a(n) **external failure** . Disposing of scrap, emergency equipment maintenance, and scrap reporting are all **internal failures**.
+
+2. A quality control activity analysis indicated the following four activity costs of a hotel:
+
+   | Item                                          | Value    |
+   | --------------------------------------------- | -------- |
+   | Inspecting cleanliness of rooms               | $175,000 |
+   | Processing lost customer reservations         | 40,000   |
+   | Rework incorrectly prepared room service meal | 20,000   |
+   | Employee training                             | 265,000  |
+   | Total                                         | $500,000 |
+
+   Sales are $4,000,000. Prepare a cost of quality report. *Round percent of sales to one decimal place.*
+
+   - | **Cost of Quality Report**  |              |                               |                                |
+     | --------------------------- | ------------ | ----------------------------- | ------------------------------ |
+     | Quality Cost Classification | Quality Cost | Percent of Total Quality Cost | Percent of Total Sales         |
+     | Prevention                  | $265000$     | $\frac{265000}{500000}=53\%$  | $\frac{265000}{4000000}=6.6\%$ |
+     | Appraisal                   | $175000$     | 35%                           | 4.4%                           |
+     | Internal failure            | $20000$      | 4%                            | 0.5%                           |
+     | External failure            | $40000$      | 8%                            | 1.0%                           |
+     | Totals                      | $500000$     | 100%                          | 12.5%                          |
+
+### Lead Time
+
+3. Blues Inc. manufactures jeans in the cutting and sewing process. Jeans are manufactured in 40-jean batch sizes. The cutting time is 5 minutes per jean. The sewing time is 20 minutes per jean. It takes 2 minutes to move a batch of jeans from cutting to sewing.
+   1. Compute the value-added, non-value-added, and total lead time of this process.
+      - Value-added lead time: $5+20=25$
+        Non-value-added lead time: $[(5+20)*(40-1)]+2=977$
+        Total lead time: $25+977=1002$
+   2. Compute the value-added ratio. *Round to one decimal place.*
+      - $\frac{25}{1002}=2.5\%$
+
+### Lean Accounting
+
+4. The annual budgeted conversion costs for a lean cell are \$180,000 for 1,000 production hours. Each unit produced by the cell requires 20 minutes of cell process time. During the month, 600 units are manufactured in the cell. The estimated materials costs are ​\$30 per unit.
+
+   (Do not round per unit cost. If required, round your answers to the nearest dollar.)
+
+   Journalize the following entries for the month:
+
+   1. Materials are purchased to produce 500 units.
+
+      - |                              | Debt           | Credit  |
+        | ---------------------------- | -------------- | ------- |
+        | Raw and In Process Inventory | $30*500=15000$ |         |
+        | Accounts Payable             |                | $15000$ |
+
+   2. Conversion costs are applied to 600 units of production.
+
+      - |                              | Debt                                            | Credit  |
+        | ---------------------------- | ----------------------------------------------- | ------- |
+        | Raw and In Process Inventory | $(\frac{180000}{1000}*\frac{20}{60})*600=36000$ |         |
+        | Conversion Costs             |                                                 | $36000$ |
+
+   3. The cell completes 450 units, which are placed into finished goods.
+
+      - |                              | Debt                | Credit  |
+        | ---------------------------- | ------------------- | ------- |
+        | Finished Goods Inventory     | $(30+60)*450=40500$ |         |
+        | Raw and In Process Inventory |                     | $40500$ |
+
+5. Vintage Audio Inc. manufactures audio speakers. Each speaker requires $48 per unit of direct materials. The speaker manufacturing assembly cell includes the following estimated costs for the period:
+
+   | Speaker assembly cell, estimated costs: |         |
+   | --------------------------------------- | ------- |
+   | Labor                                   | $30,000 |
+   | Depreciation                            | 12,000  |
+   | Supplies                                | 6,000   |
+   | Power                                   | 2,000   |
+   | Total cell costs for the period         | $50,000 |
+
+   The operating plan calls for 800 operating hours for the period. Each speaker requires 24 minutes of cell process time. The unit selling price for each speaker is $90. During the period, the following transactions occurred:
+
+   1) Purchased materials to produce 2,000 speaker units.
+
+   2) Applied conversion costs to production of 1,800 speaker units.
+
+   3) Completed and transferred 1,700 speaker units to finished goods.
+
+   4) Sold 1,600 speaker units.
+
+   There were no inventories at the beginning of the period.
+
+   1. Journalize the summary transactions (1)-(4) for the period. If an amount box does not require an entry, leave it blank.
+
+      - |        |                              |                                                |          |
+        | ------ | ---------------------------- | ---------------------------------------------- | -------- |
+        | 1      | Raw and In Process Inventory | $2000*48=96000$                                |          |
+        |        | Acconuts Payable             |                                                | $96000$  |
+        | 2      | Raw and In Process Inventory | $[\frac{50000}{800}*\frac{24}{60}]*1800=45000$ |          |
+        |        | Conversion Costs             |                                                | $45000$  |
+        | 3      | Finished Goods Inventory     | $(48+25)*1700=124100$                          |          |
+        |        | Raw and In Process Inventory |                                                | $124100$ |
+        | 4 Sale | Accounts Receivable          | $90*1600=144000$                               |          |
+        |        | Sales                        |                                                | $144000$ |
+        | 4 Cost | Cost of Goods Sold           | $(48+25)*1600=116800$                          |          |
+        |        | Finished Goods Inventory     |                                                | $116800$ |
+
+   2. Determine the ending balance of raw and in process inventory and finished goods inventory.
+
+      - Raw and In Process Inventory, ending balance: $[48*(2000-1800)]+[(48+25)*(1800-1700)]=16900$
+
+        Finished Goods Inventory, ending balance: $(48+25)*(1700-1600)=7300$
+
+6. Westgate Inc. uses a lean manufacturing strategy to manufacture DVR (digital video recorder) players. The company manufactures DVR players through a single product cell. The budgeted conversion cost for the year is \$600,000 for 2,000 production hours. Each unit requires 21 minutes of cell process time. During March, 500 DVR players were manufactured in the cell. The materials cost per unit is ​\$60. The following summary transactions took place during March:
+
+   1) Materials were purchased for March production.
+
+   2) Conversion costs were applied to production.
+
+   3) 500 DVR players were assembled and placed in finished goods.
+
+   4) 480 DVR players were sold for $240 per unit.
+
+   1. Determine the budgeted cell conversion cost per hour.
+
+      - $\frac{600000}{2000}=300$
+
+   2. Determine the budgeted cell conversion cost per unit.
+
+      - $\frac{21}{60}*300=105$
+
+   3. Journalize the summary transactions (1)–(4) for March. If an amount box does not require an entry, leave it blank.
+
+      - |        |                              |                      |          |
+        | ------ | ---------------------------- | -------------------- | -------- |
+        | 1      | Raw and In Process Inventory | $500*60=30000$       |          |
+        |        | Acconuts Payable             |                      | $30000$  |
+        | 2      | Raw and In Process Inventory | $500*105=52500$      |          |
+        |        | Conversion Costs             |                      | $52500$  |
+        | 3      | Finished Goods Inventory     | $500*(60+105)=82500$ |          |
+        |        | Raw and In Process Inventory |                      | $82500$  |
+        | 4 Sale | Accounts Receivable          | $480*240=115200$     |          |
+        |        | Sales                        |                      | $115200$ |
+        | 4 Cost | Cost of Goods Sold           | $480*(60+105)=79200$ |          |
+        |        | Finished Goods Inventory     |                      | $79200$  |
+
+### Lean Features
+
+7. Lean Features
+
+   Which of the following are features of a lean manufacturing system?
+
+   1. Smaller batch sizes
+      - **Yes** 
+   2. Centralized maintenance areas
+      - **No** 
+   3. Employee involvement
+      - **Yes** 
+   4. Less wasted movement of material and people
+      - **Yes** 
+
+### Pareto Chart
+
+8. Meagher Solutions Inc. manufactures memory chips for personal computers. An activity analysis was conducted, and the following activity costs were identified with the manufacture and sale of memory chips:
+
+   | **Activities**                   | **Activity Cost** |
+   | -------------------------------- | ----------------- |
+   | Correct shipment errors          | $150,000          |
+   | Disposing of scrap               | 95,000            |
+   | Emergency equipment maintenance  | 125,000           |
+   | Employee training                | 50,000            |
+   | Final inspection                 | 80,000            |
+   | Inspecting incoming materials    | 60,000            |
+   | Preventive equipment maintenance | 40,000            |
+   | Processing customer returns      | 90,000            |
+   | Scrap reporting                  | 45,000            |
+   | Supplier development             | 15,000            |
+   | Warranty claims                  | 250,000           |
+   | Total activity cost              | $1,000,000        |
+
+   Select from the following the correct Pareto chart of these activities.
+
+   - <img src="https://college.cengage.com/geyser/warren_9781337902663/images/ch27/ex27-15_1.jpg" alt="img" style="zoom:75%;" />
+
+### Process Activity Analysis
+
+9. Roen Company incurred an activity cost of \$105,600 for inspecting 40,000 units of production. Management determined that the inspecting objectives could be met without inspecting every unit. Therefore, rather than inspecting 40,000 units of production, the inspection activity was limited to a random selection of 5,000 units out of the 40,000 units of production.
+
+   Determine the inspection activity cost per unit on 40,000 units of total production both before and after the improvement. If required, round per unit amounts to the nearest cent.
+
+   - Inspection activity before improvement: $\frac{105600}{40000}=2.64$
+     Inspection activity after improvement: $\frac{5000*2.64}{40000}=.33$
+
+## Homework Exercises
+
+1. In the lean principles philosophy, unexpected downtime is the result of unreliable processes.
+
+   - **True**
+
+2. Lead time includes both value-added time and non-value-added time.
+
+   - **True**
+
+3. Lean manufacturing favors organizing work around products rather than around processes.
+
+   - **True**
+
+4. In a push manufacturing system, production is based on estimated customer demand.
+
+   - **True**
+
+5. In a lean environment, raw materials are delivered more frequently than in a traditional environment.
+
+   - **True**
+
+6. The cell conversion cost rate is very similar to the predetermined factory overhead rate because both include only factory overhead costs.
+
+   - **False**
+
+7. Lean practices and activity analyses are not suitable for adaptation to service businesses or administrative processes.
+
+   - **False**
+
+8. Which of the following is related to long lead times?
+
+   - **long setup times**, **large batch sizes**, and **large inventories**
+
+9. Under a lean environment, employees have the responsibility and authority to **make decisions about operations, rather than waiting for management**.
+
+10. Actions that transform a traditional manufacturing environment to a lean environment include all of the following *except* **increase raw materials and finished goods inventories**.
+
+11. Sifton Electronics Corporation manufactures and assembles electronic motor drives for video cameras. The company assembles the motor drives for several accounts. The process consists of a lean cell for each customer. The following information relates to only one customer's lean cell for the coming year. For the year, projected labor and overhead was $7,370,000 and materials costs were $28 per unit. Planned production included 4,000 hours to produce 27,500 motor drives. Actual production for August was 1,600 units, and motor drives shipped amounted to 1,380 units. Conversion costs are applied based on units of production
+
+    From the foregoing information, determine the production costs transferred to Finished Goods during August.
+
+    - $(\frac{7370000}{27500}+28)*1600=473600$
+
+12. Which of the following results in fewer transactions in lean accounting?
+
+    - **The distinction between direct and indirect costs is eliminated.**, **All manufacturing costs are combined into one account called Raw and In Process Inventory.**, and **There is less movement of inventory between departments.**
+
+13. Schedule of Activity Costs
+
+    | **Schedule of Activity Costs** |                   |
+    | ------------------------------ | ----------------- |
+    | **Quality Control Activities** | **Activity Cost** |
+    | Process audits                 | $50,000           |
+    | Training of machine operators  | 28,000            |
+    | Processing returned products   | 19,000            |
+    | Scrap processing (disposal)    | 25,000            |
+    | Rework                         | 8,000             |
+    | Preventive maintenance         | 30,000            |
+    | Product design                 | 46,000            |
+    | Warranty work                  | 12,000            |
+    | Finished goods inspection      | 23,000            |
+
+    From the provided schedule of activity costs, determine the value-added costs.
+
+    - $50000+28000+30000+46000+23000=177000$
+
+14. Schedule of Activity Costs
+
+    | **Schedule of Activity Costs** |                   |
+    | ------------------------------ | ----------------- |
+    | **Quality Control Activities** | **Activity Cost** |
+    | Process audits                 | $50,000           |
+    | Training of machine operators  | 28,000            |
+    | Processing returned products   | 19,000            |
+    | Scrap processing (disposal)    | 25,000            |
+    | Rework                         | 8,000             |
+    | Preventive maintenance         | 30,000            |
+    | Product design                 | 46,000            |
+    | Warranty work                  | 12,000            |
+    | Finished goods inspection      | 23,000            |
+
+    From the provided schedule of activity costs, determine the external failure costs.
+
+    - $19000+12000=31000$
+
+### Lean Accounting
+
+15. The annual budgeted conversion costs for a lean cell are \$237,600 for 3,300 production hours. Each unit produced by the cell requires 10 minutes of cell process time. During the month, 3,020 units are manufactured in the cell. The estimated materials costs are ​\$85 per unit.
+
+    (Round the per unit cost to the nearest cent and use in subsequent computations. If required, round your answers to the nearest dollar.)
+
+    Journalize the following entries for the month:
+
+    1. Materials are purchased to produce 3180 units.
+
+       - |                              | Debt             | Credit   |
+         | ---------------------------- | ---------------- | -------- |
+         | Raw and In Process Inventory | $85*3180=270300$ |          |
+         | Accounts Payable             |                  | $270300$ |
+
+    2. Conversion costs are applied to 3020 units of production.
+
+       - |                              | Debt                                             | Credit  |
+         | ---------------------------- | ------------------------------------------------ | ------- |
+         | Raw and In Process Inventory | $(\frac{237600}{3300}*\frac{10}{60})*3020=36240$ |         |
+         | Conversion Costs             |                                                  | $36240$ |
+
+    3. The cell completes 2870 units, which are placed into finished goods.
+
+       - |                              | Debt                                                   | Credit   |
+         | ---------------------------- | ------------------------------------------------------ | -------- |
+         | Finished Goods Inventory     | $[85+(\frac{237600}{3300}*\frac{10}{60})]*2870=278390$ |          |
+         | Raw and In Process Inventory |                                                        | $278390$ |
+
+16. Vintage Audio Inc. manufactures audio speakers. Each speaker requires $100 per unit of direct materials. The speaker manufacturing assembly cell includes the following estimated costs for the period:
+
+    | Speaker assembly cell, estimated costs: |         |
+    | --------------------------------------- | ------- |
+    | Labor                                   | $69,080 |
+    | Depreciation                            | 9,270   |
+    | Supplies                                | 3,370   |
+    | Power                                   | 2,520   |
+    | Total cell costs for the period         | $84,240 |
+
+    The operating plan calls for 180 operating hours for the period. Each speaker requires 10 minutes of cell process time. The unit selling price for each speaker is $271. During the period, the following transactions occurred:
+
+    1) Purchased materials to produce 445 speaker units.
+
+    2) Applied conversion costs to production of 425 speaker units.
+
+    3) Completed and transferred 405 speaker units to finished goods.
+
+    4) Sold 385 speaker units.
+
+    There were no inventories at the beginning of the period.
+
+    1. Journalize the summary transactions (1)-(4) for the period. If an amount box does not require an entry, leave it blank.
+
+       - |        |                              |                                                         |          |
+         | ------ | ---------------------------- | ------------------------------------------------------- | -------- |
+         | 1      | Raw and In Process Inventory | $445*100=44500$                                         |          |
+         |        | Acconuts Payable             |                                                         | $44500$  |
+         | 2      | Raw and In Process Inventory | $[\frac{84240}{180}*\frac{10}{60}]*425=33150$           |          |
+         |        | Conversion Costs             |                                                         | $33150$  |
+         | 3      | Finished Goods Inventory     | $(100*405)+(405*\frac{84240}{180}*\frac{10}{60})=72090$ |          |
+         |        | Raw and In Process Inventory |                                                         | $72090$  |
+         | 4 Sale | Accounts Receivable          | $271*385=104335$                                        |          |
+         |        | Sales                        |                                                         | $104335$ |
+         | 4 Cost | Cost of Goods Sold           | $(100*385)+(385*\frac{84240}{180}*\frac{10}{60})=68530$ |          |
+         |        | Finished Goods Inventory     |                                                         | $68530$  |
+
+    2. Determine the ending balance of raw and in process inventory and finished goods inventory.
+
+       - Raw and In Process Inventory, ending balance: $44500+33150-72090=5560$
+         Finished Goods Inventory, ending balance: $72090-68530=3560$
