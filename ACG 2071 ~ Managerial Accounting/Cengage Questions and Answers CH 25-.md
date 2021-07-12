@@ -1870,3 +1870,145 @@
 
        - Raw and In Process Inventory, ending balance: $44500+33150-72090=5560$
          Finished Goods Inventory, ending balance: $72090-68530=3560$
+
+## Quiz
+
+1. Which of the following is an example of a nonfinancial measure of performance used in lean manufacturing?
+
+   - **number of units scrapped**, **setup time**, and **lead time**
+
+2. Which of the following underlying problems may be hidden by high raw materials, work in process, and finished goods inventory levels?
+
+   - **poor quality**, **unreliable suppliers**, and **machine breakdowns**
+
+3. Conan Electronics Corporation manufactures and assembles electronic motor drives for video cameras. The company assembles the motor drives for several accounts. The process consists of a lean cell for each customer. The following information relates to only one customer's lean cell. For the year, planned labor and overhead was $80,000,000 and materials costs were $25 per unit. Planned production included 9,600 hours to produce 76,800 motor drives. Actual production for the month of August was 5,200 units, and motor drives shipped amounted to 5,040 units. From the foregoing information, determine the cell conversion cost rate for applying conversion costs.
+
+   - $\frac{80000000}{9600}=8333$
+
+4. **Traditional** manufacturing treats suppliers and customers as "arm's-length" independent entities.
+
+5. Which of the following is a value-added activity?
+
+   - **preventative maintenance**
+
+6. Sifton Electronics Corporation manufactures and assembles electronic motor drives for video cameras. The company assembles the motor drives for several accounts. The process consists of a lean cell for each customer. The following information relates to only one customer's lean cell for the coming year. For the year, projected labor and overhead was \$7,370,000 and materials costs were ​\$28 per unit. Planned production included 4,000 hours to produce 27,500 motor drives. Actual production for August was 1,600 units, and motor drives shipped amounted to 1,380 units. Conversion costs are applied based on units of production
+
+   From the foregoing information, determine the production costs transferred to Cost of Goods Sold during August.
+
+   - $(\frac{7370000}{27500}+28)*1380=408480$
+
+7. Which of the following is an example of value-added time?
+
+   - **processing time**
+
+8. The cell conversion cost rate includes which of the following?
+
+   - **only direct labor and factory overhead**
+
+9. Sifton Electronics Corporation manufactures and assembles electronic motor drives for video cameras. The company assembles the motor drives for several accounts. The process consists of a lean cell for each customer. The following information relates to only one customer's lean cell for the coming year. For the year, projected labor and overhead was \$7,370,000 and materials costs were ​\$28 per unit. Planned production included 4,000 hours to produce 27,500 motor drives. Actual production for August was 1,600 units, and motor drives shipped amounted to 1,380 units. Conversion costs are applied based on units of production
+
+   From the foregoing information, determine the production costs transferred to Finished Goods during August.
+
+   - $(\frac{7370000}{27500}+28)*1600=473600$
+
+10. In a lean environment, process problems are more visible than they are in a traditional environment because **process problems cause production to shut down immediately**.
+
+11. Sifton Electronics Corporation manufactures and assembles electronic motor drives for video cameras. The company assembles the motor drives for several accounts. The process consists of a lean cell for each customer. The following information relates to only one customer's lean cell for the coming year. For the year, projected labor and overhead was\$7,370,000 and materials costs were ​\$28 per unit. Planned production included 4,000 hours to produce 27,500 motor drives. Actual production for August was 1,600 units, and motor drives shipped amounted to 1,380 units. Conversion costs are applied based on units of production
+
+    From the foregoing information, determine the manufacturing cost per unit.
+
+    - $\frac{7370000}{27500}+28=296$
+
+12. Lean manufacturing focuses on reducing time, cost, and poor quality in processes.
+
+    - **True**
+
+13. Schedule of Activity Costs
+
+    | **Quality Control Activities** | **Activity Cost** |
+    | ------------------------------ | ----------------- |
+    | Process audits                 | $48,300           |
+    | Training of machine operators  | 26,300            |
+    | Processing returned products   | 17,800            |
+    | Scrap processing (disposal)    | 25,300            |
+    | Rework                         | 8,900             |
+    | Preventative maintenance       | 28,500            |
+    | Product design                 | 45,900            |
+    | Warranty work                  | 9,600             |
+    | Finished goods inspection      | 23,700            |
+
+    From the provided schedule of activity costs, determine the internal failure costs.
+
+    - $25300+8900=34200$
+
+14. Which of the following are prevention costs?
+
+    - **preventative maintenance**, **operator training**, and **design engineering**
+
+15. Which of the following is an objective of lean manufacturing?
+
+    - **eliminating waste**
+
+16. Which of the following is considered non-value-added lead time?
+
+    - **moving from process to process**
+
+17. Squirrel Co. operates in a lean manufacturing environment. For June production, Squirrel purchased 6,000 units of raw materials at $6.00 per unit on account. The journal entry required to record this transaction is
+
+    - |                              | Debt             | Credit  |
+      | ---------------------------- | ---------------- | ------- |
+      | Raw and In Process Inventory | $6000*600=36000$ |         |
+      | Accounts payable             |                  | $36000$ |
+
+18. A customer service department has the following resolution response time data:
+
+    |                       | Average Response Time |
+    | --------------------- | --------------------- |
+    | First contact         | 0.25                  |
+    | Service scheduling    | 0.50                  |
+    | Wait for service      | 24.00                 |
+    | Service               | 1.50                  |
+    | Total resolution time | 26.25                 |
+
+    What is the value-added ratio (rounded to one decimal place) in this process?
+
+    - $\frac{.25+.5+1.5}{26.25}=8.6\%$
+
+19. Schedule of Activity Costs
+
+    | **Quality Control Activities** | **Activity Cost** |
+    | ------------------------------ | ----------------- |
+    | Process audits                 | $50,000           |
+    | Training of machine operators  | 28,000            |
+    | Processing returned products   | 19,000            |
+    | Scrap processing (disposal)    | 25,000            |
+    | Rework                         | 8,000             |
+    | Preventive maintenance         | 30,000            |
+    | Product design                 | 46,000            |
+    | Warranty work                  | 12,000            |
+    | Finished goods inspection      | 23,000            |
+
+    From the provided schedule of activity costs, determine the appraisal costs.
+
+    - $50000+23000=73000$
+
+20. Schedule of Activity Costs
+
+    | **Quality Control Activities** | **Activity Cost** |
+    | ------------------------------ | ----------------- |
+    | Process audits                 | $50,000           |
+    | Training of machine operators  | 28,000            |
+    | Processing returned products   | 19,000            |
+    | Scrap processing (disposal)    | 25,000            |
+    | Rework                         | 8,000             |
+    | Preventive maintenance         | 30,000            |
+    | Product design                 | 46,000            |
+    | Warranty work                  | 12,000            |
+    | Finished goods inspection      | 23,000            |
+
+    From the provided schedule of activity costs, determine the non-value-added costs.
+
+    - $19000+25000+8000+12000=64000$
+
+
+
