@@ -2293,3 +2293,587 @@
        - $\frac{\frac{36000}{2}*30*2\%}{36000}=.3$
 
 ## Homework Exercises
+
+1. Moses Moonrocks Inc. has developed a balanced scorecard with a measure map that suggests that the number of erroneous shipments has a direct effect on operating profit. The company estimates that every shipment error leads to a reduction of revenue by \$7,050 and increased costs of about ​\$4,700.
+
+   | Item                 | Value    |
+   | -------------------- | -------- |
+   | Sales                | $231,000 |
+   | Cost of goods sold   | 149,000  |
+   | Depreciation expense | 17,000   |
+   | Other expenses       | 18,000   |
+
+   If the company has the above budgeted sales and costs for next month (without accounting for any possible shipping errors), determine how many shipping errors the company can afford to have and still break even.
+
+   - Break-even shipping errors: $\frac{231000-149000-17000-18000}{7050+4700}=4$
+
+2. Henry’s Cafe is a local restaurant that is growing quickly. While the company does not yet have a balanced scorecard, Henry has mentioned that being efficient in producing meals is a high priority of his business and appears to be a significant driver of profits. Henry tells you he gathers the following data: sales, cost of labor, employee turnover, labor hours, cost of ingredients, overhead costs, average training hours per employee, number of erroneous meals prepared, the time when orders were made (e.g., at 12:43 pm), the time when orders were delivered, and number of customers per day.
+
+   1. Under which performance perspective on the balanced scorecard should Henry’s strategic objective to efficiently produce meals be placed?
+
+      - **Internal processes**
+
+   2. Identify the performance metrics that the owner should concentrate on to measure the strategic objective of producing efficient meals.
+
+      - **minutes from ordered to delivered**, **labor hours per meal**, **number of erroneous meals prepared per hour**, and **cost of ingredients per meal and the number of meals per hour**.
+
+   3. Identify whether the performance metrics you suggested in part (b) are leading or lagging indicators relative to a performance metric “total cost of production per meal.”
+
+      - | Performance Metric                          | Type of Indicator |
+        | ------------------------------------------- | ----------------- |
+        | Minutes from ordered to delivered           | **Leading**       |
+        | Labor hours per meal                        | **Leading**       |
+        | Number of erroneous meals prepared per hour | **Leading**       |
+        | Cost of ingredients per meal                | **Leading**       |
+        | Number of meals produced per hour           | **Leading**       |
+
+3. Gary’s Gumbo is a locally owned restaurant in Houston, Texas, with eight locations. The owner recently developed a new recipe for the restaurant’s signature gumbo dish. The owner decided to try out the dish in four of the company’s locations. After one month, the owner had gathered the following data:
+
+   |                                                | **Locations** | **with New** | **Gumbo** | **Recipe** |      | **Locations** | **with Old** | **Gumbo** | **Recipe** |
+   | ---------------------------------------------- | ------------- | ------------ | --------- | ---------- | ---- | ------------- | ------------ | --------- | ---------- |
+   | Location #                                     | 1             | 2            | 3         | 4          |      | 5             | 6            | 7         | 8          |
+   | Number of orders                               | 1,253         | 1,386        | 1,495     | 1,377      |      | 1,112         | 1,025        | 1,224     | 997        |
+   | Number of customer complaints (about the dish) | 34            | 36           | 44        | 32         |      | 12            | 9            | 6         | 8          |
+
+   After looking over the data, the owner happily noted that the number of orders of the signature gumbo dish at the locations where the new recipe had been used (locations 1–4) had increased in comparison to the traditional number of orders of the dish (locations 5–8). The owner then decided to implement the new recipe at the rest of the company’s locations.
+
+   1. Identify whether the decision of introducing the new gumbo recipe in all locations is correct.
+      - **The number of orders increased along with complaints so the decision of the company should be reconsidered.**
+   2. Identify the cognitive bias in this situation.
+      - The owner of the company accepted the positive feedback and ignored the negative feedback.
+
+4. Lonnie’s Shipping Co. is considering switching to an all-electric fleet to minimize emissions. Lonnie wants to gradually implement this change over the next 10 years. The company currently has a fleet of 100 trucks, half of which are electric-powered. Upon consulting with Lonnie, you have determined that an appropriate course of action is to include this CSR activity as a strategic objective in the company’s current balanced scorecard.
+
+   1. Under which category of performance perspective can the CSR strategic objective of the company be included?
+      - **Internal process based performance perspective**
+   2. Identify a performance metric for the CSR strategic objective.
+      - **The number of electric-powered trucks in the fleet.**
+   3. Identify an appropriate yearly performance target for the performance metric selected in part (b).
+      - **5% increase is demanded in performance to reach electric fleets for remaining 50 trucks in next ten years.**
+
+5. American Express Company is a major financial services company noted for its American Express® card. Some of the performance measures used by the company on its balanced scorecard are listed below.
+
+   For each measure, identify whether the measure best fits the learning and growth, internal processes, customer, or financial performance perspective of the balanced scorecard.
+
+   - | Performance Metric                   | Performance Perspective |
+     | ------------------------------------ | ----------------------- |
+     | Average card member spending         | **Customer**            |
+     | Number of Internet features          | **Internal processes**  |
+     | Cards in force                       | **Internal processes**  |
+     | Number of merchant signings          | **Customer**            |
+     | Earnings growth                      | **Financial**           |
+     | Number of new card launches          | **Learning and growth** |
+     | Hours of credit consultant training  | **Learning and growth** |
+     | Return on equity                     | **Financial**           |
+     | Investment in information technology | **Learning and growth** |
+     | Revenue growth                       | **Financial**           |
+     | Number of card choices               | **Learning and growth** |
+
+6. Buffalo BBQ Restaurant is trying to become more efficient in training its chefs. It is experimenting with two training programs aimed at this objective. Both programs have basic and advanced training modules. The restaurant has provided the following data regarding the two programs after two weeks of implementation:
+
+   |                            | Training Program A |      |      |      |      |      | Training Program B |      |      |      |      |
+   | -------------------------- | ------------------ | ---- | ---- | ---- | ---- | ---- | ------------------ | ---- | ---- | ---- | ---- |
+   | New chef #                 | 1                  | 2    | 3    | 4    | 5    |      | 6                  | 7    | 8    | 9    | 10   |
+   | Hours of basic training    | 23                 | 23   | 30   | 19   | 21   |      | 26                 | 24   | 30   | 29   | 25   |
+   | Hours of advanced training | 10                 | 8    | 9    | 12   | 13   |      | 5                  | 4    | 0    | 2    | 4    |
+   | Number of chef mistakes    | 10                 | 15   | 15   | 15   | 16   |      | 6                  | 4    | 10   | 4    | 4    |
+
+   1. Compute the following performance metrics for each program:
+
+      - Program A: $\frac{23+23+30+19+21+10+8+9+12+13}{5}=33.6$
+        Program B: $\frac{26+24+30+29+25+5+4+0+2+4}{5}=29.8$
+
+      Average number of mistakes per chef, *rounded to one decimal place*.
+
+      - Program A: $\frac{10+15+15+15+16}{5}=14.2$
+        Program B: $\frac{6+4+10+4+4}{5}=5.6$
+
+   2. Which program should the restaurant implement moving forward?
+
+      - **Program B**
+
+7. The following is the balanced scorecard for Smith Company:<img src="Cengage Questions and Answers CH 25-.assets/ex.28-6.jpg" alt="img" style="zoom:75%;" />
+
+   1. Using the given balanced scorecard, identify the strategic initiatives of the company.
+
+      - **Automated warehousing facility**
+
+      Using the given balanced scorecard, identify the performance perspectives of the company.
+
+      - **Learning and growth perspective**, **customer and internal processes**, and **financial perspectives**.
+
+   2. From the given balanced scorecard, identify the overall strategic objective of the company.
+
+      - **To increase the profitability of the business**
+
+8. Coulson and Company is a large retail business that has a firm-wide balanced scorecard. Recently, management has discussed the need for the balanced scorecard to be more relevant to each individual department of the company. Specifically, management wants to come up with unique scorecards for its Public Relations and Inventory Management departments. For both departments, management recognizes that properly and efficiently training employees is important. For these purposes, management gathers data on the median training hours per employee and new employee performance review ratings. For the Inventory Management Department, management is focused on reducing stockouts (running out of certain inventory items) and keeping accurate inventory counts. For these purposes, the company tracks the number of back orders and discrepancies between the physical and record counts of inventory, respectively. For the Public Relations Department, management is focused on improving the public’s CSR image of the company and attracting new customers. Management measures these objectives using Forbes CSR Rating of Coulson and Company and the number of new customers, respectively.
+
+   1. Identify a name that suits the scorecard of the public relation and inventory management departments.
+
+      - **Cascading scorecard**
+
+   2. Identify the common metrics for both the departments in the new unique scorecards.
+
+      - **Employee training hours and employee performance**
+
+      Identify the unique metrics of inventory management department.
+
+      - **Number of back orders and discrepancies in physical and record counts**
+
+      Identify the unique metrics for the public relations department.
+
+      - **CSR ratings for Forbes and number of new customers**
+
+9. Silver Lining Inc. has a balanced scorecard with a strategy map that shows that delivery time and the number of erroneous shipments are expected to affect the company’s ability to satisfy the customer. Further, the strategy map for the balanced scorecard shows that the hours from ordered to delivered affects the percentage of customers who shop again, and the number of erroneous shipments affects the online customer satisfaction rating. The following information is also available:
+
+   ​	The company’s target hours from ordered to delivered is 20.
+
+   ​	Every hour over the ordered-to-delivered target results in a 0.5% decrease in the percentage of customers who shop again.
+
+   ​	The company’s target number of erroneous shipments per year is no more than 65.
+
+   ​	Every error over the erroneous shipments target results in a 0.05 point decrease in the online customer satisfaction rating and an added future financial loss of $600.
+
+   ​	The company estimates that for every 1% decrease in the percentage of customers who shop again, future profit decreases by $5,000 and market share decreases by 0.3%.
+
+   ​	The company also estimates that for every 1 point decrease in the overall online customer satisfaction rating (on a scale of 1 to 10), future profit decreases by $4,000 and market share decreases by 0.6%.
+
+   Using these estimates, determine how much future profit and future market share will change if:
+
+   ​	Average hours from ordered to shipped is 27.5.
+
+   ​	Average shipping time (hours from shipped to delivered) is 14.3.
+
+   ​	Number of erroneous shipments is 90.
+
+   - Total decrease in future profit: $[([(27.5+14.3)-20]*.1\%)*5000]+([90-65]*600)+[(90-65)*.05*4000]=25450$
+     Total decrease in future market share: $([(27.5+14.3)-20]*.1\%*.3\%)+[(90-65)*.05*.6\%]=1.08\%$
+
+10. ![img](Cengage Questions and Answers CH 25-.assets/pr.28-1a-20210716183432911.jpg)
+
+    1. Using the given balanced scorecard, identify the strategic objectives of the company.
+
+       - **Acquire up-to-date technology**
+
+       Using the given balanced scorecard, identify the performance metrics of the company.
+
+       - **Number of production malfunctions**, **online customer survey rating**, and **average employee tenure**.
+
+    2. Using the given balanced scorecard, identify the statement that explains the strategic map.
+
+       - **Acquiring up-to-date technology reduces employee turnover and production malfunction. This in turn increases the level of satisfaction of the customer and profitability.**
+
+    3. Using the given balanced scorecard, identify the statement that explains the measure map.
+
+       - **Reducing the average age of production machinery and increasing the average employee tenure can reduce the number of production malfunctions**, **Increased average employee tenure decreases the hours from ordered to delivered**, and **Reduction in hours from ordered to delivered increases the online customer survey rating and the market share.**
+
+11. Evaluating employee performance and making strategic decisions are two examples of how managerial accounting information is used.
+
+    - **True**
+
+12. Performance measurement systems are used to assess how well a company is performing toward meeting its own goals and objectives.
+
+    - **True**
+
+13. It is important to gather as many accounting metrics as possible because they have intrinsic value and do not need a context in which to be understood.
+
+    - **False**
+
+14. Material price variances are examples of metrics used for measuring a purchasing department's performance.
+
+    - **False**
+
+15. The balanced scorecard is a marginally effective strategic performance management system.
+
+    - **False**
+
+16. Cassie works at LoftCo, Inc., studying effective ways to retain the company's current customers. The performance measures she gathers include determining the number of customer returns each week. Cassie is focused on the internal processes perspective of the balanced scorecard performance management system.
+
+    - **False**
+
+17. Performance targets may be linked to employee incentives such as bonuses and additional days off.
+
+    - **True**
+
+18. The budgeted income statement and balance sheet are the most important components of a company's strategy map.
+
+    - **False**
+
+19. In the strategic learning process, Carli is trying to understand why the increase in the customer satisfaction rating at her company did not generate the expected increase in sales for the last quarter. It would be logical for her simply to conclude that customer satisfaction has nothing to do with increased sales.
+
+    - **False**
+
+20. Certain corporate social responsibility efforts, such as protecting the environment for future generations, are also referred to as sustainability efforts.
+
+    - **True**
+
+21. Waterfield Company is looking for a way to help its executive managers assess how the three divisions within the company are meeting the company's overall goals and objectives. The company is looking for a(n)
+
+    - **performance measurement system**
+
+22. Waterfield Company has three decentralized segments. Executive managers are looking for a way to measure the performance of each segment. Which of the following metrics might be used for this purpose?
+
+    - **the residual income of each segment**
+
+23. Which of the following is *not* one of the elements of the balanced scorecard?
+
+    - **strategic plan**
+
+24. Juana and Carl are implementing a balanced scorecard for their company, DoItRight Manufacturing. They are considering various performance metrics for assessing progress toward strategic objectives. Which of the following would be a good choice of performance metric for the strategic objective listed?
+
+    - **The strategic objective of delighting the customer is measured by the number of repeat customers.**
+
+25. Strategic learning results **not only by verifying strategic objective expectations but also by adjusting them when expected relationships are not supported by statistical analysis**.
+
+26. Omega Energy Incorporated serves rural communities across the northeast with gas and home heating fuel. All of the following initiatives may be considered a part of the company's CSR efforts *except* **building a new corporate headquarters in order to downsize several regional offices and reduce overhead costs**.
+
+27. Beaver Valley Oil Refinery produces various grades of petroleum products at its refinery operations. All of the following may be considered an initiative undertaken as a part of the company's CSR efforts *except* **providing training to the accounting staff so they better understand FASB requirements for applying accounting standards for financial reporting**.
+
+28. Silver Lining Inc. has a balanced scorecard with a strategy map that shows that delivery time and the number of erroneous shipments are expected to affect the company’s ability to satisfy the customer. Further, the strategy map for the balanced scorecard shows that the hours from ordered to delivered affects the percentage of customers who shop again, and the number of erroneous shipments affects the online customer satisfaction rating. The following information is also available:
+
+    ​	The company’s target hours from ordered to delivered is 30.
+
+    ​	Every hour over the ordered-to-delivered target results in a 0.5% decrease in the percentage of customers who shop again.
+
+    ​	The company’s target number of erroneous shipments per year is no more than 55.
+
+    ​	Every error over the erroneous shipments target results in a 0.05 point decrease in the online customer satisfaction rating and an added future financial loss of $700.
+
+    ​	The company estimates that for every 1% decrease in the percentage of customers who shop again, future profit decreases by $6,000 and market share decreases by 0.3%.
+
+    ​	The company also estimates that for every 1 point decrease in the overall online customer satisfaction rating (on a scale of 1 to 10), future profit decreases by $4,000 and market share decreases by 0.6%.
+
+    Using these estimates, determine how much future profit and future market share will change if:
+
+    ​	Average hours from ordered to shipped is 28.5.
+
+    ​	Average shipping time (hours from shipped to delivered) is 14.3.
+
+    ​	Number of erroneous shipments is 90.
+
+    - $$
+      28.5+14.3=42.8\\
+      
+      42.8-30=12.8\\
+      
+      12.8*.5=6.4=.64\\
+      
+      90-55=35\\
+      
+      35*.05=1.75\\
+      
+      35*700=24500\\
+      
+      .64*6000=3840\\
+      
+      .64*.3=.19\\
+      
+      1.75*4000=7000\\
+      
+      1.75*.6=1.05\\
+      $$
+
+      Total decrease in future profit: $24500+3840+7000=35340$
+
+      Total decrease in future market share: $.19+1.05=1.24$
+
+## Quiz
+
+1. James, an accountant at Forta Company, is preparing a report showing the production shift data for the previous day's production. This report will be shared with the production manager, Julia. This is an example of the role of managerial accounting at work.
+   - **True**
+2. Juana and Carl are reviewing their company's balanced scorecard strategic objectives when they discover a problem. Which of the following is *not* a correct matching of a strategic objective to its performance perspective in their company's BSC?
+   - **The strategic objective in the financial perspective is to reduce shipping errors.**
+3. AnaCarolina and Jaco work at Duke Manufacturing, and they are tasked with determining appropriate performance metrics for the internal processes perspective of Duke's balanced scorecard. Which of the following is the best metric for this situation?
+   - **defective units produced**
+4. Which of the following statements regarding CSR and sustainability reporting is true?
+   - **The triple bottom line approach includes financial, social, and environmental performance components**, **Many corporations use a triple bottom line approach to sustainability reporting**, and **The Global Reporting Initiative is an international organization that develops the use of sustainability reporting standards.**
+5. Nonfinancial performance measures in the balanced scorecard such as customer satisfaction are often **leading indicators** of future financial performance.
+6. Waterfield Company has three decentralized segments. Executive managers are looking for a way to measure the performance of each segment. Which of the following metrics might be used for this purpose?
+   - **the return on investment of each segment**
+7. Performance targets **provide goals for employees**.
+8. The tendency for managers to behave like the performance metrics are the strategic objectives is known as **surrogation**.
+9. Ken and Laura are working toward implementing a balanced scorecard for their company. They ask their production and warehouse teams to provide several options regarding strategic initiatives for the internal processes perspective of the balanced scorecard. Which of the following suggestions made by the employees would be a good choice of a strategic initiative for this purpose?
+   - **automate the warehouse**
+10. Motivated reasoning, surrogation, and common measures bias are three terms describing **cognitive or psychological biases that may impact decision making with the balanced scorecard**.
+11. Carolina, the accountant for Duke Manufacturing, tells Jacob, who works in customer service for Duke, that that their company's customer satisfaction rating predicts sales revenue in dollars. Carolina's comment indicates that the customer satisfaction rating is **a leading indicator**.
+12. A company's balanced scorecard may include **both leading and lagging indicators**.
+13. Metrics that are later in the value chain are normally considered to be **lagging** indicators.
+14. Waterfield Company is looking for a way to help its executive managers assess how the three divisions within the company are meeting the company's overall goals and objectives. The company is looking for a **performance measurement system**.
+15. Alexander and Kristin are executive managers at Safety First Fall Safety Equipment Co. They decide to discontinue gathering data and calculating performance metrics within their organization because the company's balanced scorecard performance metrics have produced several quarters in a row of good news. They assume the positive results will continue. Alexander and Kristin have made this decision as a result of a cognitive bias known as **motivated reasoning**.
+16. Which of the following suggested that management efforts not directly related to increasing profits are similar to "stealing" from a company's shareholders?
+    - **Milton Friedman**
+17. To minimize common measures bias when developing divisional balanced scorecards for unique divisions within a corporation, **one division may focus more heavily on a subset of the four perspectives, for example on learning and growth and internal processes, while other divisions focus on different perspectives, such as customer and financial**.
+18. A measure map is an important aspect of the balanced scorecard performance measurement system. Which of the following describes the role of the measure map?
+    - **The measure map shows the expected relationships among the performance metrics chosen by the organization.**
+19. Which of the following is an example of a strategic performance measurement system?
+    - **balanced scorecard**
+20. Omega Energy Incorporated serves rural communities across the northeast with gas and home heating fuel. All of the following initiatives may be considered a part of the company's CSR efforts *except* **building a new corporate headquarters in order to downsize several regional offices and reduce overhead costs**.
+
+# Chapters 25-28 Exam
+
+## Review
+
+### Average Rate of Return—New Product
+
+1. Hana Inc. is considering an investment in new equipment that will be used to manufacture a smartphone. The phone is expected to generate additional annual sales of 7,200 units at \$172 per unit. The equipment has a cost of \$602,600, residual value of \$45,400, and an 8-year life. The equipment can only be used to manufacture the phone. The cost to manufacture the phone follows:
+
+   | Cost per unit: |                                           |                     |         |
+   | -------------- | ----------------------------------------- | ------------------- | ------- |
+   |                | Direct labor                              | $28.00              |         |
+   |                | Direct materials                          | 109.00              |         |
+   |                | Factory overhead (including depreciation) | 19.25               |         |
+   |                |                                           | Total cost per unit | $156.25 |
+
+   Determine the average rate of return on the equipment. If required, round to the nearest whole percent.
+
+   - $\frac{(172*7200)-(156.25*7200)}{\frac{602600+45400}{2}}=35\%$
+
+### Cash Payback Period for a Service Company
+
+2. Jane’s Clothing Inc. is evaluating two capital investment proposals for a retail outlet, each requiring an investment of \$175,000 and each with an eight-year life and expected total net cash flows of \$280,000. Location 1 is expected to provide equal annual net cash flows of \$35,000, and Location 2 is expected to have the following unequal annual net cash flows:
+
+   | Year   | Value   |
+   | ------ | ------- |
+   | Year 1 | $79,000 |
+   | Year 2 | 60,000  |
+   | Year 3 | 36,000  |
+   | Year 4 | 34,000  |
+   | Year 5 | 25,000  |
+   | Year 6 | 19,000  |
+   | Year 7 | 15,000  |
+   | Year 8 | 12,000  |
+
+   Determine the cash payback period for both location proposals.
+
+   - Location 1: $\frac{175000}{35000}=5$
+     Location 2: $3$
+
+### Compute Lead Time
+
+3. Jackson Fabricators Inc. machines metal parts for the automotive industry. Under the traditional manufacturing approach, the parts are machined through two processes: milling and finishing. Parts are produced in batch sizes of 65 parts. A part requires 4 minutes in milling and 7 minutes in finishing. The move time between the two operations for a complete batch is 8 minutes.
+
+   Under the lean philosophy, the part is produced in a cell that includes both the milling and finishing operations. The operating time is unchanged; however, the batch size is reduced to 3 parts and the move time is eliminated.
+
+   Determine the value-added, non-value-added, and total lead times, and the value-added ratio under the traditional and lean manufacturing methods. If required, round percentages to one decimal place.
+
+   - |                                  | Traditional Philosophy | Lean Manufacturing Philosophy |
+     | -------------------------------- | ---------------------- | ----------------------------- |
+     | Value-added time                 | $4+7=11$               | $4+7=11$                      |
+     | Non-value-added time             | $[11*(65-1)]+8=712$    | $[11*(3-1)]+0=22$             |
+     | Total lead time                  | $11+712=723$           | $11+22=33$                    |
+     | Value-added ratio (as a percent) | $\frac{11}{723}=1.5\%$ | $\frac{11}{33}=33.3$          |
+
+### Decision on Accepting Additional Business
+
+4. Homestead Jeans Co. has an annual plant capacity of 65,000 units, and current production is 45,000 units. Monthly fixed costs are \$54,000, and variable costs are ​\$29 per unit. The present selling price is \$42 per unit. On November 12 of the current year, the company received an offer from Dawkins Company for 18,000 units of the product at ​\$32 each. Dawkins Company will market the units in a foreign country under its own brand name. The additional business is not expected to affect the domestic selling price or quantity of sales of Homestead Jeans Co.
+
+   1. Prepare a differential analysis dated November 12 on whether to reject (Alternative 1) or accept (Alternative 2) the Dawkins order. If an amount is zero, enter "0". If required, use a minus sign to indicate a loss.
+
+      - | Differential Analysis<br />Reject Order (Alt. 1) or Accept Order (Alt. 2)<br />November 12 |                              |                              |                                      |
+        | ------------------------------------------------------------ | ---------------------------- | ---------------------------- | ------------------------------------ |
+        |                                                              | Reject Order (Alternative 1) | Accept Order (Alternative 2) | Differential Effects (Alternative 2) |
+        | Revenues                                                     | $0                           | $18000*32=576000$            | $576000                              |
+        | Costs:                                                       |                              |                              |                                      |
+        | Variable manufacturing costs                                 | 0                            | $18000*29=-522000$           | -522000                              |
+        | Profit (Loss)                                                | $0                           | $576000-522000=54000$        | $54000                               |
+
+   2. Having unused capacity available is **relevant** to this decision. The differential revenue is **more** than the differential cost. Thus, accepting this additional business will result in a net **profit**.
+
+   3. What is the minimum price per unit that would produce a positive contribution margin? *Round your answer to two decimal places.*
+
+      - $29.01$
+        Any selling price above $29 (variable costs per unit) will produce a positive contribution margin.
+
+### Differential Analysis for a Lease or Sell Decision
+
+5. Burlington Construction Company is considering selling excess machinery with a book value of \$281,300 (original cost of ​\$400,600 less accumulated depreciation of \$119,300) for ​\$277,100, less a 5% brokerage commission. Alternatively, the machinery can be leased for a total of \$286,800 for five years, after which it is expected to have no residual value. During the period of the lease, Burlington Construction Company's costs of repairs, insurance, and property tax expenses are expected to be ​\$26,300.
+
+   1. Prepare a differential analysis dated January 15 to determine whether Burlington Construction Company should lease (Alternative 1) or sell (Alternative 2) the machinery. If required, use a minus sign to indicate a loss.
+
+      - | Differential Analysis<br />Lease (Alt. 1) or Sell (Alt. 2) Machinery<br />January 15 |                                 |                                |                                      |
+        | ------------------------------------------------------------ | ------------------------------- | ------------------------------ | ------------------------------------ |
+        |                                                              | Lease Machinery (Alternative 1) | Sell Machinery (Alternative 2) | Differential Effects (Alternative 2) |
+        | Revenues                                                     | $286,800$                       | $277,100$                      | $277100-286800=-9,700$               |
+        | Costs                                                        | $-26,300$                       | $-13,855$                      | $-13855--26300=12,445$               |
+        | Profit (Loss)                                                | $286800-26300=260,500$          | $277100-13855=263,245$         | $-9700+12445=2745$                   |
+
+   2. On the basis of the data presented, would it be advisable to lease or sell the machinery?
+
+      - **Sell the machinery**
+
+### Lean Accounting
+
+6. Com-Tel Inc. manufactures and assembles two models of smartphones—the Tiger Model and the Lion Model. The process consists of a lean cell for each product. The data that follow concern only the Lion Model lean cell.
+
+   For the year, Com-Tel Inc. budgeted these costs for the Lion Model production cell:
+
+   | Conversion Cost Categories | Budget   |
+   | -------------------------- | -------- |
+   | Labor                      | $228,100 |
+   | Supplies                   | 86,400   |
+   | Utilities                  | 31,100   |
+   | Total                      | $345000  |
+
+   Com-Tel plans 3,600 hours of production for the Lion Model cell for the year. The materials cost is $82 per unit. Each assembly requires 18 minutes of cell assembly time. There was no May 1 inventory for either Raw and In Process Inventory or Finished Goods Inventory.
+
+   The following summary events took place in the Lion Model cell during May:
+
+   ​	Electronic parts were purchased to produce 12,250 Lion Model assemblies in May.
+
+   ​	Conversion costs were applied for 11,650 units of production in May.
+
+   ​	11,420 units were completed and transferred to finished goods in May.
+
+   ​	11,080 units were shipped to customers at a price of $384 per unit.
+
+   If required, round your answers to the nearest cent.
+
+   1. Determine the budgeted cell conversion cost per hour.
+
+      - $\frac{345600}{3600}=96.00$
+
+   2. Determine the budgeted cell conversion cost per unit.
+
+      - $96*\frac{18}{60}=28.80$
+
+   3. Journalize the summary transactions (a) through (d). If an amount box does not require an entry, leave it blank.
+
+      - | Part    | Type                             |                              |             |
+        | ------- | -------------------------------- | ---------------------------- | ----------- |
+        | a.      | **Raw and In Process Inventory** | $12250*82=1,004,500$         |             |
+        |         | **Accounts Payable**             |                              | $1,004,500$ |
+        |         |                                  |                              |             |
+        | b.      | **Raw and In Process Inventory** | $11650*28.80=335,520$        |             |
+        |         | **Conversion Costs**             |                              | $335,520$   |
+        |         |                                  |                              |             |
+        | 3.      | **Finished Goods Inventory**     | $11420*(82+28.80)=1,265,336$ |             |
+        |         | **Raw and In Process Inventory** |                              | $1,265,336$ |
+        |         |                                  |                              |             |
+        | 4. Sale | **Accounts Receivable**          | $11080*384=4,254,720$        |             |
+        |         | **Sales**                        |                              | $4,254,720$ |
+        |         |                                  |                              |             |
+        | 4. Cost | **Cost of Goods Sold**           | $11080*(82+28.80)=1,227,664$ |             |
+        |         | **Finished Goods Inventory**     |                              | $1,227,664$ |
+
+   4. Determine the ending balance in Raw and In Process Inventory and Finished Goods Inventory.
+
+      - Raw and In Process Inventory: $1004500+335520-1265336=74684$
+        Finished Goods Inventory: $1265336-1227664=37672$
+
+   5. Lean accounting is different from traditional accounting because it is more **simplified** and uses **minimal** control. As a result, the number of transactions are **reduced**. In many lean operations, purchased materials are charged to a **"raw and in process inventory" account**. Direct labor is **included as a conversion cost of the cell**. Often, nonfinancial performance measures, such as **lead time or quality measures** , are used to monitor performance.
+
+### Make-or-Buy Decision for a Service Company
+
+7. The Theater Arts Guild of Dallas (TAG-D) employs five people in its Publication Department. These people lay out pages for pamphlets, brochures, magazines, and other publications for the TAG-D productions. The pages are delivered to an outside company for printing. The company is considering an outside publication service for the layout work. The outside service is quoting a price of $13 per layout page. The budget for the Publication Department for the current year is as follows:
+
+   | Item                  | Value    |
+   | --------------------- | -------- |
+   | Salaries              | $224,000 |
+   | Benefits              | 36,000   |
+   | Supplies              | 21,000   |
+   | Office expenses       | 39,000   |
+   | Office depreciation   | 28,000   |
+   | Computer depreciation | 24,000   |
+   | Total                 | $372,000 |
+
+   The department expects to lay out 24,000 pages for the current year. The Publication Department office space and equipment would be used for future administrative needs, if the department's function were purchased from the outside.
+
+   1. Prepare a differential analysis dated February 22 to determine whether TAG-D should lay out pages internally (Alternative 1) or purchase layout services from the outside (Alternative 2). If an amount is zero, enter "0".
+
+      - | Differential Analysis<br />Lay Out Pages Internally (Alt. 1) or Purchase Layout Services (Alt. 2)<br />February 22 |                                          |                                          |                                      |
+        | ------------------------------------------------------------ | ---------------------------------------- | ---------------------------------------- | ------------------------------------ |
+        |                                                              | Lay Out Pages Internally (Alternative 1) | Purchase Layout Services (Alternative 2) | Differential Effects (Alternative 2) |
+        | Costs:                                                       |                                          |                                          |                                      |
+        | Purchase price of layout work                                | $0$                                      | $24000*13=312000$                        | $312000$                             |
+        | Salaries                                                     | $224000$                                 | $0$                                      | $0-224000=-224000$                   |
+        | Benefits                                                     | $36000$                                  | $0$                                      | $0-36000=-36000$                     |
+        | Supplies                                                     | $21000$                                  | $0$                                      | $0-21000=-21000$                     |
+        | Office expenses                                              | $39000$                                  | $0$                                      | $0-39000=-39000$                     |
+        | Office depreciation                                          |                                          | $0$                                      | $0$                                  |
+        | Computer depreciation                                        |                                          | $0$                                      | $0$                                  |
+        | Total costs                                                  | $224000+36000+21000+39000=320000$        | $312000$                                 | $312000-320000=-8000$                |
+
+   2. The benefit from using an outside service is shown to be **greater** than performing the layout work internally. The fixed costs (depreciation expenses) in the budget are **irrelevant** to the decision. Thus, the work should **be** purchased from the outside on a strictly financial basis.
+
+   3. Before electing to **lay off** the five employees, the TAG-D should consider the **long-run impact** of the decision.
+
+### Net Present Value Method, Internal Rate of Return Method, and Analysis for a Service Company
+
+8. The management of Advanced Alternative Power Inc. is considering two capital investment projects. The estimated net cash flows from each project are as follows:
+
+   | Year | Wind Turbines | Biofuel Equipment |
+   | ---- | ------------- | ----------------- |
+   | 1    | $280,000      | $590,000          |
+   | 2    | 280,000       | 590,000           |
+   | 3    | 280,000       | 590,000           |
+   | 4    | 280,000       | 590,000           |
+
+   The wind turbines require an investment of \$724,920, while the biofuel equipment requires an investment of ​\$1,684,450. No residual value is expected from either project.
+
+   | Present Value of an Annuity of $1 at Compound Interest |        |         |         |         |         |
+   | ------------------------------------------------------ | ------ | ------- | ------- | ------- | ------- |
+   | **Year**                                               | **6%** | **10%** | **12%** | **15%** | **20%** |
+   | 1                                                      | 0.943  | 0.909   | 0.893   | 0.870   | 0.833   |
+   | 2                                                      | 1.833  | 1.736   | 1.690   | 1.626   | 1.528   |
+   | 3                                                      | 2.673  | 2.487   | 2.402   | 2.283   | 2.106   |
+   | 4                                                      | 3.465  | 3.170   | 3.037   | 2.855   | 2.589   |
+   | 5                                                      | 4.212  | 3.791   | 3.605   | 3.353   | 2.991   |
+   | 6                                                      | 4.917  | 4.355   | 4.111   | 3.785   | 3.326   |
+   | 7                                                      | 5.582  | 4.868   | 4.564   | 4.160   | 3.605   |
+   | 8                                                      | 6.210  | 5.335   | 4.968   | 4.487   | 3.837   |
+   | 9                                                      | 6.802  | 5.759   | 5.328   | 4.772   | 4.031   |
+   | 10                                                     | 7.360  | 6.145   | 5.650   | 5.019   | 4.192   |
+
+   1.  
+
+      1. Compute the net present value for each project. Use a rate of 10% and the present value of an annuity of $1 in the table above. If required, use the minus sign to indicate a negative net present value. If required, round to the nearest whole dollar.
+
+         - |                                        | Wind Turbines           | Biofuel Equipment         |
+           | -------------------------------------- | ----------------------- | ------------------------- |
+           | Present value of annual net cash flows | $280000*3.170=887,600$  | $590000*3.170=1,870,300$  |
+           | Less amount to be invested             | $724,920$               | $1,684,450$               |
+           | Net present value                      | $887600-724920=162,680$ | $1870300-1684450=185,850$ |
+
+      2. Compute a present value index for each project. If required, round your answers to two decimal places.
+
+         - |                   | Present Value Index            |
+           | ----------------- | ------------------------------ |
+           | Wind Turbines     | $\frac{887600}{724920}=1.22$   |
+           | Biofuel Equipment | $\frac{1870300}{1684450}=1.11$ |
+
+   2. Determine the internal rate of return for each project by (a) computing a present value factor for an annuity of \$1 and (b) using the present value of an annuity of ​\$1 in the table above. If required, round your present value factor answers to three decimal places and internal rate of return to the nearest whole percent.
+
+      - |                                           | Wind Turbines                 | Biofuel Equipment              |
+        | ----------------------------------------- | ----------------------------- | ------------------------------ |
+        | Present value factor for an annuity of $1 | $\frac{724920}{280000}=2.589$ | $\frac{1684450}{590000}=2.855$ |
+        | Internal rate of return                   | $20$                          | $15$                           |
+
+   3. The net present value, present value index, and internal rate of return all indicate that the **wind turbines** is/are a better financial opportunity compared to the **biofuel equipment** , although both investments meet the minimum return criterion of 10%.
+
+### Performance metrics
+
+9. Apples & Oranges Inc. is trying to become more efficient in shipping goods. It is experimenting with two new shipping procedure initiatives aimed at achieving this strategic objective. The company has provided the following data regarding the two procedures after one month of implementation:
+
+   |                                                 | **Shipping Procedure A** | **Shipping Procedure B** |
+   | ----------------------------------------------- | ------------------------ | ------------------------ |
+   | Number of shipping errors                       | 133                      | 132                      |
+   | Hours from ordered to shipped                   | 15.3                     | 19.2                     |
+   | Shipping time (hours from shipped to delivered) | 6.7                      | 9.5                      |
+   | Pounds of goods shipped                         | 1,330,000                | 660,000                  |
+   | Number of shipments                             | 350                      | 300                      |
+
+   1. Compute the following performance metrics for each program:
+      1. Average number of shipping errors per shipment, *rounded to two decimal places*.
+         - Procedure A: $\frac{133}{350}=.38$
+           Procedure B: $\frac{132}{300}=.44$
+      2. Hours from ordered to delivered, *rounded to one decimal place.*
+         - Procedure A: $15.3+6.7=22.0$
+           Procedure B: $19.2+9.5=28.7$
+      3. Average pounds of goods per shipment.
+         - Procedure A: $\frac{1330000}{350}=3800$
+           Procedure B: $\frac{660000}{300}=2200$
+   2. Which program should the company implement moving forward?
+      - **Procedure A**
+
+## Exam
+
