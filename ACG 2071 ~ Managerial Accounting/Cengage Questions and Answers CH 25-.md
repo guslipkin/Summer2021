@@ -2877,3 +2877,187 @@
 
 ## Exam
 
+1. The management of Advanced Alternative Power Inc. is considering two capital investment projects. The estimated net cash flows from each project are as follows:
+
+   | **Year** | **Wind Turbines** | **Biofuel Equipment** |
+   | -------- | ----------------- | --------------------- |
+   | 1        | $390,000          | $820,000              |
+   | 2        | 390,000           | 820,000               |
+   | 3        | 390,000           | 820,000               |
+   | 4        | 390,000           | 820,000               |
+
+   
+
+   The wind turbines require an investment of \$1,113,450, while the biofuel equipment requires an investment of \$​2,122,980. No residual value is expected from either project.
+
+   | **Present Value of an Annuity of $1 at Compound Interest** |        |         |         |         |         |
+   | ---------------------------------------------------------- | ------ | ------- | ------- | ------- | ------- |
+   | **Year**                                                   | **6%** | **10%** | **12%** | **15%** | **20%** |
+   | 1                                                          | 0.943  | 0.909   | 0.893   | 0.870   | 0.833   |
+   | 2                                                          | 1.833  | 1.736   | 1.690   | 1.626   | 1.528   |
+   | 3                                                          | 2.673  | 2.487   | 2.402   | 2.283   | 2.106   |
+   | 4                                                          | 3.465  | 3.170   | 3.037   | 2.855   | 2.589   |
+   | 5                                                          | 4.212  | 3.791   | 3.605   | 3.353   | 2.991   |
+   | 6                                                          | 4.917  | 4.355   | 4.111   | 3.785   | 3.326   |
+   | 7                                                          | 5.582  | 4.868   | 4.564   | 4.160   | 3.605   |
+   | 8                                                          | 6.210  | 5.335   | 4.968   | 4.487   | 3.837   |
+   | 9                                                          | 6.802  | 5.759   | 5.328   | 4.772   | 4.031   |
+   | 10                                                         | 7.360  | 6.145   | 5.650   | 5.019   | 4.192   |
+
+   1.  
+
+      1. Compute the net present value for each project. Use a rate of 10% and the present value of an annuity of $1 in the table above. If required, use the minus sign to indicate a negative net present value. If required, round to the nearest whole dollar.
+
+         - |                                        | Wind Turbines            | Biofuel Equipment        |
+           | -------------------------------------- | ------------------------ | ------------------------ |
+           | Present value of annual net cash flows | $390000*3.170=1236300$   | $820000*3.170=2599400$   |
+           | Less amount to be invested             | $1113450$                | $2122980$                |
+           | Net present value                      | $1236300-1113450=122850$ | $2599400-2122980=476420$ |
+
+      2. Compute a present value index for each project. If required, round your answers to two decimal places.
+
+         - |                   | Present Value Index            |
+           | ----------------- | ------------------------------ |
+           | Wind Turbines     | $\frac{1236300}{1113450}=1.11$ |
+           | Biofuel Equipment | $\frac{2599400}{2122980}=1.22$ |
+
+   2. Determine the internal rate of return for each project by (a) computing a present value factor for an annuity of \$1 and (b) using the present value of an annuity of \$​1 in the table above. If required, round your present value factor answers to three decimal places and internal rate of return to the nearest whole percent.
+
+      - |                                           | Wind Turbines                  | Biofuel Equipment              |
+        | ----------------------------------------- | ------------------------------ | ------------------------------ |
+        | Present value factor for an annuity of $1 | $\frac{1113450}{390000}=2.855$ | $\frac{2122980}{820000}=2.589$​ |
+        | Internal rate of return                   | $15\%$​                         | $20\%$​                         |
+
+   3. The net present value, present value index, and internal rate of return all indicate that the **biofuel equipment** is/are a better financial opportunity compared to the **wind turbines** , although both investments meet the minimum return criterion of 10%.
+
+2. Hana Inc. is considering an investment in new equipment that will be used to manufacture a smartphone. The phone is expected to generate additional annual sales of 3,700 units at \$282 per unit. The equipment has a cost of \$309,700, residual value of \$23,300, and an 8-year life. The equipment can only be used to manufacture the phone. The cost to manufacture the phone follows:
+
+   | Cost per unit: |                                           |         |
+   | -------------- | ----------------------------------------- | ------- |
+   |                | Direct labor                              | $48.00  |
+   |                | Direct materials                          | 185.00  |
+   |                | Factory overhead (including depreciation) | 31.00   |
+   |                | Total cost per unit                       | $264.00 |
+
+   Determine the average rate of return on the equipment. If required, round to the nearest whole percent.
+
+   - $\frac{(282*3700)-(264*3700)}{\frac{309700+23300}{2}}=40\%$
+
+3. Com-Tel Inc. manufactures and assembles two models of smartphones—the Tiger Model and the Lion Model. The process consists of a lean cell for each product. The data that follow concern only the Lion Model lean cell.
+
+   For the year, Com-Tel Inc. budgeted these costs for the Lion Model production cell:
+
+   | **Conversion Cost Categories** | **Budget** |
+   | ------------------------------ | ---------- |
+   | Labor                          | $50,700    |
+   | Supplies                       | 19,200     |
+   | Utilities                      | 6,900      |
+   | Total                          | $76,800    |
+
+   Com-Tel plans 1,600 hours of production for the Lion Model cell for the year. The materials cost is $41 per unit. Each assembly requires 18 minutes of cell assembly time. There was no May 1 inventory for either Raw and In Process Inventory or Finished Goods Inventory.
+
+   The following summary events took place in the Lion Model cell during May:
+
+   ​	Electronic parts were purchased to produce 5,450 Lion Model assemblies in May.
+
+   ​	Conversion costs were applied for 5,200 units of production in May.
+
+   ​	5,100 units were completed and transferred to finished goods in May.
+
+   ​	4,950 units were shipped to customers at a price of $192 per unit.
+
+   If required, round your answers to the nearest cent.
+
+   1. Determine the budgeted cell conversion cost per hour.
+      - $\frac{76800}{1600}=48$
+      
+   2. Determine the budgeted cell conversion cost per unit.
+      - $\frac{18}{60}*48=14.40$​
+      
+   3. Journalize the summary transactions (a) through (d). If an amount box does not require an entry, leave it blank.
+
+      - | Part    | Type                             |                          |          |
+        | ------- | -------------------------------- | ------------------------ | -------- |
+        | a.      | **Raw and In Process Inventory** | $5450*41=223450$         |          |
+        |         | **Accounts Payable**             |                          | $223450$ |
+        |         |                                  |                          |          |
+        | b.      | **Raw and In Process Inventory** | $5200*14.40=74880$       |          |
+        |         | **Conversion Costs**             |                          | $74880$  |
+        |         |                                  |                          |          |
+        | 3.      | **Finished Goods Inventory**     | $5100*(41+14.40)=282540$ |          |
+        |         | **Raw and In Process Inventory** |                          | $282540$ |
+        |         |                                  |                          |          |
+        | 4. Sale | **Acconuts Receivable**          | $4950*192=950400$        |          |
+        |         | **Sales**                        |                          | $950400$ |
+        |         |                                  |                          |          |
+        | 4. Cost | **Cost of Goods Sold**           | $4950*(41+14.40)=274230$ |          |
+        |         | **Finished Goods Inventory**     |                          | $274230$ |
+
+   4. Determine the ending balance in Raw and In Process Inventory and Finished Goods Inventory.
+
+      - Raw and In Process Inventory: $223450+74880-282540=15790$
+        Finished Goods Inventory: $282540-274230=8310$​
+
+   5. Lean accounting is different from traditional accounting because it is more **simplified** and uses **minimal** control. As a result, the number of transactions are **reduced** . In many lean operations, purchased materials are charged to a **"raw and in process inventory" account** . Direct labor is **included as a conversion cost of the cell** . Often, nonfinancial performance measures, such as **lead time or quality measures** , are used to monitor performance.
+
+4. Jackson Fabricators Inc. machines metal parts for the automotive industry. Under the traditional manufacturing approach, the parts are machined through two processes: milling and finishing. Parts are produced in batch sizes of 75 parts. A part requires 4 minutes in milling and 6 minutes in finishing. The move time between the two operations for a complete batch is 7 minutes.
+
+   Under the lean philosophy, the part is produced in a cell that includes both the milling and finishing operations. The operating time is unchanged; however, the batch size is reduced to 6 parts and the move time is eliminated.
+
+   Determine the value-added, non-value-added, and total lead times, and the value-added ratio under the traditional and lean manufacturing methods. If required, round percentages to one decimal place.
+
+   - |                                  | Traditional Philosophy | Lean Manufacturing Philosophy |
+     | -------------------------------- | ---------------------- | ----------------------------- |
+     | Value-added time                 | $4+6=10$               | $4+6=10$                      |
+     | Non-value-added time             | $[10*(75-1)]+7=747$    | $[10*(6-1)]+0=50$             |
+     | Total lead time                  | $10+747=757$           | $10+50=60$                    |
+     | Value-added ratio (as a percent) | $\frac{10}{757}=1.3\%$​ | $\frac{10}{60}=16.7\%$​        |
+
+5. Burlington Construction Company is considering selling excess machinery with a book value of \$282,000 (original cost of \$​​400,600 less accumulated depreciation of \$118,600) for \$​276,400, less a 5% brokerage commission. Alternatively, the machinery can be leased for a total of \$284,500 for five years, after which it is expected to have no residual value. During the period of the lease, Burlington Construction Company's costs of repairs, insurance, and property tax expenses are expected to be \$26,200.
+
+   1. Prepare a differential analysis dated January 15 to determine whether Burlington Construction Company should lease (Alternative 1) or sell (Alternative 2) the machinery. If required, use a minus sign to indicate a loss.
+
+      - | Differential Analysis<br />Lease (Alt. 1) or Sell (Alt. 2) Machinery<br />January 15 | Lease Machinery<br />Alternative 1 | Sell Machinery<br />Alternative 2 | Differential Effects<br />Alternative 2 |
+        | ------------------------------------------------------------ | ---------------------------------- | --------------------------------- | --------------------------------------- |
+        | Revenues                                                     | $284500$                           | $276400$                          | $276400-284500=-8100$                   |
+        | Costs                                                        | $-26200$                           | $-(276400*5\%)=-13820$            | $-13820--26200=12380$                   |
+        | Profit (Loss)                                                | $284500-26200=258300$              | $276400-13820=262580$             | $-8100+12380=4280$                      |
+
+   2. On the basis of the data presented, would it be advisable to lease or sell the machinery?
+
+      - **Sell the machinery**
+
+6. Apples & Oranges Inc. is trying to become more efficient in shipping goods. It is experimenting with two new shipping procedure initiatives aimed at achieving this strategic objective. The company has provided the following data regarding the two procedures after one month of implementation:
+
+   |                                                 | **Shipping Procedure A** | **Shipping Procedure B** |
+   | ----------------------------------------------- | ------------------------ | ------------------------ |
+   | Number of shipping errors                       | 76                       | 88                       |
+   | Hours from ordered to shipped                   | 15.3                     | 17.2                     |
+   | Shipping time (hours from shipped to delivered) | 6.7                      | 9.5                      |
+   | Pounds of goods shipped                         | 760,000                  | 560,000                  |
+   | Number of shipments                             | 200                      | 200                      |
+
+   1. Compute the following performance metrics for each program:
+
+      - Procedure A: $\frac{76}{200}=.38$​
+        Procedure B: $\frac{88}{200}=.44$
+
+   2. Hours from ordered to delivered, *rounded to one decimal place.*
+
+      - Procedure A: $15.3+6.7=22.0$
+
+        Procedure B: $17.2+9.5=26.7$​
+
+   3. Average pounds of goods per shipment.
+
+      - Procedure A: $\frac{760000}{200}=3800$
+        Procedure B: $\frac{560000}{200}=2800$​
+
+   4. Which program should the company implement moving forward?
+
+      - **Procedure A**
+
+
+
+
+
